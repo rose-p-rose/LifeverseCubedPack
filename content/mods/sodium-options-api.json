@@ -2,7 +2,7 @@
   "name": "Sodium Options API",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

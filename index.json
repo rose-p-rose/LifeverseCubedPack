@@ -617,6 +617,10 @@
       "sha1": "f518f774ba1f0926d44f52527e0872c2c177ffff"
     },
     {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
+    },
+    {
       "path": "content/mods/refurbished-furniture.json",
       "sha1": "12cfab07399933dbfe91087418393c080796f183"
     },
@@ -715,10 +719,6 @@
     {
       "path": "content/mods/sodium-dynamic-lights.json",
       "sha1": "9a47537196cca81c0d7fc9f0d551b4b255128075"
-    },
-    {
-      "path": "content/mods/sodium-options-api.json",
-      "sha1": "536b541d32bbd2e03cc23ac75a5e7f9a1b3fa403"
     },
     {
       "path": "content/mods/sodium.json",
