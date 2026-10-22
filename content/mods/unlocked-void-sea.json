@@ -1,0 +1,23 @@
+{
+  "name": "Unlocked Void Sea  - Aeronautics Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vsv72IJr",
+      "slug": "unlocked-void-sea",
+      "versionId": "tDH37oNY",
+      "versionNumber": "1.1.0",
+      "filename": "unlockedvoidsea-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vsv72IJr/versions/tDH37oNY/unlockedvoidsea-1.1.0.jar",
+      "sha1": "f2733eedfcd93941be5ecba4ba08fcec8494ed68",
+      "sha512": "c4c58119be0396d0e9e6c0765517a25ae47a992af456a2c8d502198f155c821e26fed926bb09a6f10babe2fbe4a980742829eb91ecc9b899bd062adffba0b0a7",
+      "fileSize": 51057
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

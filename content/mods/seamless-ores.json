@@ -1,0 +1,23 @@
+{
+  "name": "Seamless Ores",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "oWpIIBJu",
+      "slug": "seamless-ores",
+      "versionId": "oF8jXewA",
+      "versionNumber": "5.1.0+neoforge",
+      "filename": "seamlessores-neoforge-5.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oWpIIBJu/versions/oF8jXewA/seamlessores-neoforge-5.1.0.jar",
+      "sha1": "573f10d9dc868ffff5bc04a072aea9c23558c440",
+      "sha512": "5e162e2988ecefbc29bb7500de24752c094c6432bc97eb77eae1f5e2b4678e6ede75f8f378cf809eef2b04edfe445403017e5548963cd453198c8a6f1a1f2032",
+      "fileSize": 2172300
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

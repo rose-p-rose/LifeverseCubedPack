@@ -1,0 +1,23 @@
+{
+  "name": "Mandala's GUI - Compats & Fixes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1ISqhkfM",
+      "slug": "mandalas-gui-compats-fixes",
+      "versionId": "bQsxP1a2",
+      "versionNumber": "1.2.1",
+      "filename": "Mandala's GUI - Compats & Fixes 1.2.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/1ISqhkfM/versions/bQsxP1a2/Mandala%27s%20GUI%20-%20Compats%20%26%20Fixes%201.2.1.zip",
+      "sha1": "9867b347496b9c7e20b2db24c046729dfd571a19",
+      "sha512": "e1b0f91ace22f9a948c6d0933686db61b1f226de74663e650a52a083e7a71987a7804a6591d6def6f8d9a0654af0c97b3a332ecbcbde4ee373fec5f73e4494ae",
+      "fileSize": 762735
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

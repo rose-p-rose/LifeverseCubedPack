@@ -1,0 +1,23 @@
+{
+  "name": "Create: Alerted",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "55vbzcdN",
+      "slug": "create-alerted",
+      "versionId": "EqLJKVBE",
+      "versionNumber": "0.2.2",
+      "filename": "CreateAlerted-0.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/55vbzcdN/versions/EqLJKVBE/CreateAlerted-0.2.2.jar",
+      "sha1": "648bb3a37530d1fe93f3b11973d3ac1bf6135276",
+      "sha512": "57c2c244084de1c6f4f43026f1b7f9e7e7af477c11b0b7611fea974d9fea2941c6724346f3e77058a7b592df945e48f1432e0c8dbc5f2a88fb1765dfb8128c19",
+      "fileSize": 320034
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

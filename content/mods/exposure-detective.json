@@ -1,0 +1,23 @@
+{
+  "name": "Exposure: Detective",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rZsQks7N",
+      "slug": "exposure-detective",
+      "versionId": "DVKmsGWI",
+      "versionNumber": "1.0.1",
+      "filename": "ExposureDetective-1.21.1-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rZsQks7N/versions/DVKmsGWI/ExposureDetective-1.21.1-1.0.1.jar",
+      "sha1": "7e35a82a57902571e46aadc64440bfaffd56c435",
+      "sha512": "bda95bac71ff6fa41fa4c9b9f927a6d655e02535f06aae120b6b861fcbede8929ab2866678e6b39c50afb7438699253de5ae20cc0b6698e9bf226ad78b420438",
+      "fileSize": 166950
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

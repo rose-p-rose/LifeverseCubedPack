@@ -1,0 +1,23 @@
+{
+  "name": "Tiny Flowers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "S0Lqneqb",
+      "slug": "tiny-flowers",
+      "versionId": "WDVl3yUg",
+      "versionNumber": "v2.1.0+1.21.1-neoforge",
+      "filename": "tiny_flowers-neoforge-1.21.1-2.1.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/S0Lqneqb/versions/WDVl3yUg/tiny_flowers-neoforge-1.21.1-2.1.0%2B1.21.1.jar",
+      "sha1": "e8f3426478ac4b7fd9e0bb05969f45d5a4711361",
+      "sha512": "3c8a3763cb531458aae2b56427173f4423bc6fb968fe24c76e2e5021954bd95f551cde30219ea1ecbb5e700412da6d316b9170b7f8139aa3d1408accaa151535",
+      "fileSize": 505335
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

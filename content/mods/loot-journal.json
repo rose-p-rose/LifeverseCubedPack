@@ -1,0 +1,23 @@
+{
+  "name": "Loot Journal: Pickup Notifier",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OJ6ZYz5L",
+      "slug": "loot-journal",
+      "versionId": "zyIMDDzM",
+      "versionNumber": "6.2.2",
+      "filename": "loot_journal-neoforge-1.21.1-6.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/zyIMDDzM/loot_journal-neoforge-1.21.1-6.2.2.jar",
+      "sha1": "9f6030dd1f081bc71f24e5c50ff83d58ce8e4cc4",
+      "sha512": "da6be07bebe1f2f38242568a49e13020c4cbead8e563d02d5106110ce3bc34525c2388ce47d36b477db8dcc7661afc38fa9eb243cc42c53737c531e0b5189c77",
+      "fileSize": 304549
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

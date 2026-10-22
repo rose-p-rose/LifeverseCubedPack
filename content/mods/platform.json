@@ -1,0 +1,25 @@
+{
+  "name": "Platform",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "i6fiqm5y",
+      "slug": "platform",
+      "versionId": "m6VuG10s",
+      "versionNumber": "1.4",
+      "filename": "Platform-neoforge-1.21.1-1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/i6fiqm5y/versions/m6VuG10s/Platform-neoforge-1.21.1-1.4.jar",
+      "sha1": "b59ea845e37f8df44df435e93317ce9f19d321a5",
+      "sha512": "28ce396d57bb3ba1f844b4ef5d7269b5617f166eb0282beae898f5b76338dec05e06f610820fe9f1411b7ca09f5dde0a6cce4a5c3223d62f03237f54bed3e1ca",
+      "fileSize": 560265
+    }
+  },
+  "dependents": [
+    "6xwxDTgf"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

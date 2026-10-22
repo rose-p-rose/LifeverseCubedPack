@@ -1,0 +1,23 @@
+{
+  "name": "Mino++",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4QitwNm0",
+      "slug": "minopp",
+      "versionId": "oNb733MS",
+      "versionNumber": "1.4.0+1.21.1+neoforge",
+      "filename": "minopp-1.4.0+1.21.1+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4QitwNm0/versions/oNb733MS/minopp-1.4.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "ed43130754d36fa94dca6fea1e43d5ab039ae8cf",
+      "sha512": "ee2bc51647bea76306e44beac96cb33d64438f5d0af4cf14b617548a4e1fee80a8c98f722373bf6a5a1c24641d8394331a520b675950e6998f227d4928dcd33c",
+      "fileSize": 287211
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Bogged Spawn -> Config",
+	"Enable Bogged Spawn": {
+		"//": "Whether Bogged Spawn is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"chanceSkeletonIsBogged": {
+		"//": "The chance a skeleton that has spawned is of the bogged variant. min: 0, max: 1",
+		"value": 0.1
+	},
+	"onlySpawnBoggedOnSurface": {
+		"//": "When enabled, bogged will only spawn on the surface.",
+		"value": false
+	},
+	"dimensionsToSpawnIn": {
+		"//": "Dimensions in which skeletons can turn into bogged, separated by a comma. Leave empty for every dimension. For example: 'minecraft:overworld,minecraft:the_nether'.",
+		"value": ""
+	},
+	"biomesToSpawnIn": {
+		"//": "Biomes in which skeletons can turn into bogged, separated by a comma. Biome tags work too, starting with a '#'. Leave empty for every biome. For example: 'minecraft:swamp,minecraft:mangrove_swamp'.",
+		"value": ""
+	}
+}

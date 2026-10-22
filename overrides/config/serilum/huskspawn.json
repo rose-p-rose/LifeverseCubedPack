@@ -1,0 +1,23 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Husk Spawn -> Config",
+	"Enable Husk Spawn": {
+		"//": "Whether Husk Spawn is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"chanceZombieIsHusk": {
+		"//": "The chance a zombie that has spawned is of the husk variant. min: 0, max: 1",
+		"value": 0.15
+	},
+	"onlySpawnHusksOnSurface": {
+		"//": "When enabled, husks will only spawn on the surface.",
+		"value": false
+	},
+	"dimensionsToSpawnIn": {
+		"//": "Dimensions in which zombies can turn into husks, separated by a comma. Leave empty for every dimension. For example: 'minecraft:overworld,minecraft:the_nether'.",
+		"value": ""
+	},
+	"biomesToSpawnIn": {
+		"//": "Biomes in which zombies can turn into husks, separated by a comma. Biome tags work too, starting with a '#'. Leave empty for every biome. For example: 'minecraft:desert,#minecraft:is_badlands'.",
+		"value": ""
+	}
+}

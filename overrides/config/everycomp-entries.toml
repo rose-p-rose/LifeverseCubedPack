@@ -1,0 +1,209 @@
+		[types.cake.nomansland]
+			fruit_cake = true
+
+		[types.wood_type.nomansland]
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+			poplar = true
+
+		[types.leaves_type.nomansland]
+			autumnal_oak = true
+			frosted = true
+			pale_cherry = true
+			red_maple = true
+			yellow_birch = true
+			pine = true
+			maple = true
+			walnut = true
+			willow = true
+			apple_fruit = false
+			pear_fruit = false
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+			red_poplar = true
+			orange_poplar = true
+			yellow_poplar = true
+
+		[types.lantern.caverns_and_chasms]
+			cupric_lantern = true
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
+
+		[types.dust_type.create_horse_decimation]
+			horse = true
+
+		[types.metal_type.caverns_and_chasms]
+			silver = true
+			tin = true
+			necromium = true
+
+		[types.metal_type.create]
+			zinc = true
+			brass = true
+
+		[types.metal_type.createutilities]
+			void_steel = true
+
+		[types.gem_type.caverns_and_chasms]
+			spinel = true
+			turquoise = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+			cylindrite = true
+			cassiterite = true
+			rhyolite = true
+
+		[types.stone_type.create]
+			limestone = true
+			asurine = true
+			crimsite = true
+			ochrum = true
+			veridium = true
+			scoria = true
+			scorchia = true
+
+		[types.stone_type.nomansland]
+			silt = true
+			siltstone = true
+
+		[types.stone_type.creaturefeature]
+			carapace = true
+			solar = true
+
+		[types.stone_type.mobtowers]
+			grimstone = true
+
+		[types.crystal_type.creaturefeature]
+			solar = true
+
+		[entries.wood_type.backpacked]
+			backpack_shelf = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.nomansland]
+			bookshelf = true
+			trimmed_planks = true
+
+		[entries.wood_type.refurbished_furniture]
+			cutting_board = true
+			drawer = true
+			storage_cabinet = true
+			table = true
+			mail_box = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			toilet = true
+			storage_jar = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			lattice_fence_gate = true
+			kitchen_cabinetry = true
+			bath = true
+			crate = true
+			desk = true
+			chair = true
+			light_ceiling_fan = true
+			kitchen_storage_cabinet = true
+
+		[entries.wood_type.woodworks]
+			trapped_chest = true
+			boards = true
+			chest = true
+			closet = true
+			beehive = true
+			bookshelf = true
+			chiseled_bookshelf = true
+			trapped_closet = true
+			ladder = true
+
+		[entries.wood_type.vanillabackport]
+			shelf = true
+
+		[entries.leaves_type.refurbished_furniture]
+			hedge = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+
+		[entries.metal_type.create]
+			table_cloth = true
+			tile_slab = true
+			encased_large_cogwheel = true
+			door = true
+			ornate_window = true
+			ladder = true
+			sheet = true
+			ornate_window_pane = true
+			valve_handle = true
+			scaffolding = true
+			shingle_slab = true
+			shingle_stairs = true
+			encased_shaft = true
+			belt_funnel = true
+			encased_cogwheel = true
+			tiles = true
+			funnel = true
+			shingles = true
+			tile_stairs = true
+			casing = true
+
+		[entries.metal_type.minecraft]
+			nugget = true
+
+		[entries.stone_type.create]
+			small_brick_wall = true
+			table_cloth = true
+			cut_wall = true
+			small_bricks = true
+			ladder = true
+			scaffolding = true
+			encased_shaft = true
+			belt_funnel = true
+			cut = true
+			polished_cut = true
+			small_brick_slab = true
+			layered = true
+			cut_brick_wall = true
+			pillar = true
+			cut_stairs = true
+			cut_brick_stairs = true
+			alloy = true
+			encased_large_cogwheel = true
+			door = true
+			cut_brick_slab = true
+			polished_cut_slab = true
+			small_brick_stairs = true
+			cut_bricks = true
+			polished_cut_stairs = true
+			encased_cogwheel = true
+			polished_cut_wall = true
+			bars = true
+			cut_slab = true
+			funnel = true
+			casing = true
+
+		[entries.stone_type.refurbished_furniture]
+			stepping_stones = true

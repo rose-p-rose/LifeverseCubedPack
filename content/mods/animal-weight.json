@@ -1,0 +1,22 @@
+{
+  "name": "Animal  Weights",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1544774",
+      "slug": "animal-weight",
+      "versionId": "8974822",
+      "versionNumber": "animalweights-1.21.1-NeoForge-1.2.1.jar",
+      "filename": "animalweights-1.21.1-NeoForge-1.2.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8974/822/animalweights-1.21.1-NeoForge-1.2.1.jar",
+      "sha1": "1baa1ff796e21ba5177f5968a926d71c391be963",
+      "fileSize": 114387
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

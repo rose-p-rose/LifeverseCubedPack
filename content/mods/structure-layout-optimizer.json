@@ -1,0 +1,23 @@
+{
+  "name": "Structure Layout Optimizer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ayPU0OHc",
+      "slug": "structure-layout-optimizer",
+      "versionId": "eTz03Gfd",
+      "versionNumber": "1.0.12+1.21.1-neoforge",
+      "filename": "structure_layout_optimizer-neoforge-1.0.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ayPU0OHc/versions/eTz03Gfd/structure_layout_optimizer-neoforge-1.0.12.jar",
+      "sha1": "052c31cb9881c04c17d949345539aa8684f474bf",
+      "sha512": "8c38ebd0e221f5bfe887a40ab21caede40cadc90bfc3b8dbbc79888c07faee44d58f12a974f1c5af324c9feceaa2ed04ea62724c6453650c77e1910582914153",
+      "fileSize": 61777
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

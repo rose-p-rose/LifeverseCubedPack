@@ -1,0 +1,23 @@
+{
+  "name": "Iron's Arms 'n Artifice",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yOy4oSzi",
+      "slug": "irons-artifice",
+      "versionId": "Q2dK8Qgh",
+      "versionNumber": "1.21.1-1.1.0",
+      "filename": "irons_artifice-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yOy4oSzi/versions/Q2dK8Qgh/irons_artifice-1.21.1-1.1.0.jar",
+      "sha1": "488c6b3785260bed20b0f61030747e18ed0785bc",
+      "sha512": "c05b1a2d0756fb04214f357e4996372722745fc2cc7c9f590d1ae83c8dd6a9e11335f84f4d0321d82fce3e7600601046b2a2b7b90ecf4a828fbc1deb34a2aaf7",
+      "fileSize": 1569554
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

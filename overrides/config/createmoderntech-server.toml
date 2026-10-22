@@ -1,0 +1,17 @@
+	#.
+	#Stress values
+	[stressValues.v2]
+
+		#.
+		#.
+		#[in Stress Units]
+		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+		[stressValues.v2.impact]
+			pan_z_controller = 1.0
+			volumetric_display = 4.0
+			warp_gate_transponder = 4.0
+			warp_drive = 128.0
+			pitch_controller = 1.0
+			yaw_controller = 1.0
+			pan_x_controller = 1.0
+			warp_amplifier = 8.0

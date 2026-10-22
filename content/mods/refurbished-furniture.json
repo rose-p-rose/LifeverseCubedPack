@@ -1,0 +1,22 @@
+{
+  "name": "MrCrayfish's Furniture Mod: Refurbished",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "897116",
+      "slug": "refurbished-furniture",
+      "versionId": "7473565",
+      "versionNumber": "\nMrCrayfish's Furniture Mod: Refurbished 1.0.22",
+      "filename": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "sha1": "6c209e6b755ff26218efd55aedf2dea49183d29b",
+      "fileSize": 7133477
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

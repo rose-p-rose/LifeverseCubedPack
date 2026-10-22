@@ -1,0 +1,2552 @@
+{
+  "files": [
+    {
+      "path": "content/mods/aeronautics-propeller-blur.json",
+      "sha1": "dece9202a373f249577b47e126a261a5074a806f"
+    },
+    {
+      "path": "content/mods/aeronautics-wind-sound.json",
+      "sha1": "c3cd6c882fcf84b2e242430d46479a46a95bd740"
+    },
+    {
+      "path": "content/mods/aerowear.json",
+      "sha1": "f03cc2426776565f1b42c3261790a4a18c88927b"
+    },
+    {
+      "path": "content/mods/amendments.json",
+      "sha1": "54fdc41d5f5c370bd274f80d642ed7d297121c2b"
+    },
+    {
+      "path": "content/mods/ancient-remnants.json",
+      "sha1": "8d0f483620008a7f1e9fbd3f124e7e39bc22e5fa"
+    },
+    {
+      "path": "content/mods/animal-weight.json",
+      "sha1": "3f4a9e2f7af61622ca7affc1f2bd68fcab8c37b6"
+    },
+    {
+      "path": "content/mods/antique-atlas-4.json",
+      "sha1": "aafd39fd60995b385e8b61abb31ce9292d0813f2"
+    },
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "336513903c9bdd030259b4edc2f6a16c5a2eed09"
+    },
+    {
+      "path": "content/mods/armor-quick-swap.json",
+      "sha1": "610bc0bc848f718267c0959ecf26ac8ac61f1bf7"
+    },
+    {
+      "path": "content/mods/artemis-laboratory-blocks.json",
+      "sha1": "24739d2a5885110d82f2e755349eb99d9fe446dc"
+    },
+    {
+      "path": "content/mods/atmospheric-nether-mod.json",
+      "sha1": "390720282bca5de48272aa794f7ead4e4bdbc148"
+    },
+    {
+      "path": "content/mods/backpacked-world-of-color.json",
+      "sha1": "ae5f7f3894d7e61b4b28cfd4421ce0d90180763a"
+    },
+    {
+      "path": "content/mods/backpacked.json",
+      "sha1": "a50074128926c8843f57f672da1fd6754c246988"
+    },
+    {
+      "path": "content/mods/better-third-person.json",
+      "sha1": "87c9253a608952392a72128319b2d264d01081c1"
+    },
+    {
+      "path": "content/mods/better-tridents.json",
+      "sha1": "0fc0720613e012a917d0ead5962999642f87a031"
+    },
+    {
+      "path": "content/mods/better-trim-tooltips-reborn.json",
+      "sha1": "57860d1c55a4cfa4e4672ff6f1d8c42e6a82e542"
+    },
+    {
+      "path": "content/mods/big-water.json",
+      "sha1": "3b8bf06b32635f0780950160e1107c8aed7215b4"
+    },
+    {
+      "path": "content/mods/biolith.json",
+      "sha1": "222c22379d97a81fb12e9acb7bd49a700a9a0b14"
+    },
+    {
+      "path": "content/mods/blocks-abound.json",
+      "sha1": "a535b433ff4bee6a86620ec355681a89f39a5c83"
+    },
+    {
+      "path": "content/mods/blocks-bogies.json",
+      "sha1": "d43c655f7e73f7007fadfe989f23d4c5073e98ac"
+    },
+    {
+      "path": "content/mods/blueprint.json",
+      "sha1": "cec94c811e3ea9c45c912650be8febbaee43af28"
+    },
+    {
+      "path": "content/mods/brewin-and-chewin.json",
+      "sha1": "6f3ccdf62f236c84f5a86723dc59b411a4960b34"
+    },
+    {
+      "path": "content/mods/brick-and-mortar.json",
+      "sha1": "d151d218df9d9b7a6458f2bb15949f5ace340636"
+    },
+    {
+      "path": "content/mods/catalogue.json",
+      "sha1": "5edc134fc78b8c030c1466b0d82765b53134f871"
+    },
+    {
+      "path": "content/mods/caverns-and-chasms.json",
+      "sha1": "82f508b9dac92201b375151d8cd27b6256a3aafc"
+    },
+    {
+      "path": "content/mods/chat-heads.json",
+      "sha1": "7d2af6fe12f51c1d64c94c92cdcaea55be0e7adc"
+    },
+    {
+      "path": "content/mods/chatheads-figura-support.json",
+      "sha1": "528d23d20d6588a83d168088c69972b024d2fc58"
+    },
+    {
+      "path": "content/mods/cirrus.json",
+      "sha1": "c9b9949d8ca127516b34a6c228f6723c90e2f754"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "af1efa913ad1dab8f57255acc0d7d392412fb9db"
+    },
+    {
+      "path": "content/mods/clumps.json",
+      "sha1": "f0c21a040bf3cf093708b7a1242ac6574e3ab208"
+    },
+    {
+      "path": "content/mods/clutternomore.json",
+      "sha1": "25e5383a35b0a4e0c0d76e99a40d9dbd300badba"
+    },
+    {
+      "path": "content/mods/collective.json",
+      "sha1": "2770724335d768031f37059838f4df7148dafb74"
+    },
+    {
+      "path": "content/mods/configured.json",
+      "sha1": "7d0cb9ead0583838465424c4fed0c2c143741695"
+    },
+    {
+      "path": "content/mods/connector.json",
+      "sha1": "62006cf6a9835a626e95ecda1e093435e363a8c7"
+    },
+    {
+      "path": "content/mods/controlling.json",
+      "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
+    },
+    {
+      "path": "content/mods/cool-rain-reforged.json",
+      "sha1": "54894aebc0f205a883917efd108ee9f504bade46"
+    },
+    {
+      "path": "content/mods/crafting-mats.json",
+      "sha1": "15d7e375a724af1baf083e5feafc52f9aed2cf6d"
+    },
+    {
+      "path": "content/mods/create-aeronautics-burner-fuel.json",
+      "sha1": "877227f3642361c6101f4700c0b1f10850d17593"
+    },
+    {
+      "path": "content/mods/create-aeronautics-encased-fluid-pipes.json",
+      "sha1": "52df440c046590892239f269036f2b4c129e6ef0"
+    },
+    {
+      "path": "content/mods/create-aeronautics-vapor-trails.json",
+      "sha1": "044ce1fb849691e918aea0fe72fa390a325f6940"
+    },
+    {
+      "path": "content/mods/create-aeronautics-x-curios-api-compat.json",
+      "sha1": "298628b2c6fd8be915e3459ed759ef95a660f893"
+    },
+    {
+      "path": "content/mods/create-aeronautics.json",
+      "sha1": "d5c63265164b5b6b53422d32a584be88c282d280"
+    },
+    {
+      "path": "content/mods/create-aeroworks.json",
+      "sha1": "a208e16ae15db7fddc4bb751ea9ba6cae496e383"
+    },
+    {
+      "path": "content/mods/create-alerted.json",
+      "sha1": "56bb1491fbc42a71b939af076ab3e96259a0f375"
+    },
+    {
+      "path": "content/mods/create-backtank-trims.json",
+      "sha1": "c22fff74527a8874038123911664785ddd2cbbf1"
+    },
+    {
+      "path": "content/mods/create-bionics.json",
+      "sha1": "c16d421f3eacf900b3be08cad8cfe7e7584e3204"
+    },
+    {
+      "path": "content/mods/create-cobblestone.json",
+      "sha1": "26989ff391b0689b7ff9256926a33d9a1887cf2a"
+    },
+    {
+      "path": "content/mods/create-estrogen.json",
+      "sha1": "40be749c1a531d1ad3bbfed96cf8da55c581307d"
+    },
+    {
+      "path": "content/mods/create-horse-decimation.json",
+      "sha1": "4735e39fe2fd2b3743fdb65aa0bfa66ec7404812"
+    },
+    {
+      "path": "content/mods/create-hostile-skies.json",
+      "sha1": "4790f26574211f18fc7e7f353f7fbf6a54dd6cd3"
+    },
+    {
+      "path": "content/mods/create-retrimmed.json",
+      "sha1": "0df90127457eebf0ac7204328e953d0780dcad81"
+    },
+    {
+      "path": "content/mods/create-security-program.json",
+      "sha1": "75eeec4b897313f61542efef913c8dba62485cb6"
+    },
+    {
+      "path": "content/mods/create-steam-n-rails-1-21-1.json",
+      "sha1": "143122b53b9e328ba687c01e62e43a1baeb17510"
+    },
+    {
+      "path": "content/mods/create-train-perspective.json",
+      "sha1": "1064ded61b5568afd5fe7a69fc973c745958d372"
+    },
+    {
+      "path": "content/mods/create-utilities-unofficial-port.json",
+      "sha1": "77cded682d5dda81d90f104c98682cb030c6254b"
+    },
+    {
+      "path": "content/mods/create-vertical-chain-conveyors.json",
+      "sha1": "2d598e1af2baa71ae8bdfe825ed7e62e1082ec97"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "9e2c842f1e11309d1c1526e4c64267d63ba3b9dc"
+    },
+    {
+      "path": "content/mods/creature-feature.json",
+      "sha1": "dc4d6d7b0b5c2b3a98a1c164c82e7c0a06db2c46"
+    },
+    {
+      "path": "content/mods/crops-love-rain.json",
+      "sha1": "a1b378e40adb6ed734538046e668e6020e5f8c4d"
+    },
+    {
+      "path": "content/mods/crunchy-crunchy-advancements.json",
+      "sha1": "740f72bd1b3a277c2454abfec12f83a7d16c5712"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "8bcf4b3950eb32a3cf3d26d5e637bae115f8409a"
+    },
+    {
+      "path": "content/mods/cut-through.json",
+      "sha1": "d57f5628fc34c52824a33ed6cb7ecc26386d13b8"
+    },
+    {
+      "path": "content/mods/cynosure.json",
+      "sha1": "01b38e2d926cb9a265b9f5495ea615ea0c14363a"
+    },
+    {
+      "path": "content/mods/data-anchor.json",
+      "sha1": "eb4c62a1dc0d9919d43ab7690089f05356a8adfd"
+    },
+    {
+      "path": "content/mods/death-keeper.json",
+      "sha1": "810400c9ac5a3b6234bd28c1567267166f9a7647"
+    },
+    {
+      "path": "content/mods/durability-tooltip.json",
+      "sha1": "6f9ff5b08af8c022b19221ea41d6f324183b910d"
+    },
+    {
+      "path": "content/mods/easy-anvils.json",
+      "sha1": "931e34216a17ad900d8530e3b3d7ca15b66c25cc"
+    },
+    {
+      "path": "content/mods/easy-mob-spawn-control.json",
+      "sha1": "ea1547cbcbc044e914c9ca6e48747b24c9b6bb27"
+    },
+    {
+      "path": "content/mods/easy-shulker-boxes.json",
+      "sha1": "4419a290606c90a09be25582a820de6472e0f0bc"
+    },
+    {
+      "path": "content/mods/emi-create-schematics.json",
+      "sha1": "1c928f1539b9adf3169e06dff22e5809540ad10f"
+    },
+    {
+      "path": "content/mods/emi.json",
+      "sha1": "cd8cddf7685bf45cc0b9b4aa16e60ace1be1842d"
+    },
+    {
+      "path": "content/mods/entity-model-features.json",
+      "sha1": "1fbf5421e9767cc7d0bef036c70a8b98003bd0fd"
+    },
+    {
+      "path": "content/mods/entitytexturefeatures.json",
+      "sha1": "6955e2a6b9866b12dc3bec5693bf0d165f127999"
+    },
+    {
+      "path": "content/mods/estrogen.json",
+      "sha1": "d19cbe80e1d94548d3ea71c45f2b0d9578aa6513"
+    },
+    {
+      "path": "content/mods/etch-and-copy.json",
+      "sha1": "b7922dd4add049ea1c8e1f6b3c61316d5fd01db8"
+    },
+    {
+      "path": "content/mods/etched.json",
+      "sha1": "585690b53f660829294695ce6a5e5409b3993de9"
+    },
+    {
+      "path": "content/mods/every-compat.json",
+      "sha1": "bf9a65d68f1747430b0df1eec1b7a72a60e29876"
+    },
+    {
+      "path": "content/mods/explosive-enhancement-forge.json",
+      "sha1": "e355c5955a5eaafc61f513371d4af2dd093d9066"
+    },
+    {
+      "path": "content/mods/exposure-catalog.json",
+      "sha1": "6c59ac6216f5706a6e1d4a18c50dfe26620c45aa"
+    },
+    {
+      "path": "content/mods/exposure-detective.json",
+      "sha1": "87a195f57155268460426cc4c5aa541fba7dc487"
+    },
+    {
+      "path": "content/mods/exposure.json",
+      "sha1": "2e9ae48273c4a24b10373a5296a0b21f2c74a9d0"
+    },
+    {
+      "path": "content/mods/fabric-api.json",
+      "sha1": "bf881b0a3d19dbf0d40099c4f715ce0c72373a01"
+    },
+    {
+      "path": "content/mods/farmers-delight.json",
+      "sha1": "58dafde3ad0c32f42ba6b0dab798f71f7e563e13"
+    },
+    {
+      "path": "content/mods/field-guide.json",
+      "sha1": "b2f90e710b5f12779d6fcfa296ed57fbde28a71f"
+    },
+    {
+      "path": "content/mods/figura.json",
+      "sha1": "85b7d99b621dfe1cd47e8c75c9cc85708bd52e33"
+    },
+    {
+      "path": "content/mods/figurity.json",
+      "sha1": "5a87bb0a1effae99d8af2dc4bdc7adefc60fa665"
+    },
+    {
+      "path": "content/mods/flappy-wings.json",
+      "sha1": "fa84048dc236f9c6f95d3bcb4d6c340dcea5df6a"
+    },
+    {
+      "path": "content/mods/forgified-fabric-api.json",
+      "sha1": "7ae9b6ef056d07a2c97b1a730f1957b26826806a"
+    },
+    {
+      "path": "content/mods/fragmentum.json",
+      "sha1": "5340876ab98cfb6909768c03503f58c89fefbc1f"
+    },
+    {
+      "path": "content/mods/framework.json",
+      "sha1": "4c18831a6f9620e8b657ef8d52322df7ae0cb032"
+    },
+    {
+      "path": "content/mods/fusion-connected-textures.json",
+      "sha1": "aa314dd7644866d82749293ca741ae6cc4fa66ec"
+    },
+    {
+      "path": "content/mods/fzzy-config.json",
+      "sha1": "3c7d059cc9bbefedcd39ba0e96e77876703a7fa5"
+    },
+    {
+      "path": "content/mods/gallery.json",
+      "sha1": "3c2929bcbfc87c510d1381878f50e704c5cfdd4e"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "b1bfacf71be273c183c551e20835f81de6bff6e7"
+    },
+    {
+      "path": "content/mods/gems-realm.json",
+      "sha1": "4a936282f611f2e4756e3147e09fe6f60279c91f"
+    },
+    {
+      "path": "content/mods/glows.json",
+      "sha1": "189a6186a56047a379cca17bfd1312faf3a8823b"
+    },
+    {
+      "path": "content/mods/hallmark.json",
+      "sha1": "c2b9e2e969ec185fd510757345f685bd94042319"
+    },
+    {
+      "path": "content/mods/haunted-harvest.json",
+      "sha1": "47f3305b19767e8a1a5e3debae1b527240acea10"
+    },
+    {
+      "path": "content/mods/hi-fi.json",
+      "sha1": "4c4cc63281c04e308961458eaf65030a9bc4fa57"
+    },
+    {
+      "path": "content/mods/horseman.json",
+      "sha1": "76b2605968233b5808d19185ffee1eb9f629a1c8"
+    },
+    {
+      "path": "content/mods/immersive-overlays.json",
+      "sha1": "c38cbd69c11416753d643da5e00c2fb2fdd92f41"
+    },
+    {
+      "path": "content/mods/immersive-paintings.json",
+      "sha1": "aed66b4fb8eba687f65d0ba1d132bb69a839b44e"
+    },
+    {
+      "path": "content/mods/irons-artifice.json",
+      "sha1": "57879c17970d093d680c31dedf0365e1e8511fe9"
+    },
+    {
+      "path": "content/mods/irons-lib.json",
+      "sha1": "db842ca0c4cf97bb28c920973d26c56a04d94667"
+    },
+    {
+      "path": "content/mods/item-descriptions.json",
+      "sha1": "60867547a5c76b319b23ab244366fdc254cf7127"
+    },
+    {
+      "path": "content/mods/jamlib.json",
+      "sha1": "de2bda220bee5652918b7fa74b3a3166d01e71db"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "115527efd6f65d5eaa10233707a138e09aa7699f"
+    },
+    {
+      "path": "content/mods/jeioptimizer.json",
+      "sha1": "e9b6823ae0b04c2932efd90b5e4fd58c74c61e8f"
+    },
+    {
+      "path": "content/mods/just-enough-effect-descriptions-jeed.json",
+      "sha1": "c9b2ce3ff2142663d4b4741514c2477ef4e2571d"
+    },
+    {
+      "path": "content/mods/keybind-atlas.json",
+      "sha1": "41a30495b8855996b653621a169cd3217cd9a843"
+    },
+    {
+      "path": "content/mods/kotlin-for-forge.json",
+      "sha1": "7306dd6b3da2683ccf2a0942e13ec811c54571d5"
+    },
+    {
+      "path": "content/mods/labels.json",
+      "sha1": "1d6d49218c79dcc9e0b1b6057220c90a3eb105a1"
+    },
+    {
+      "path": "content/mods/lets-do-furniture-another-furniture-handcrafted-create-sable.json",
+      "sha1": "bda35c4a65ad171cf355e6ae5f0dfccf57c0fc44"
+    },
+    {
+      "path": "content/mods/lever-drugster.json",
+      "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
+    },
+    {
+      "path": "content/mods/lightspeedre.json",
+      "sha1": "8e75e18003d1629b13b0b5e3e79d48c7b406691d"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/living-wind.json",
+      "sha1": "9f1c58dd179c18cbdcf77d0bcce3995981253550"
+    },
+    {
+      "path": "content/mods/lodestonelib.json",
+      "sha1": "8a81b53852b1188a4107d2adf56172c44297e22c"
+    },
+    {
+      "path": "content/mods/loot-journal.json",
+      "sha1": "bc20d00a084eac1a7a08e5f7638df9ce2dcecb18"
+    },
+    {
+      "path": "content/mods/mannequins.json",
+      "sha1": "05b0dc9a1375989ed697719a9f655f0972548e2a"
+    },
+    {
+      "path": "content/mods/mcqoy.json",
+      "sha1": "1cb0746375239945b73d36f52aef4fa8f037c468"
+    },
+    {
+      "path": "content/mods/mezzconfig.json",
+      "sha1": "e66ffe986c928512ebc1537d1ecae6f41b0f3652"
+    },
+    {
+      "path": "content/mods/midnightlib.json",
+      "sha1": "29150ac3ef3f6033746939f2f5511b6439acf488"
+    },
+    {
+      "path": "content/mods/mini-music-tweaks.json",
+      "sha1": "d1f53705d34fed39e345a2ec93a3bb1cab9c2c72"
+    },
+    {
+      "path": "content/mods/minopp.json",
+      "sha1": "54970bb058bd2c59339a0ca8f7bf863a86a87963"
+    },
+    {
+      "path": "content/mods/modelfix.json",
+      "sha1": "74acae6394062dbdf09ce7d5725bfedc497a9494"
+    },
+    {
+      "path": "content/mods/monsters-in-the-closet.json",
+      "sha1": "a5081e9bfdc66eb633b520f2d4b6d4bef9fb5d14"
+    },
+    {
+      "path": "content/mods/moonlight.json",
+      "sha1": "74b1c43c476a1cf0faf01d86f406c9fe24bc80db"
+    },
+    {
+      "path": "content/mods/mru.json",
+      "sha1": "5d16a0b46e9580a85be32b1276d6608e35b022a5"
+    },
+    {
+      "path": "content/mods/nature-workshop.json",
+      "sha1": "0714675b71c48e3bfa5951332b43c889f4c3c3ba"
+    },
+    {
+      "path": "content/mods/nightosphere.json",
+      "sha1": "4236310489fc498b1a918428cdda216c871f91ed"
+    },
+    {
+      "path": "content/mods/nirvana-mod.json",
+      "sha1": "e059a49d597cf6c195b810c7fb14b312a1d81fad"
+    },
+    {
+      "path": "content/mods/no-mans-delight.json",
+      "sha1": "2ea710f608269ea1f5e06cafef0b06a82643fbef"
+    },
+    {
+      "path": "content/mods/no-mans-land.json",
+      "sha1": "90dd30531b8d6005aa9cac3353a667ee8c9b03dd"
+    },
+    {
+      "path": "content/mods/no-precision-mechanism-junk.json",
+      "sha1": "8b894635e9d043ed80102a81cfbd7a7778f7bbf7"
+    },
+    {
+      "path": "content/mods/notenoughrecipebook.json",
+      "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
+    },
+    {
+      "path": "content/mods/obscure-tooltips.json",
+      "sha1": "4feb8a74160b5a70cea51a214a7c598c09e3b562"
+    },
+    {
+      "path": "content/mods/oelib.json",
+      "sha1": "5ff5d547bb99dcc06ab3e86c9ff5dc9664dcb279"
+    },
+    {
+      "path": "content/mods/one-click-join.json",
+      "sha1": "bd572680c5a27ee26a69b9d337bf8151ca2cf7d8"
+    },
+    {
+      "path": "content/mods/one-enough-item.json",
+      "sha1": "da3b2f7144b8b43f022cd9b2233803b399498405"
+    },
+    {
+      "path": "content/mods/packed-packs.json",
+      "sha1": "5b39deb17fd5f972465dc2d35d6656203c994212"
+    },
+    {
+      "path": "content/mods/packet-fixer.json",
+      "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
+    },
+    {
+      "path": "content/mods/paintersinc.json",
+      "sha1": "7e92a3a1009f3d619ab1fca1f5c87bdb24deaff3"
+    },
+    {
+      "path": "content/mods/particle-core.json",
+      "sha1": "ee02ff00d1b462acce1bc5e46d811d9092068ea1"
+    },
+    {
+      "path": "content/mods/particle-rain.json",
+      "sha1": "dd37639fa1267d04becc8543f916077a587f6bcb"
+    },
+    {
+      "path": "content/mods/particular-reforged.json",
+      "sha1": "9dfe4ee525306389ba9bfcd36a3d87bece6a766d"
+    },
+    {
+      "path": "content/mods/penchant.json",
+      "sha1": "17b14081e4ff4d591911de0cf686a19e95aa7984"
+    },
+    {
+      "path": "content/mods/pillager-caravans.json",
+      "sha1": "8bfb3c444ec557f26dab4506e6c8f7fa926f3a47"
+    },
+    {
+      "path": "content/mods/platform.json",
+      "sha1": "6620c3128cc24d9c8c10d45ea20e970ac3acf95c"
+    },
+    {
+      "path": "content/mods/polymorph.json",
+      "sha1": "6bbed6678ad9526449032f3b8e566367faefd9e7"
+    },
+    {
+      "path": "content/mods/polytone.json",
+      "sha1": "69362a2f331b713080dfad2619f879cd09101008"
+    },
+    {
+      "path": "content/mods/post-it.json",
+      "sha1": "d6594e4523dc442c2d8d1b43c3c7bdddfbf2b772"
+    },
+    {
+      "path": "content/mods/puzzles-lib.json",
+      "sha1": "434399afd862ebf882e77f68dd4a9c70cd772e70"
+    },
+    {
+      "path": "content/mods/reconnectible-chains.json",
+      "sha1": "f518f774ba1f0926d44f52527e0872c2c177ffff"
+    },
+    {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
+    },
+    {
+      "path": "content/mods/refurbished-furniture.json",
+      "sha1": "12cfab07399933dbfe91087418393c080796f183"
+    },
+    {
+      "path": "content/mods/refurbished-more-apps.json",
+      "sha1": "43b71b047909aace299edcabe6a8d0c79591bc59"
+    },
+    {
+      "path": "content/mods/reliable-emi.json",
+      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
+    },
+    {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "ffc0a249e50bc08081afe72dde9c8d415541928f"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "576c756c1deb526068cca348cef31ab7510ed791"
+    },
+    {
+      "path": "content/mods/resourceful-config.json",
+      "sha1": "1910b1ad7c0da3adb5175b38570508d2f9c571fc"
+    },
+    {
+      "path": "content/mods/respawning-animals.json",
+      "sha1": "3e2c73498fb807efac727b49be3e27dad6feda6c"
+    },
+    {
+      "path": "content/mods/rightclickharvest.json",
+      "sha1": "067aaf7e99271281e6c8c952d268c332e88ab296"
+    },
+    {
+      "path": "content/mods/rpg-dialogue.json",
+      "sha1": "55edb57ca3c02bbf3dfe87a2374248db127c6a4d"
+    },
+    {
+      "path": "content/mods/rpg-errands.json",
+      "sha1": "f6fe3f619a248398dd454b66c2a92b3b91466030"
+    },
+    {
+      "path": "content/mods/rpg-villagers.json",
+      "sha1": "29d5d263989a8930ea2a4d114ebc4bc790030276"
+    },
+    {
+      "path": "content/mods/sable-cleanup.json",
+      "sha1": "481b871a288b0245879a5d076ad35a74b0d621d5"
+    },
+    {
+      "path": "content/mods/sable-cool-rain.json",
+      "sha1": "efb9835b44880dac0a5bb9b8606d8fc15093c245"
+    },
+    {
+      "path": "content/mods/sable.json",
+      "sha1": "fbda638981a55c771af29c16d8fe2314f7eeab5e"
+    },
+    {
+      "path": "content/mods/scholar.json",
+      "sha1": "b7362aed58022ab91f0e1a51ac0b1fc74096427f"
+    },
+    {
+      "path": "content/mods/screenshot-to-clipboard.json",
+      "sha1": "3b34218c76e55673c5852c1eb1a35bf5947ee9d6"
+    },
+    {
+      "path": "content/mods/screenshot-viewer.json",
+      "sha1": "ef3ae46a18afbc6ce3202d571b490313f52c6c47"
+    },
+    {
+      "path": "content/mods/seamless-ores.json",
+      "sha1": "a55fc1a9388fc7f7fa78aaf3d602dce90469ca86"
+    },
+    {
+      "path": "content/mods/searchables.json",
+      "sha1": "edb3eb1708af83391dfaf0ac87dad0bf59632069"
+    },
+    {
+      "path": "content/mods/shadow-drop.json",
+      "sha1": "b9d09795931a855038bb6a0416aa15eea1c97328"
+    },
+    {
+      "path": "content/mods/shatterbyte-lib.json",
+      "sha1": "946c8711ab50aabf74ceffd1253ac9350f5f4dbc"
+    },
+    {
+      "path": "content/mods/simple-datapacks.json",
+      "sha1": "7ea8c6a1e7942b8f92a812f8569b504b5c5cc5f9"
+    },
+    {
+      "path": "content/mods/simple-voice-chat.json",
+      "sha1": "39922dcb55643bf7a56184863f01a308360a74fe"
+    },
+    {
+      "path": "content/mods/simulated-diagram-snapshots.json",
+      "sha1": "8896ab83c7c9d8e4cadd799d64fcab3dde1c3510"
+    },
+    {
+      "path": "content/mods/sodium-dynamic-lights.json",
+      "sha1": "9a47537196cca81c0d7fc9f0d551b4b255128075"
+    },
+    {
+      "path": "content/mods/sodium-options-api.json",
+      "sha1": "536b541d32bbd2e03cc23ac75a5e7f9a1b3fa403"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "0c4a7c9d10214296765f13ebc07c52f1fdb80aaa"
+    },
+    {
+      "path": "content/mods/some-assembly-required.json",
+      "sha1": "a938cd8d0aaab4751a91a36e3037b9779cff2c7f"
+    },
+    {
+      "path": "content/mods/sons-of-sins.json",
+      "sha1": "04c2e41d2e97d30b8fedf0364c458841fd486f65"
+    },
+    {
+      "path": "content/mods/sound.json",
+      "sha1": "0aa0b5497c6fdb95de6ec53cad34ba384bf1a9eb"
+    },
+    {
+      "path": "content/mods/spark.json",
+      "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
+    },
+    {
+      "path": "content/mods/spawn-spires.json",
+      "sha1": "5dd06f6e60a723b8e9fd0ad283d174154f967936"
+    },
+    {
+      "path": "content/mods/spyglass-improvements.json",
+      "sha1": "7908e473cbafbbffcc0f92e6cbceab7e730562fc"
+    },
+    {
+      "path": "content/mods/starcatcher.json",
+      "sha1": "6d1bf336091c1b25fd9ecae613c65609c78bab4d"
+    },
+    {
+      "path": "content/mods/starcatchers-delight.json",
+      "sha1": "7bd74e8b812718565633cc4319dbad3c20d53166"
+    },
+    {
+      "path": "content/mods/status-effect-bars-reforged.json",
+      "sha1": "ac2cd8167e902ff0f0e48b2c71669c764a28d4cc"
+    },
+    {
+      "path": "content/mods/stevesrealisticsleep.json",
+      "sha1": "3104075aa1f88a52edf0e616aa514f4ea1fb7ef9"
+    },
+    {
+      "path": "content/mods/stohuns-vanity-collection.json",
+      "sha1": "ccd9065f0b35c21e9744d517e87ab0194a262ba6"
+    },
+    {
+      "path": "content/mods/stone-zone.json",
+      "sha1": "7b998db099ba65e9b0dc8c7e8b9cade269f88f6e"
+    },
+    {
+      "path": "content/mods/structure-generation-improver-sgi-foundations.json",
+      "sha1": "f0d24ffa3ce1ba7058a3400e8a0f584fcba048e5"
+    },
+    {
+      "path": "content/mods/structure-layout-optimizer.json",
+      "sha1": "05b9d1403aa8bbd9a2cf4491d91edb24891ae6af"
+    },
+    {
+      "path": "content/mods/stylish-effects.json",
+      "sha1": "e3d9a91d8c8ca2663785d75e8794bc8441158035"
+    },
+    {
+      "path": "content/mods/supermartijn642s-config-lib.json",
+      "sha1": "0626ddc0bd8bf439221ec6d086232e88a8421427"
+    },
+    {
+      "path": "content/mods/supplementaries.json",
+      "sha1": "e0cb3f7249ef6b2a20450682b2b7235b41647274"
+    },
+    {
+      "path": "content/mods/surveyor.json",
+      "sha1": "ca8c83ffb392d9ae7a319f409aeba0a22709bab6"
+    },
+    {
+      "path": "content/mods/sweety-archaeology.json",
+      "sha1": "f89ac849568c83c8aaa9be0341c6e8e05bdb74a6"
+    },
+    {
+      "path": "content/mods/synesthesia.json",
+      "sha1": "43fcd2310effd7fdcfa6494d003a31463c09c505"
+    },
+    {
+      "path": "content/mods/tiny-flowers.json",
+      "sha1": "4d2f829009e0fa621f2d94ae90b2ef911dd7c739"
+    },
+    {
+      "path": "content/mods/tolerable-creepers.json",
+      "sha1": "c03e71f82159dd00c8b9e5bc3cd0039dc40f24ba"
+    },
+    {
+      "path": "content/mods/touys.json",
+      "sha1": "10d5acc8421a5dcbc1d474f5c8282ec8302c5945"
+    },
+    {
+      "path": "content/mods/unlocked-void-sea.json",
+      "sha1": "4ac128beecbead462ee58e6d4a7ce4d2f045f1bb"
+    },
+    {
+      "path": "content/mods/vanillabackport.json",
+      "sha1": "8bc6002f5b769933c087b2bbfad3bace30276647"
+    },
+    {
+      "path": "content/mods/vanity-aesthetic-armory.json",
+      "sha1": "65701ea5f091ba2cf9448c3cc9146e738c680e42"
+    },
+    {
+      "path": "content/mods/vanity-ancient-tool-variants.json",
+      "sha1": "8f40efe98b6d9ad20be7f7de51a22f8d7d11fec5"
+    },
+    {
+      "path": "content/mods/vanity-colossal-weapons.json",
+      "sha1": "975e42ef89047c226e70d3c85fc3f4b3cd4fb85e"
+    },
+    {
+      "path": "content/mods/vanity-core.json",
+      "sha1": "2532fca518ddcba8c02100e15e43c21f88870ffb"
+    },
+    {
+      "path": "content/mods/vanity-deep-forged.json",
+      "sha1": "4e3945d9cda61626eaf284746ddda91eea966216"
+    },
+    {
+      "path": "content/mods/vanity-ornate-weaponry.json",
+      "sha1": "948367b82e8e29d70f38579d427dda6a34b17e56"
+    },
+    {
+      "path": "content/mods/vanity-statue-decoration.json",
+      "sha1": "a891fc62526970180e19c9b9c8c9d6abd6d99544"
+    },
+    {
+      "path": "content/mods/vb-compat.json",
+      "sha1": "9b4a7d19b2a25f8b1823fb979cab8dbf3108503e"
+    },
+    {
+      "path": "content/mods/veil.json",
+      "sha1": "89fd4a693a805db4849ba7da47cf0e844b73eb8b"
+    },
+    {
+      "path": "content/mods/via-romana.json",
+      "sha1": "45f11d9d91b8418a5b082fb51df86948161c716c"
+    },
+    {
+      "path": "content/mods/wakes-reforged.json",
+      "sha1": "b41bccee9caa9930622aab5f9ab2edf51023e4cf"
+    },
+    {
+      "path": "content/mods/wandering-trader-may-leave.json",
+      "sha1": "b9ace3be7e0697149f997bea6b3c35ccc7a3a1b6"
+    },
+    {
+      "path": "content/mods/wet-backapacks.json",
+      "sha1": "ec06901f23bdcfcae96488130b8854d2ee3a9cee"
+    },
+    {
+      "path": "content/mods/woodworks.json",
+      "sha1": "78bdadf79aed12b3f95688bde42677626e56d1d2"
+    },
+    {
+      "path": "content/mods/yacl.json",
+      "sha1": "7d61e898068fc27103181324b0fcc731fdb914e8"
+    },
+    {
+      "path": "content/mods/ziplines-rezipped.json",
+      "sha1": "1f76591884cc9dcf4cf71eed4d8f4e244e5caa96"
+    },
+    {
+      "path": "content/resourcepacks/fancy-crops.json",
+      "sha1": "06501c004ca05c486ed2f25dcd4f598726bb8a7d"
+    },
+    {
+      "path": "content/resourcepacks/farcrs-better-dirt-modded-compat.json",
+      "sha1": "c0c0980365d84ee81d972194fa4bd880e18338d8"
+    },
+    {
+      "path": "content/resourcepacks/farcrs-better-dirt.json",
+      "sha1": "14f8b4dce1bbf04b73ddfe38f8113cdc89f1fc0f"
+    },
+    {
+      "path": "content/resourcepacks/farcrs-re-crafted.json",
+      "sha1": "1c617d5cfda9957f079b4864563d0d4a54c78600"
+    },
+    {
+      "path": "content/resourcepacks/flat-mans-pebbles.json",
+      "sha1": "0e518653fdee8e9f37e476d1b19b3165a5d6eb2e"
+    },
+    {
+      "path": "content/resourcepacks/fontolith.json",
+      "sha1": "123c0b547486df7d2e09b8d6b864dfe29d7af1bf"
+    },
+    {
+      "path": "content/resourcepacks/mandalas-gui-compats-fixes.json",
+      "sha1": "7b1548b7eaa53d7a225a5de27ae0cca0260809e2"
+    },
+    {
+      "path": "content/resourcepacks/mandalas-gui-dark-mode-curios-api-compat.json",
+      "sha1": "f7aa7314fb7726b2608aebc5b5e0ffac6f8cbde3"
+    },
+    {
+      "path": "content/resourcepacks/mandalas-gui-dark-mode.json",
+      "sha1": "5d25012c250325dafe53847f74049b098ec85522"
+    },
+    {
+      "path": "content/resourcepacks/mandalas-gui-opaque-buttons.json",
+      "sha1": "9be34c935ebde029441d68d826856d5d179eef28"
+    },
+    {
+      "path": "content/resourcepacks/mandalas-gui-vanilla-crosshair.json",
+      "sha1": "568e705f5fc709bb0d2b44029c24e62c4d7fa1c2"
+    },
+    {
+      "path": "content/resourcepacks/mandalize.json",
+      "sha1": "0dbba40934c636be6311192d4a4a361765e290a3"
+    },
+    {
+      "path": "content/resourcepacks/no-mans-bushy-leaves.json",
+      "sha1": "d81f1ce955c54f004dfd7af415c75a6cd745f631"
+    },
+    {
+      "path": "content/resourcepacks/no-mans-saplings.json",
+      "sha1": "8318d6a75816c43d52e9732978877794cb8b1117"
+    },
+    {
+      "path": "content/resourcepacks/seedy-saplings.json",
+      "sha1": "25d6ae3e4c53be1bab79d3d13ead2e8e0130abc8"
+    },
+    {
+      "path": "content/resourcepacks/sunbathing-godrays.json",
+      "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
+    },
+    {
+      "path": "content/resourcepacks/supplementaries-ropes-re-done.json",
+      "sha1": "3102d7cc9c3ade9ff2230d6f5013380a94c05eba"
+    },
+    {
+      "path": "content/resourcepacks/unofficial-mandalas-gui-dark-mode-mod-compatibility.json",
+      "sha1": "d5511dd8a151fccde149ba24f0a941dd0c347d8d"
+    },
+    {
+      "path": "overrides/config/EasyMSC/attributes.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/bans.json",
+      "sha1": "0cb04c7c1120d966774f2eae597d1891a28742ef"
+    },
+    {
+      "path": "overrides/config/EasyMSC/biome_bans.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/biome_spawn_assignments.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/biome_spawns.json",
+      "sha1": "5f687d81a70859b60e5c58b3463bdd1a0a119b19"
+    },
+    {
+      "path": "overrides/config/EasyMSC/despawn.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/dimension_bans.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/dimension_mob_caps.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/dimension_spawn_caps.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/disabled_mob_spawn_types.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/disabled_vanilla_drops.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/EasyMSC/discard_chances.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/drops.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/equipment.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/misc.json",
+      "sha1": "d8c3fc4fe2b7a14c8b88dbc22424f47eefeb8f41"
+    },
+    {
+      "path": "overrides/config/EasyMSC/mob_caps.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/natural_spawn_rates.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/EasyMSC/spawn_caps.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/spawn_data.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/spawn_rates.json",
+      "sha1": "d101fe7c2beae5904a5d0f383cdf67b30cab62a3"
+    },
+    {
+      "path": "overrides/config/EasyMSC/spawn_rule_assignments.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/spawn_rules.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/EasyMSC/structure_spawn_assignments.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/EasyMSC/structure_spawns.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/EasyMSC/world_gen_spawn_rates.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/accessories.json5",
+      "sha1": "dd0b30eec8a3de68c1b9141ec062a6b1c4bc767c"
+    },
+    {
+      "path": "overrides/config/aero_cam_sync-client.toml",
+      "sha1": "347463c9de0e20742ecb9935ea2cf36b7d0ede51"
+    },
+    {
+      "path": "overrides/config/aeronautics-server.toml",
+      "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
+    },
+    {
+      "path": "overrides/config/aeronautics_delivery_quests.toml",
+      "sha1": "d98804633778350f1f77d38e786330cdedb9c257"
+    },
+    {
+      "path": "overrides/config/aeronautics_windsound-client.toml",
+      "sha1": "7d5404a1f11aefdcda9b067d8dd2e3468b835662"
+    },
+    {
+      "path": "overrides/config/aeronauticsdiscovery-common.toml",
+      "sha1": "97795c38bdfd56302c1ec0f75a6b360f187e4a24"
+    },
+    {
+      "path": "overrides/config/aeronauticsdiscovery-server.toml",
+      "sha1": "35e4409cc3917b2b9f01de7b9d6bb6472d4474d3"
+    },
+    {
+      "path": "overrides/config/aeroworks-client.toml",
+      "sha1": "75a0e65c73f4ee26a82aa1ae6aa606009db5e419"
+    },
+    {
+      "path": "overrides/config/aeroworks-common.toml",
+      "sha1": "4c5cae33aa3dc393302de80bd3cd34af120fe57a"
+    },
+    {
+      "path": "overrides/config/amendments-client.toml",
+      "sha1": "92bb0c0921cf7659e9cab694ae65abe72170b700"
+    },
+    {
+      "path": "overrides/config/amendments-common.toml",
+      "sha1": "cecfc06a422c5d778f6d190d6f4a63bb6699d5f0"
+    },
+    {
+      "path": "overrides/config/analogleverdrag-client.toml",
+      "sha1": "0b515a7671056864ed449a17413054e7bd9493ac"
+    },
+    {
+      "path": "overrides/config/analogleverdrag-common.toml",
+      "sha1": "5fe495ac01b1758faedd842bf9ab5faee1070ed5"
+    },
+    {
+      "path": "overrides/config/animaldiets.json",
+      "sha1": "c61355a4bc92381534885c00d0291044dc75922b"
+    },
+    {
+      "path": "overrides/config/animalweights.json",
+      "sha1": "38e840c8113d3f52968f217b36da088a4f126396"
+    },
+    {
+      "path": "overrides/config/antique-atlas.toml",
+      "sha1": "ebdf130b251cd11840e980334dd5e92cba8f8a8d"
+    },
+    {
+      "path": "overrides/config/appleskin-client.toml",
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
+    },
+    {
+      "path": "overrides/config/axiom/.axiom.json.backup",
+      "sha1": "bbe364d39b62a0bd31151bcaa1c91252d7f5066f"
+    },
+    {
+      "path": "overrides/config/axiom/axiom.json",
+      "sha1": "bbe364d39b62a0bd31151bcaa1c91252d7f5066f"
+    },
+    {
+      "path": "overrides/config/backpacked.augments.toml",
+      "sha1": "cc1ca20b3efa68f949abd9d77131bb81e47bbcea"
+    },
+    {
+      "path": "overrides/config/backpacked.backpack.toml",
+      "sha1": "e587991867b9e9efb9c0f88dc36336c3e0f32158"
+    },
+    {
+      "path": "overrides/config/backpacked.client.toml",
+      "sha1": "09207a52c53858581ba6e1ca2e68e8fa92720aa0"
+    },
+    {
+      "path": "overrides/config/backpacked.pickpocketing.toml",
+      "sha1": "e1f1e3ed76d4e92899f74f8117bcf2f64503db49"
+    },
+    {
+      "path": "overrides/config/backpacked.wandering_trader.toml",
+      "sha1": "0a26e08565cdb8b3659ad2a62201cf3b18fbd51b"
+    },
+    {
+      "path": "overrides/config/betterarcheology.jsonc",
+      "sha1": "db57becebb8023fd418a9f5d6d4bb9b216ab0e5b"
+    },
+    {
+      "path": "overrides/config/betterthirdperson-common.toml",
+      "sha1": "1da6da7104fb73756956730440cc348fb14710ec"
+    },
+    {
+      "path": "overrides/config/bettertridents-common.toml",
+      "sha1": "c13602bbc49ee55b610d967c38cd611cbcbd103c"
+    },
+    {
+      "path": "overrides/config/bettertridents-server.toml",
+      "sha1": "440630bad597e32a173b2bc6df9c2c19c81a74e8"
+    },
+    {
+      "path": "overrides/config/bigwater-client.toml",
+      "sha1": "2814c98eb0f943ec6bee79bfafa23a6ab9837021"
+    },
+    {
+      "path": "overrides/config/biomepalette-common.toml",
+      "sha1": "016045abb834034ebe77a3fd48e339bf37ba6629"
+    },
+    {
+      "path": "overrides/config/blueprint-client.toml",
+      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6"
+    },
+    {
+      "path": "overrides/config/blueprint-common.toml",
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
+    },
+    {
+      "path": "overrides/config/brewinandchewin-client.toml",
+      "sha1": "62b2b3a8bf25d7996d7086617260d64ad6e4023e"
+    },
+    {
+      "path": "overrides/config/brewinandchewin-common.toml",
+      "sha1": "d3cdcff5e5ffa9e385c0fc735b6c298c4386c400"
+    },
+    {
+      "path": "overrides/config/brick_and_mortar.json",
+      "sha1": "cdfa96297b1ef9db255932ac50b2c17a8d8f065b"
+    },
+    {
+      "path": "overrides/config/catalogue.properties",
+      "sha1": "a99bf37688346845f00c2b27bd6961b6513c5140"
+    },
+    {
+      "path": "overrides/config/catalogue_favourites.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/caverns_and_chasms-client.toml",
+      "sha1": "7c404a68c27b98e64652ce8cc233884b534af3ca"
+    },
+    {
+      "path": "overrides/config/caverns_and_chasms-common.toml",
+      "sha1": "0b031419dc83d65b50154c71d017090a2b368480"
+    },
+    {
+      "path": "overrides/config/chat_heads.json5",
+      "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f"
+    },
+    {
+      "path": "overrides/config/cirrus-client.json",
+      "sha1": "da22d4129eb1edb66a3825473c5715cf4e0c7cd9"
+    },
+    {
+      "path": "overrides/config/clutternomore/client.toml",
+      "sha1": "58b29b464324f8e8f8d951062f984d29067de122"
+    },
+    {
+      "path": "overrides/config/clutternomore/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/clutternomore/startup.toml",
+      "sha1": "f6a637eb0a4633f8bc4ffd6905af5ea60be5c59c"
+    },
+    {
+      "path": "overrides/config/configured-client.properties",
+      "sha1": "6b3f3fc1d345e56e4677030ef97328fa813c68b9"
+    },
+    {
+      "path": "overrides/config/connectiblechains.json",
+      "sha1": "078debe472fa603f01375f4e7e6161f215efc152"
+    },
+    {
+      "path": "overrides/config/connector.json",
+      "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0"
+    },
+    {
+      "path": "overrides/config/continuity.json",
+      "sha1": "dcd61957c3ede67c890235ee6615d0f0945118cd"
+    },
+    {
+      "path": "overrides/config/contraptionlights-client.toml",
+      "sha1": "11d2167a858332cca96a55f57d476e6fcc6bf04a"
+    },
+    {
+      "path": "overrides/config/contraptionlights-server.toml",
+      "sha1": "bdd6e88fb2e8f3d45390ed01ed3389baf7536cfa"
+    },
+    {
+      "path": "overrides/config/copperoverthrow-client.toml",
+      "sha1": "b0cd6cc72af109849cc3d9105e5c8229f50e9c1a"
+    },
+    {
+      "path": "overrides/config/copperoverthrow-server.toml",
+      "sha1": "03e0f6bc87ae87e1a521d8bec761983bfe3373b5"
+    },
+    {
+      "path": "overrides/config/cr_aero_structures-client.toml",
+      "sha1": "a01861c77d1a4bb2f4905207ab07d283ea325047"
+    },
+    {
+      "path": "overrides/config/create-client.toml",
+      "sha1": "152c6dfd810e129761b1868aab2535a81325bf20"
+    },
+    {
+      "path": "overrides/config/create-common.toml",
+      "sha1": "62ed6cc65a2043b7ddc4cb4f7c4f1d42855293de"
+    },
+    {
+      "path": "overrides/config/create-server.toml",
+      "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8"
+    },
+    {
+      "path": "overrides/config/create-train-perspective.json",
+      "sha1": "6940b7c900a6ac2a5574935b11eacf35db68c873"
+    },
+    {
+      "path": "overrides/config/create_alerted-common.toml",
+      "sha1": "bed014889fa4e842dc34ec67bb08ac176f411717"
+    },
+    {
+      "path": "overrides/config/create_high_seas-client.toml",
+      "sha1": "7c250aaaad32946258b444b37dc9f7b999e53c99"
+    },
+    {
+      "path": "overrides/config/create_high_seas-server.toml",
+      "sha1": "1205280d74ca7a3205abb5bd59a594ff2cdc7c4f"
+    },
+    {
+      "path": "overrides/config/create_horse_decimation-client.toml",
+      "sha1": "c35cccd3d86944ba953ad81122e67cb66188cc71"
+    },
+    {
+      "path": "overrides/config/create_horse_decimation-server.toml",
+      "sha1": "5e91fb2c2998f38579c7639cc441f030000b5c1b"
+    },
+    {
+      "path": "overrides/config/create_plunger_plus-client.toml",
+      "sha1": "6a0bbc0c7eb01707a502f0a2d4351215f32a8199"
+    },
+    {
+      "path": "overrides/config/create_plunger_plus-server.toml",
+      "sha1": "a6e16e5aec4d566eb9d79b4b51c258d9fc04b5ec"
+    },
+    {
+      "path": "overrides/config/create_simulated_thrusters-common.toml",
+      "sha1": "4a00aa9a9bd2edb01dbb8d4d0218633f6f27cea6"
+    },
+    {
+      "path": "overrides/config/create_submarine-client.toml",
+      "sha1": "faf3fbdd23758f48bcd8a930b65553738bd2aff5"
+    },
+    {
+      "path": "overrides/config/create_submarine-common.toml",
+      "sha1": "a5f7276ac1034243b4a62d77db179856d18d8702"
+    },
+    {
+      "path": "overrides/config/create_submarine-server.toml",
+      "sha1": "b6600df0776519d9a5cae675df65058f5870a389"
+    },
+    {
+      "path": "overrides/config/create_submarine_client_state.json",
+      "sha1": "89c5c1b2261cb04d717cc22027ff6e9048fab1b0"
+    },
+    {
+      "path": "overrides/config/createaerophysicsgantry-server.toml",
+      "sha1": "da494343ab6c15ed37099d5f3e6fd7eac5598d72"
+    },
+    {
+      "path": "overrides/config/createbionics-client.toml",
+      "sha1": "253a25605f7f7ecde17245e6da85b5a950ba6af7"
+    },
+    {
+      "path": "overrides/config/createburnerfuel-common.toml",
+      "sha1": "708089d04cacf48440f4d7c67d8dee944ac1f71a"
+    },
+    {
+      "path": "overrides/config/createcardboardthings-common.toml",
+      "sha1": "e0b1ac9900ea1d92c5ca69e5b8062a11c127bc96"
+    },
+    {
+      "path": "overrides/config/createcasing-common.toml",
+      "sha1": "0a4a4da2434ad2f0b8aca1ac66b3ce12d4833168"
+    },
+    {
+      "path": "overrides/config/createcoasterseats-client.toml",
+      "sha1": "3b2774f951fdcf37d2699522e250e03b7a38a786"
+    },
+    {
+      "path": "overrides/config/createcobblestone-common.toml",
+      "sha1": "c1a9ff35e2ed774450f3f27cdd819fdfb83f8d88"
+    },
+    {
+      "path": "overrides/config/createestrogen/client.json5",
+      "sha1": "6d8dbee90ec6a9d7e70bf48d403047f1f5a5a671"
+    },
+    {
+      "path": "overrides/config/createestrogen/common.json5",
+      "sha1": "2af4d2499632b2a1f3aa8269091e454ef440a84e"
+    },
+    {
+      "path": "overrides/config/createestrogen/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/createestrogen/server.json5",
+      "sha1": "2af4d2499632b2a1f3aa8269091e454ef440a84e"
+    },
+    {
+      "path": "overrides/config/createmoderntech-server.toml",
+      "sha1": "e4f85607ff2405e94fdcedff740f7d8b28dc42c9"
+    },
+    {
+      "path": "overrides/config/createpropulsion-client.toml",
+      "sha1": "ac866999f8d4ecd1eff17efd6a7eee2ee6032d6a"
+    },
+    {
+      "path": "overrides/config/createpropulsion-common.toml",
+      "sha1": "4d14a8ea8f8038b86ff3b1c7f432aabb4e7b5fa2"
+    },
+    {
+      "path": "overrides/config/creaturefeature-client.toml",
+      "sha1": "90e29eef2b2f394ae10f3d30e40cb29737bb4412"
+    },
+    {
+      "path": "overrides/config/creaturefeature-server.toml",
+      "sha1": "28569a2321459df311353020a80ddcca7d9cce98"
+    },
+    {
+      "path": "overrides/config/cropsloverain.toml",
+      "sha1": "bb8078c1d4f2446956eb5c8f92aaf96a7b616659"
+    },
+    {
+      "path": "overrides/config/crunchy_crunchy_advancements.toml",
+      "sha1": "474d5be836043722c894491d6f399c53b5ee10ec"
+    },
+    {
+      "path": "overrides/config/ctm.toml",
+      "sha1": "61b621f2c8c99bcc3d43fe73a4d05828217e31a9"
+    },
+    {
+      "path": "overrides/config/curios-client.toml",
+      "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070"
+    },
+    {
+      "path": "overrides/config/curios-common.toml",
+      "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7"
+    },
+    {
+      "path": "overrides/config/curios-server.toml",
+      "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
+    },
+    {
+      "path": "overrides/config/cutthrough-client.toml",
+      "sha1": "315338cdbdb723a4a8602ffb59b40f4491379d96"
+    },
+    {
+      "path": "overrides/config/death_keeper-common.toml",
+      "sha1": "dd99d21313b4f7b9b2a14f60d89633ed4821eeb3"
+    },
+    {
+      "path": "overrides/config/durabilitytooltip-common.toml",
+      "sha1": "0efd392cbd285eff5c975000fe19bd543ccaee55"
+    },
+    {
+      "path": "overrides/config/easy_mob_spawn_control-client.toml",
+      "sha1": "c2a721996e20779ca4dda0d75d9426d94ddeeaf6"
+    },
+    {
+      "path": "overrides/config/easy_mob_spawn_control-common.toml",
+      "sha1": "90f23e28df134b988a825b388e7ed581575872b0"
+    },
+    {
+      "path": "overrides/config/easyanvils-client.toml",
+      "sha1": "9f072e4960f0825e310f480dea8ab248c2fd0a67"
+    },
+    {
+      "path": "overrides/config/easyanvils-common.toml",
+      "sha1": "c63899776daa3ce2081eb4e93c196964053a2f55"
+    },
+    {
+      "path": "overrides/config/easyanvils-server.toml",
+      "sha1": "cabd9ce8bda8922e1238e5c665f9a2edc6915a00"
+    },
+    {
+      "path": "overrides/config/emf_compat.json",
+      "sha1": "06517b225bd3c1c5177ff2f2232ee573fefe9793"
+    },
+    {
+      "path": "overrides/config/emi.css",
+      "sha1": "f70f2b47e1fb5d833f95fb7435647bbe794455fa"
+    },
+    {
+      "path": "overrides/config/entity_model_features.json",
+      "sha1": "41b8dba9f4aa26ae3c7b511d6c5db3afcb7de5f9"
+    },
+    {
+      "path": "overrides/config/entity_texture_features.json",
+      "sha1": "5fc3d7567c74811f362b997baa24dc25c2163b6e"
+    },
+    {
+      "path": "overrides/config/estrogen/client.json5",
+      "sha1": "3a9e4a207eb1ba5f11612d8b86364ce522c12d0f"
+    },
+    {
+      "path": "overrides/config/estrogen/common.json5",
+      "sha1": "e726594cb16c8693e5b0434cfa6c284c0ec99f18"
+    },
+    {
+      "path": "overrides/config/estrogen/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/estrogen/server.json5",
+      "sha1": "02b14adef298d7ddbf4df9a114e4d969b363b1a7"
+    },
+    {
+      "path": "overrides/config/etched-client.toml",
+      "sha1": "580aed6d8f0121d756bed99ca0bda1ab83439561"
+    },
+    {
+      "path": "overrides/config/etched-server.toml",
+      "sha1": "3d0097f6585a9e4ea0456b528389c07f29b17408"
+    },
+    {
+      "path": "overrides/config/etf_warnings.json",
+      "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+    },
+    {
+      "path": "overrides/config/everycomp-client.toml",
+      "sha1": "b4213127eb73e48e6ce62586ba3df70850ddb619"
+    },
+    {
+      "path": "overrides/config/everycomp-common.toml",
+      "sha1": "ed8524bef9ccb2e7d433e115cca7d5025705d824"
+    },
+    {
+      "path": "overrides/config/everycomp-entries.toml",
+      "sha1": "648cc4246c07e6dce9828dda1afe9aa022920461"
+    },
+    {
+      "path": "overrides/config/everycomp-hazardous.toml",
+      "sha1": "ec54c93f283206e48ee02e178a05d9af5ae85a6c"
+    },
+    {
+      "path": "overrides/config/exotic_worlds.json",
+      "sha1": "930494a651fb335761545c03f9d873c0f35cc4a5"
+    },
+    {
+      "path": "overrides/config/explosiveenhancement.toml",
+      "sha1": "36c93595ef96785c14ee6a7d6a8de66bc0b10bed"
+    },
+    {
+      "path": "overrides/config/exposure-client.toml",
+      "sha1": "26d098ff16aa7fa5421ed77e0d8b046bcecc9387"
+    },
+    {
+      "path": "overrides/config/exposure-common.toml",
+      "sha1": "e5b5aa08d556fa6d528cdd2423001eb9a445253e"
+    },
+    {
+      "path": "overrides/config/exposure-server.toml",
+      "sha1": "caf8c717995367850ecee88d695a8807d71f0bad"
+    },
+    {
+      "path": "overrides/config/fabric/indigo-renderer.properties",
+      "sha1": "b10ce07353e32873799edc741c4d77fe843c8969"
+    },
+    {
+      "path": "overrides/config/fabric/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/fancytabsections-client.toml",
+      "sha1": "0924421fd9e715fc4f82fa7ee812aa8f00a4e452"
+    },
+    {
+      "path": "overrides/config/farmersdelight-client.toml",
+      "sha1": "376d9f84ec76953b4cd907387f4fc55069350250"
+    },
+    {
+      "path": "overrides/config/farmersdelight-common.toml",
+      "sha1": "7600f1899a7704d0cc4f0a81f4694b8c47026bcf"
+    },
+    {
+      "path": "overrides/config/fieldguide-client.json",
+      "sha1": "a7d4e50dc7e19049863b40dd29b171f515b1ae69"
+    },
+    {
+      "path": "overrides/config/fieldguide-server.json",
+      "sha1": "da006798907484e94168b7067e78ed93fa6f31fa"
+    },
+    {
+      "path": "overrides/config/figura.json",
+      "sha1": "b135eb61e49c854204ede6d50c47adf5c51f72f2"
+    },
+    {
+      "path": "overrides/config/flappy_wings-server.toml",
+      "sha1": "77b4f9f2601d87a0dde75cdf8eef401f86b0c9d2"
+    },
+    {
+      "path": "overrides/config/flashback/.flashback.json.backup",
+      "sha1": "4646cb5a780422293d23a6606f928efae35b2a74"
+    },
+    {
+      "path": "overrides/config/flashback/flashback.json",
+      "sha1": "e99272af5bde50b2b2dfc9ab7fa9e214eb00bb45"
+    },
+    {
+      "path": "overrides/config/flashback/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/flywheel-client.toml",
+      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+    },
+    {
+      "path": "overrides/config/fzzy_config/keybinds.toml",
+      "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1"
+    },
+    {
+      "path": "overrides/config/fzzy_config/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/galena_hats.json",
+      "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
+    },
+    {
+      "path": "overrides/config/gallery-client.toml",
+      "sha1": "c71e0d12989ca5afde76958f9108779756224b4c"
+    },
+    {
+      "path": "overrides/config/gallery-common.toml",
+      "sha1": "86919b712a5632ba90d078f8a0c196846dfc7423"
+    },
+    {
+      "path": "overrides/config/gemsrealm-common.toml",
+      "sha1": "ca8da299b5746bd8924477d919590c7bb7ac3e4f"
+    },
+    {
+      "path": "overrides/config/gemsrealm-hazardous.toml",
+      "sha1": "51433ff8034b3025f0f2548ee8a799b8418c7db2"
+    },
+    {
+      "path": "overrides/config/guideme.toml",
+      "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
+    },
+    {
+      "path": "overrides/config/hauntedharvest-common.toml",
+      "sha1": "764432c84addf8e29c0c4530c26b07ba7ff69596"
+    },
+    {
+      "path": "overrides/config/hexalia-common.toml",
+      "sha1": "874b244bcdf7b7b82bb21f141e0dd71e48511d05"
+    },
+    {
+      "path": "overrides/config/horseman-client.toml",
+      "sha1": "cf5eb8615dc05a67454fe6decaa3260311657d78"
+    },
+    {
+      "path": "overrides/config/horseman-common.toml",
+      "sha1": "89d802d88826d9fbc408296027a993329a03f02f"
+    },
+    {
+      "path": "overrides/config/horseman-server.toml",
+      "sha1": "94a4fd485fdaf921888f8d3f282f95326bc1b884"
+    },
+    {
+      "path": "overrides/config/hostile_skies-common.toml",
+      "sha1": "bf66d1d42cec5fb5a2a2044b9d205142626f3e4c"
+    },
+    {
+      "path": "overrides/config/immersive_paintings/client_config.toml",
+      "sha1": "7ad85623ad6e1fced71b2e613ea68b1b5a077d11"
+    },
+    {
+      "path": "overrides/config/immersive_paintings/common_config.toml",
+      "sha1": "a57221cf52695819618c4515f8152d76d489a939"
+    },
+    {
+      "path": "overrides/config/immersive_paintings/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/immersive_portals.json",
+      "sha1": "9cbd9f3fc98f7f3875286a10654f7c0306088ec3"
+    },
+    {
+      "path": "overrides/config/immersiveoverlays.json",
+      "sha1": "e2e68b818b7201d1de665dcf3a757feabfc27c13"
+    },
+    {
+      "path": "overrides/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
+    },
+    {
+      "path": "overrides/config/iris.properties",
+      "sha1": "927a8a63a17b569a03e4f62bc70aa5cfb9a555e8"
+    },
+    {
+      "path": "overrides/config/irisflw-client.toml",
+      "sha1": "955d03625faa2a44c59eb4b117b72c6f07e749e0"
+    },
+    {
+      "path": "overrides/config/irons_artifice-client.toml",
+      "sha1": "2d4b63c846d3cba48065b2c45c2d94959e2b9cc6"
+    },
+    {
+      "path": "overrides/config/irons_artifice-server.toml",
+      "sha1": "8ea3accd54d6ed27c7cee80603e846670ef5b7ac"
+    },
+    {
+      "path": "overrides/config/item_descriptions.toml",
+      "sha1": "61e63100471d15f06f93e6792c98b86ba13df006"
+    },
+    {
+      "path": "overrides/config/iteminteractions-client.toml",
+      "sha1": "f0a38cbcde79371d68f971aaf61e8deeb62671ad"
+    },
+    {
+      "path": "overrides/config/iteminteractions-server.toml",
+      "sha1": "8fba87a1b9c4529f3a38a7b2efea01358bd57cae"
+    },
+    {
+      "path": "overrides/config/jamlib/known_suspicious_jars.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/jamlib/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jeed-client.toml",
+      "sha1": "a87a54dc5ab10da763a920fb5ab75539da3836bb"
+    },
+    {
+      "path": "overrides/config/jei/blacklist.json",
+      "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-client.ini",
+      "sha1": "1dfd2ed5e1602f66279498b2bdda033fd4e9a667"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-colors.ini",
+      "sha1": "a0b5388f559355560719adc93408da864a72d3e8"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-debug.ini",
+      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d"
+    },
+    {
+      "path": "overrides/config/jei/client/default/jei-mod-id-format.ini",
+      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
+    },
+    {
+      "path": "overrides/config/jei/client/default/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jei/client/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
+      "sha1": "23a0f8f41651bd67b87696903a36780cc6b6e685"
+    },
+    {
+      "path": "overrides/config/jei/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jei/server/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jei/server/world/default/jei-server.ini",
+      "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
+      "path": "overrides/config/jei/server/world/default/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jei/server/world/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/jeioptimizer-client.toml",
+      "sha1": "a14f6ec5392ed72cffa33ffb560d19c2c872a438"
+    },
+    {
+      "path": "overrides/config/keybindatlas-client.toml",
+      "sha1": "e5cafcaeaf6c919dc73470f21d6b6de77f4c654d"
+    },
+    {
+      "path": "overrides/config/kritter.json5",
+      "sha1": "ef3701d4dff39545ef5e8abb598f5984b01a5157"
+    },
+    {
+      "path": "overrides/config/labels-client.toml",
+      "sha1": "d4135251485577bc64d536916223bfe87e3694ff"
+    },
+    {
+      "path": "overrides/config/libtooltips-client.toml",
+      "sha1": "a37510e3a8494145627767304f2476385ee0de57"
+    },
+    {
+      "path": "overrides/config/lightspeed-common.toml",
+      "sha1": "cf06bba752a12f4081d541139155a157bf9de514"
+    },
+    {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "overrides/config/lithostitched.json",
+      "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48"
+    },
+    {
+      "path": "overrides/config/little_big_redstone-client.toml",
+      "sha1": "5446e7c04a8882a3bd449b4e772af1f119d54a03"
+    },
+    {
+      "path": "overrides/config/livingwind-client.toml",
+      "sha1": "f5f43a4e73e53c134c9bbf8e3f49c1f64352b8a0"
+    },
+    {
+      "path": "overrides/config/livingwind-common.toml",
+      "sha1": "89e15a17e35e79c34abc5dec322f9024e51921b9"
+    },
+    {
+      "path": "overrides/config/lodestone-client.toml",
+      "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f"
+    },
+    {
+      "path": "overrides/config/malum-client.toml",
+      "sha1": "5fd94b26fac67847e481f3c4f6a59c49b0d63500"
+    },
+    {
+      "path": "overrides/config/malum-common.toml",
+      "sha1": "6b410e527b0cc1db19ea2de951b87e099bd9ac1d"
+    },
+    {
+      "path": "overrides/config/mcqoy.toml",
+      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/default/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/default/settings.ini",
+      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/mezz_config/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
+    },
+    {
+      "path": "overrides/config/mixed_litter-startup.toml",
+      "sha1": "c50169f79757d41c249a426c56e581b8a25791a2"
+    },
+    {
+      "path": "overrides/config/mobtowers-common.toml",
+      "sha1": "cd02e27b5577a12dfd37b60542d021896203ea52"
+    },
+    {
+      "path": "overrides/config/modelfix-client.toml",
+      "sha1": "e5dbd8ee9d534eb28c70b8e56a45baa33f15f1d5"
+    },
+    {
+      "path": "overrides/config/molten_vents-common.toml",
+      "sha1": "9cbd76688de59bd00dd308410beb8ad58a8ff420"
+    },
+    {
+      "path": "overrides/config/moonlight-client.toml",
+      "sha1": "19f7d0b2a4b6010de875446aa41d51734fb31b40"
+    },
+    {
+      "path": "overrides/config/moonlight-common.toml",
+      "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
+    },
+    {
+      "path": "overrides/config/morph-client.toml",
+      "sha1": "4669f601c3cc77a73db77a254cb713dfaa73e422"
+    },
+    {
+      "path": "overrides/config/morph.toml",
+      "sha1": "352f473c62aa845bf7b6bc6504846bbf8eafeca9"
+    },
+    {
+      "path": "overrides/config/mosaic_cosmetics-client.toml",
+      "sha1": "066e12fa3d2550536bb5eec8f67d46c9a2e82680"
+    },
+    {
+      "path": "overrides/config/music_tweaks.json",
+      "sha1": "9a5003bb43ff054c0293dd6a6e92d57ec2af30c2"
+    },
+    {
+      "path": "overrides/config/natureworkshop-common.toml",
+      "sha1": "730d6ebc7bfe7e3c0f30e509dbbeaa2c166ca959"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/config/nerb/compat/emi.yaml",
+      "sha1": "34aca5bdd1d3b5a17d78a67822129972d30b1d72"
+    },
+    {
+      "path": "overrides/config/nerb/compat/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/nerb/general.yaml",
+      "sha1": "873d7de68e3aa37c7e4261078a73ac34dc8bb3db"
+    },
+    {
+      "path": "overrides/config/nerb/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/nirvana-client.toml",
+      "sha1": "6e5b889530ffd4d2e2daf9de39d6db95a04c1bef"
+    },
+    {
+      "path": "overrides/config/nirvana-common.toml",
+      "sha1": "0520af200764459d880f670bb5c0a09a0dfaf017"
+    },
+    {
+      "path": "overrides/config/nomansland-client.toml",
+      "sha1": "483286e545bd9e2b9bf0f4f5a13b42a938c3979c"
+    },
+    {
+      "path": "overrides/config/nomansland-common.toml",
+      "sha1": "c56b267c24f5db0104d253b73e13951590844893"
+    },
+    {
+      "path": "overrides/config/nomansland-startup.toml",
+      "sha1": "3cadc314a7670122172bb760631912b958c2ed01"
+    },
+    {
+      "path": "overrides/config/obscuria/ancient_remnants-common.toml",
+      "sha1": "90d276364e663d807f511cc949a31fb4a6cbea04"
+    },
+    {
+      "path": "overrides/config/obscuria/loot_journal-client.toml",
+      "sha1": "1eff20a22a702875a0ecbf59bacc4575c26695fa"
+    },
+    {
+      "path": "overrides/config/obscuria/obscure_tooltips-client.toml",
+      "sha1": "c66d9dc65949fc1111ef1e188c451fa5d48db602"
+    },
+    {
+      "path": "overrides/config/obscuria/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/obscuria/pillager_caravans-common.toml",
+      "sha1": "ec27c1575e7779f218193d3c5bd52c578722702d"
+    },
+    {
+      "path": "overrides/config/oei/common.json",
+      "sha1": "2263d24e10355cfc1073f0c08c2c6cfd409dacb0"
+    },
+    {
+      "path": "overrides/config/oei/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/oelib/dev_features.toml",
+      "sha1": "ddae6ea621ecc956f88f6ec776ed3c7c6925c559"
+    },
+    {
+      "path": "overrides/config/oelib/oelib_festivals.toml",
+      "sha1": "bd6ec4f47e4d095103b082313cef7ff4725034f1"
+    },
+    {
+      "path": "overrides/config/oelib/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/offroad-server.toml",
+      "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
+    },
+    {
+      "path": "overrides/config/one-click-join",
+      "sha1": "7b6790c8bf249f4794dc5ffb2533334fb4822a7d"
+    },
+    {
+      "path": "overrides/config/packed_packs/__version.json",
+      "sha1": "d5e38b85ca379bff7651ba5e88c2ed642b4041c4"
+    },
+    {
+      "path": "overrides/config/packed_packs/config.json",
+      "sha1": "778e3a21eacf1d09eb962f8eb2405294d0050a4e"
+    },
+    {
+      "path": "overrides/config/packed_packs/config.meta.json",
+      "sha1": "34296ea1ef0470c3b628cf55c5a192ad6a632f89"
+    },
+    {
+      "path": "overrides/config/packed_packs/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/packed_packs/preferences.properties",
+      "sha1": "e22e60a3e8095236f1c8a77fdadd1e3ade44c0f2"
+    },
+    {
+      "path": "overrides/config/packetfixer.properties",
+      "sha1": "bcd6ef5b51773ed127dbe1f05656f971902a2370"
+    },
+    {
+      "path": "overrides/config/particle_core_config.toml",
+      "sha1": "43e6c438d51b00a097df56f6625d62bd3ce8029a"
+    },
+    {
+      "path": "overrides/config/particle_core_disabled_optimizations_v2.json",
+      "sha1": "b4bf74388de7da02460fe124655439bfbcf2c29a"
+    },
+    {
+      "path": "overrides/config/particlerain/config.json",
+      "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929"
+    },
+    {
+      "path": "overrides/config/particlerain/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/particlerain/particles.json",
+      "sha1": "739e8e1182efdead91b56f184ebfb620e547c346"
+    },
+    {
+      "path": "overrides/config/particular-common.toml",
+      "sha1": "6f525ebe8e8719fd08bc069dc25183fd0a8376dc"
+    },
+    {
+      "path": "overrides/config/patchouli-client.toml",
+      "sha1": "51e0df3a58ba3cba0a5403de4a3c4f1b00859ec1"
+    },
+    {
+      "path": "overrides/config/penchant-client.toml",
+      "sha1": "f080aa3628c791a69a5574ed82a6cda49dc56efd"
+    },
+    {
+      "path": "overrides/config/penchant/client.toml",
+      "sha1": "13dc796fca5f8cc65cfc0d97f4157f9c01fb4e03"
+    },
+    {
+      "path": "overrides/config/penchant/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/penchant/server.toml",
+      "sha1": "eb745caac94558fc3a7ce0a38c5c6a6cbe46087a"
+    },
+    {
+      "path": "overrides/config/pocket-server.toml",
+      "sha1": "bb75a888012d838628aa8758257121f4061e03fd"
+    },
+    {
+      "path": "overrides/config/ponder-client.toml",
+      "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
+    },
+    {
+      "path": "overrides/config/pym-client.toml",
+      "sha1": "ca117bead8cd87e26ccff7a74bd5412c68f02dd5"
+    },
+    {
+      "path": "overrides/config/pym-server.toml",
+      "sha1": "1754c3ff61e5d1639ee89ea828eb0c08b0fc1f7b"
+    },
+    {
+      "path": "overrides/config/railways-client.toml",
+      "sha1": "265f95249de84c74a25cfb2b8dbaa76964e1ada4"
+    },
+    {
+      "path": "overrides/config/railways-common.toml",
+      "sha1": "d53ad6bb85d5293ab80ee8c3983672f359084cd9"
+    },
+    {
+      "path": "overrides/config/railways-server.toml",
+      "sha1": "6d05a7701b04288f411fee1f744e43132059f1fd"
+    },
+    {
+      "path": "overrides/config/redomesticate.json",
+      "sha1": "3446bd10c42b3db5835ce4a74a5099537cad8679"
+    },
+    {
+      "path": "overrides/config/refurbished_furniture.client.toml",
+      "sha1": "6d762ac73367bb0d649b686860d5ef86a2859fc6"
+    },
+    {
+      "path": "overrides/config/refurbished_furniture.server.toml",
+      "sha1": "b53184c0bb101948ee6d23f41c177f62656dabd6"
+    },
+    {
+      "path": "overrides/config/reliable_recipes.json",
+      "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
+    },
+    {
+      "path": "overrides/config/reliable_recipes/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
+      "sha1": "d82ebcadb5085e4d1f8da80b811d21b3b6ce1d9c"
+    },
+    {
+      "path": "overrides/config/reliable_remover.json",
+      "sha1": "fa5bc701256a943ce71489c65a18c52b723be185"
+    },
+    {
+      "path": "overrides/config/reliable_remover/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/reliable_remover/removal_example.json.disabled",
+      "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
+    },
+    {
+      "path": "overrides/config/remi/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/remi/remi.json",
+      "sha1": "5885e84dc988bbf8d5da37597d1c89ba87e52d25"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/resourceful-config-web.json",
+      "sha1": "89197e1ab996f308cb6c96595755ed8628794375"
+    },
+    {
+      "path": "overrides/config/resourcify.json",
+      "sha1": "c9fb5ff03771a69d32badb5d695bf86b1ee81c88"
+    },
+    {
+      "path": "overrides/config/rightclickharvest.json5",
+      "sha1": "e2892000962e734e6bbb36cf7e617120d5715f41"
+    },
+    {
+      "path": "overrides/config/rollingtones-client.toml",
+      "sha1": "02b9ab215bbcffcccbeea907d284cb39d7d60cbc"
+    },
+    {
+      "path": "overrides/config/rpg_dialogue.properties",
+      "sha1": "6c8e817a49f9b3a62f0854d08e385da1153d3134"
+    },
+    {
+      "path": "overrides/config/sable-client.toml",
+      "sha1": "e8f806b583ccda048e84a0bb6294e01968beea9e"
+    },
+    {
+      "path": "overrides/config/sable-common.toml",
+      "sha1": "00dc7fcbb01ea87c7020307e5481e174977f4d79"
+    },
+    {
+      "path": "overrides/config/sable-server.toml",
+      "sha1": "2ae72c8b6392b27c338bb2392ecf00733f032fe1"
+    },
+    {
+      "path": "overrides/config/sablecleanup-client.toml",
+      "sha1": "a986931a1ee29a36c074b37dedd5b8efba8fa553"
+    },
+    {
+      "path": "overrides/config/satchels-client.toml",
+      "sha1": "7984daea96481c8563f20d22ab594045a4b79c8e"
+    },
+    {
+      "path": "overrides/config/satchels-common.toml",
+      "sha1": "e82eea981f915dca8d5beccc4246495f29cd9776"
+    },
+    {
+      "path": "overrides/config/schematician-client.toml",
+      "sha1": "48b0e3936de204133400450bf562ef373e863177"
+    },
+    {
+      "path": "overrides/config/scholar-client.toml",
+      "sha1": "6b469b8e56ce7b34ebcaef2b7abd1fc9fe6038b5"
+    },
+    {
+      "path": "overrides/config/scholar-common.toml",
+      "sha1": "0c3c236d1b068b002c7001a52c3ef984531b7dc8"
+    },
+    {
+      "path": "overrides/config/screenshot_viewer-client.toml",
+      "sha1": "922905e51cd2592b955332b5fc214bcf2fa03d86"
+    },
+    {
+      "path": "overrides/config/seamlessores.json",
+      "sha1": "7ae78e20e0f643dde4930270aa650e28aac0f2ea"
+    },
+    {
+      "path": "overrides/config/selling_bin-client.toml",
+      "sha1": "d24aaeedd8075a518e894e3dfad22a42d83fdc1f"
+    },
+    {
+      "path": "overrides/config/selling_bin-server.toml",
+      "sha1": "26e686cb218629240772af2ba27b4aa7ee3d9371"
+    },
+    {
+      "path": "overrides/config/serilum/boggedspawn.json",
+      "sha1": "f4d37895b6f7fd242a0c8b2401c421e36428e69d"
+    },
+    {
+      "path": "overrides/config/serilum/breezespawn.json",
+      "sha1": "a0c6b6b1c79f9a0c811298d3db64bafc80853a99"
+    },
+    {
+      "path": "overrides/config/serilum/cavespiderspawn.json",
+      "sha1": "b289753b743627f1060269f11a50f1ebecb302e0"
+    },
+    {
+      "path": "overrides/config/serilum/collective.json",
+      "sha1": "3b3c39eb6a301206887b67d556e5fd446305ad6f"
+    },
+    {
+      "path": "overrides/config/serilum/giantspawn.json",
+      "sha1": "09222ba509c1b7b8ac922c9005f3a5e479ce447f"
+    },
+    {
+      "path": "overrides/config/serilum/huskspawn.json",
+      "sha1": "59cdbc86af8023214b2306bd5dfedf6fddaaa92d"
+    },
+    {
+      "path": "overrides/config/serilum/mooshroomspawn.json",
+      "sha1": "09bae39cfb1935a1ef25fc29964e9a0eaa9334aa"
+    },
+    {
+      "path": "overrides/config/serilum/naturallychargedcreepers.json",
+      "sha1": "725b599a7518b35d847fe9b12ad4cc5e964ef778"
+    },
+    {
+      "path": "overrides/config/serilum/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/serilum/skeletonhorsespawn.json",
+      "sha1": "cb69f8851b91ad9c27fd032a5c46dbba1be1eee9"
+    },
+    {
+      "path": "overrides/config/serilum/strayspawn.json",
+      "sha1": "5d3fa8a7c22332ef2c3c8150745b7ee02f29d5a4"
+    },
+    {
+      "path": "overrides/config/serilum/wanderingtradermayleave.json",
+      "sha1": "e275686e84a952885fb164c05ade36e8ce16fba0"
+    },
+    {
+      "path": "overrides/config/serilum/zombiehorsespawn.json",
+      "sha1": "9153910de993ef3dd0c4b06704cb72f7d9bb1803"
+    },
+    {
+      "path": "overrides/config/shadowdrop.json",
+      "sha1": "41fa3e5553623a7cdb5169eabd70266c8b840ff4"
+    },
+    {
+      "path": "overrides/config/simple_datapacks.json",
+      "sha1": "b503469b21e1b4dee1238ef232218d892a8c203d"
+    },
+    {
+      "path": "overrides/config/simulated-client.toml",
+      "sha1": "5ecd38c0dc2dc7245bbbb7ad0187a1196f816d2f"
+    },
+    {
+      "path": "overrides/config/simulated-server.toml",
+      "sha1": "1ab3343ed4a74008ad939c208a2536d7b3e79fe0"
+    },
+    {
+      "path": "overrides/config/simulatedcoasters-common.toml",
+      "sha1": "951bfbf6e95fdaabd6b70d59b7fe218a55c807b1"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "overrides/config/sodium-options.json",
+      "sha1": "7f22506aba4687224597167981576c39c7f1032d"
+    },
+    {
+      "path": "overrides/config/sodiumdynamiclights-client.toml",
+      "sha1": "b9fa2f860583c210f1295131fa19e77e11de8876"
+    },
+    {
+      "path": "overrides/config/someassemblyrequired-client.toml",
+      "sha1": "9ac8258478126063dc820c48ec92532003147c38"
+    },
+    {
+      "path": "overrides/config/someassemblyrequired-server.toml",
+      "sha1": "c7643b7a7789e8b969d75ffa0ba6f6d1317954e2"
+    },
+    {
+      "path": "overrides/config/sounds/chat.json",
+      "sha1": "6327803185f67da05feef67b6f4bfbd7f061b908"
+    },
+    {
+      "path": "overrides/config/sounds/event.json",
+      "sha1": "29cf8b4059899cbe6549f26fb7ca560dafca290f"
+    },
+    {
+      "path": "overrides/config/sounds/mod_utils.json",
+      "sha1": "0d227098e7daa4977322bf4edbb7e36b0c83d175"
+    },
+    {
+      "path": "overrides/config/sounds/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/sounds/ui.json",
+      "sha1": "2d7da442e59c710ac434fbc47b00bd8d8c22d3dd"
+    },
+    {
+      "path": "overrides/config/sounds/world.json",
+      "sha1": "8a152dee53a944ed55614ff7ad036eb354a6a809"
+    },
+    {
+      "path": "overrides/config/spark/activity.json",
+      "sha1": "938fa9f553099695f0dc7d45afd1bd6f573aecd9"
+    },
+    {
+      "path": "overrides/config/spark/config.json",
+      "sha1": "33b6644f61573b11848cde9419529737418e0207"
+    },
+    {
+      "path": "overrides/config/spark/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/spark/tmp/about.txt",
+      "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2"
+    },
+    {
+      "path": "overrides/config/spyglass-improvements/settings.json",
+      "sha1": "2f04bdefe7fe8102a62df7f78089c3adeba760e7"
+    },
+    {
+      "path": "overrides/config/starcatcher-client.toml",
+      "sha1": "55c422588a270b08f12ae8ccd95814d3ebba43c3"
+    },
+    {
+      "path": "overrides/config/starcatcher-server.toml",
+      "sha1": "1d2efa057b1998c69472922c3b11210b1ed285da"
+    },
+    {
+      "path": "overrides/config/statuseffectbars-common.toml",
+      "sha1": "05a10be618f10b70c63ffad951eaa5a50aee1c15"
+    },
+    {
+      "path": "overrides/config/steves_realistic_sleep.json",
+      "sha1": "1d1f1e45bd15081f983f795c24b176d451837932"
+    },
+    {
+      "path": "overrides/config/stonezone-common.toml",
+      "sha1": "ca8da299b5746bd8924477d919590c7bb7ac3e4f"
+    },
+    {
+      "path": "overrides/config/stonezone-hazardous.toml",
+      "sha1": "b56da29f6fc78d01133fc4bbf354ffda57e7eea0"
+    },
+    {
+      "path": "overrides/config/structure_generation_improver.json",
+      "sha1": "3870ed4600f8827eee93e1d8659b7b0949a242f7"
+    },
+    {
+      "path": "overrides/config/structure_generation_improver.templates.txt",
+      "sha1": "787d442d555b15eff288b06ad975507127d26e83"
+    },
+    {
+      "path": "overrides/config/structure_layout_optimizer.jsonc",
+      "sha1": "12aa60b222be5b66d4744e0d02b2232ea20b36f8"
+    },
+    {
+      "path": "overrides/config/stylisheffects-client.toml",
+      "sha1": "d9b24dcdceab5aec17742c3cdd8945d7b0c26ff1"
+    },
+    {
+      "path": "overrides/config/supplementaries-client.toml",
+      "sha1": "980f9cb1fafcdca70ad0b4a5d9ba9f000352974b"
+    },
+    {
+      "path": "overrides/config/supplementaries-common.toml",
+      "sha1": "611cc09efbe5cfad5aaaf8abd6ecbaaa5224f89e"
+    },
+    {
+      "path": "overrides/config/surveyor.toml",
+      "sha1": "a9562ea12c2c902e034af09efa5463a3750f61bc"
+    },
+    {
+      "path": "overrides/config/sweety-archeo-config.toml",
+      "sha1": "fe2560b4d3be595f806a7786a4c852a372844cd8"
+    },
+    {
+      "path": "overrides/config/synesthesia-client.toml",
+      "sha1": "fc2668e4cf20a7dbf872c0b7cb01d56b648f4042"
+    },
+    {
+      "path": "overrides/config/terrariums-client.toml",
+      "sha1": "08755ca9b2f89d070a3c35ee53342c091f29e94f"
+    },
+    {
+      "path": "overrides/config/terrariums-common.toml",
+      "sha1": "8d6af083cd9683766fac6e75f8581e21ff49f940"
+    },
+    {
+      "path": "overrides/config/the_beyond-client.toml",
+      "sha1": "b1a8bd7698229b03824ac96ee1b0b0f32687171f"
+    },
+    {
+      "path": "overrides/config/the_beyond-common.toml",
+      "sha1": "fd31d4ae1ce775306b5b9dd1eb03babc322d171e"
+    },
+    {
+      "path": "overrides/config/tinymultiblocklib-client.toml",
+      "sha1": "0b2ec83c55e989d609d7cb516db431791a1d623d"
+    },
+    {
+      "path": "overrides/config/tolerable_creepers.json",
+      "sha1": "8d614ab149336c5d0af60d8d39bdfb311b8bdfb4"
+    },
+    {
+      "path": "overrides/config/touys-common.toml",
+      "sha1": "11921e5e8f6d8ace25d55904804a08a443e02304"
+    },
+    {
+      "path": "overrides/config/travelers_crossroads-common.toml",
+      "sha1": "102e89e918b99a7eb53936ee6381caa7ccd61c39"
+    },
+    {
+      "path": "overrides/config/unlockedvoidsea-server.toml",
+      "sha1": "5a57cc989589303c3f2632331768d89f047abbca"
+    },
+    {
+      "path": "overrides/config/unusualend-common.toml",
+      "sha1": "27f4e17bf68ccb17cbf59416b51cd238a116c135"
+    },
+    {
+      "path": "overrides/config/vanillabackport-client.toml",
+      "sha1": "49c07fe29902df5af189a14db4e5d41837f13dec"
+    },
+    {
+      "path": "overrides/config/vanillabackport-common.toml",
+      "sha1": "046cb88b9e4706ef528319438d1a18d63256fee0"
+    },
+    {
+      "path": "overrides/config/vanityslots-server.toml",
+      "sha1": "75e50bea4b5f56c0f40176477925bb60b40b19fd"
+    },
+    {
+      "path": "overrides/config/vaportrails-client.toml",
+      "sha1": "a02064f2aa98add6a441fefac78de4e1be62848c"
+    },
+    {
+      "path": "overrides/config/verticalchainconveyors-server.toml",
+      "sha1": "fa188451701c32277c1203a33e0ec80bcfd9ba67"
+    },
+    {
+      "path": "overrides/config/via_romana.json",
+      "sha1": "56edc09f819869c57c0314a17c8d0eda25ba49d1"
+    },
+    {
+      "path": "overrides/config/voicechat/category-volumes.properties",
+      "sha1": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac"
+    },
+    {
+      "path": "overrides/config/voicechat/packed_packs.folderpack.json",
+      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/voicechat/player-volumes.properties",
+      "sha1": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae"
+    },
+    {
+      "path": "overrides/config/voicechat/translations.properties",
+      "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
+    },
+    {
+      "path": "overrides/config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "overrides/config/voicechat/voicechat-client.properties",
+      "sha1": "afaec264c65f918cfa925a1078aee2ee1722fdcf"
+    },
+    {
+      "path": "overrides/config/voicechat/voicechat-server.properties",
+      "sha1": "8f94d00c2a41fc01a2455aa6c0fa0a7acc014acd"
+    },
+    {
+      "path": "overrides/config/wakes-client.toml",
+      "sha1": "7e8a43daffd1f715a07681d165ba6df8c875e9cc"
+    },
+    {
+      "path": "overrides/config/woodworks-common.toml",
+      "sha1": "1ea808ffafd4be42f5c04ce3bc654ad7cb49c3ba"
+    },
+    {
+      "path": "overrides/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "overrides/config/zipline.json",
+      "sha1": "af61a85ccb5995ec0015be3c89cdce9dbf447d62"
+    },
+    {
+      "path": "overrides/config/zombies-break-build.toml",
+      "sha1": "ddab566c79a8167015bb938f5a6ac62bf75d0009"
+    },
+    {
+      "path": "overrides/config/zoosigns-common.toml",
+      "sha1": "36147162cc6e51b3ca517a3a79164507ab4e13d4"
+    },
+    {
+      "path": "overrides/datapacks/LV3 Tweakz.zip",
+      "sha1": "cc527518b2d0031382c1a21201a63e8ee1f34a41"
+    },
+    {
+      "path": "overrides/mods/Gourdite Vanity Tradeable.jar",
+      "sha1": "85b64abca64c3a24d4042e020aa2551a64cb2d09"
+    },
+    {
+      "path": "overrides/mods/Tactical Vanity v2.jar",
+      "sha1": "d6c4cd81584537c754541b027bb20025f4cac934"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "d31a1a9f2ff548fa28f172589df1a8e3cfac10e0"
+    },
+    {
+      "path": "overrides/packweaver.jar",
+      "sha1": "2bcc5a3596a57d4ae2752a0b61645f36e048a5a4"
+    },
+    {
+      "path": "overrides/servers.dat",
+      "sha1": "38c145149ed0cd0fb8cae1779b7f76cb6c400312"
+    }
+  ]
+}

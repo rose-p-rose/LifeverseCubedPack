@@ -1,0 +1,28 @@
+{
+  "name": "Catalogue",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "459701",
+      "slug": "catalogue",
+      "versionId": "6926815",
+      "versionNumber": "Catalogue 1.11.2",
+      "filename": "catalogue-neoforge-1.21.1-1.11.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar",
+      "sha1": "6d67f855c20bc6392763cfb22e1152da4e8015b4",
+      "fileSize": 302750
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "352835",
+    "457570",
+    "549225",
+    "897116"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

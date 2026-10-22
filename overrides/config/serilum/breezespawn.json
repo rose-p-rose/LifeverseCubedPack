@@ -1,0 +1,19 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Breeze Spawn -> Config",
+	"Enable Breeze Spawn": {
+		"//": "Whether Breeze Spawn is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"chanceBlazeIsBreeze": {
+		"//": "The chance a blaze that has spawned is a breeze entity. min: 0, max: 1",
+		"value": 0.1
+	},
+	"dimensionsToSpawnIn": {
+		"//": "Dimensions in which blazes can turn into breezes, separated by a comma. Leave empty for every dimension. For example: 'minecraft:the_nether'.",
+		"value": ""
+	},
+	"biomesToSpawnIn": {
+		"//": "Biomes in which blazes can turn into breezes, separated by a comma. Biome tags work too, starting with a '#'. Leave empty for every biome. For example: 'minecraft:nether_wastes,minecraft:soul_sand_valley'.",
+		"value": ""
+	}
+}

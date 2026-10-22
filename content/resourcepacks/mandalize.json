@@ -1,0 +1,23 @@
+{
+  "name": "Mandalize",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QHFfky0y",
+      "slug": "mandalize",
+      "versionId": "qh3uliz5",
+      "versionNumber": "1.12",
+      "filename": "mandalize-1.12-1.21.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/QHFfky0y/versions/qh3uliz5/mandalize-1.12-1.21.1.zip",
+      "sha1": "97d7791cc36495952f113a97781970c18ba8001f",
+      "sha512": "c19f73d94a386800d77aa12f192a8d2fce1fb189675be7f6a058cf0c7c7c9e0e38be14a8b109de63f443cf48b20b1c30c29e52b166aeb981c210ea5a8eadd95c",
+      "fileSize": 443769
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

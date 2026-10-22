@@ -1,0 +1,23 @@
+{
+  "name": "No Man's Bushy Leaves",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gemQXPg8",
+      "slug": "no-mans-bushy-leaves",
+      "versionId": "KnlDQ7RR",
+      "versionNumber": "1.1",
+      "filename": "No Man's Bushy Leaves - 1.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/gemQXPg8/versions/KnlDQ7RR/No%20Man%27s%20Bushy%20Leaves%20-%201.1.zip",
+      "sha1": "bda8473ea0330962e339eb2e55e6190db988b8d7",
+      "sha512": "9d2bd9fd9b6e6381c79acea8111ab55aba0639e98a3dfcfbfaeb365c85fd9937b08e38c7e700dca06e6855abc291519cd65aaba7e2950d3bffa7cdb47e478273",
+      "fileSize": 63774
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

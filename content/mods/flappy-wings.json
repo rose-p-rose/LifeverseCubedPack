@@ -1,0 +1,23 @@
+{
+  "name": "Flappy Wings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9rujp5p6",
+      "slug": "flappy-wings",
+      "versionId": "pFjFLnfy",
+      "versionNumber": "1.0.1",
+      "filename": "FlappyWings-neoforge-1.0.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9rujp5p6/versions/pFjFLnfy/FlappyWings-neoforge-1.0.1%2B1.21.1.jar",
+      "sha1": "60fbaa543437b283757b519912d5c08de3ef9c02",
+      "sha512": "e36f93d87946108942e6e64b1f208ad5da855fd709a2c07c6e03cda30b7d09c92fa748dcc968bdabe91ef3f3e904a5f62637d83848e163e1bf49bd937293f573",
+      "fileSize": 54488
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Vapor Trails",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MuzFaOWv",
+      "slug": "create-aeronautics-vapor-trails",
+      "versionId": "dr8kBf9e",
+      "versionNumber": "2.4.0",
+      "filename": "vaportrails-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MuzFaOWv/versions/dr8kBf9e/vaportrails-2.4.0.jar",
+      "sha1": "c8277dc2dccee0be5bfcb5ae88ed38e867183151",
+      "sha512": "c9793fac5984a683bcd4c3c8f83a803cc1c305558a42e9175863806e873db44b9dc3d52d26c75209b51c1205cc71e5b8c5259e51db695de7fa524dda6be39c0d",
+      "fileSize": 120313
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

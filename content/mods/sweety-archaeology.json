@@ -1,0 +1,23 @@
+{
+  "name": "Sweety's Archaeology",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Lwr07rKF",
+      "slug": "sweety-archaeology",
+      "versionId": "5kvbRSuq",
+      "versionNumber": "1.1.0",
+      "filename": "sweety_archaeology-1.1.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Lwr07rKF/versions/5kvbRSuq/sweety_archaeology-1.1.0-neoforge-1.21.1.jar",
+      "sha1": "393c9c59d7d6f59e432ba1240253c58f55e69365",
+      "sha512": "7dfe622fe30ddeb7882d7d0a0772c1590f393bdd75789bfc9460f5a4215d5b772a6d54602233271a990fac6c18a46de72ca221a62eb19634ab8a3b613239c15e",
+      "fileSize": 1304642
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

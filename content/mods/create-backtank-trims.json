@@ -1,0 +1,23 @@
+{
+  "name": "Create: Backtank Trims & Dyes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yxqh0Zmh",
+      "slug": "create-backtank-trims",
+      "versionId": "nMOCJpau",
+      "versionNumber": "1.2.1",
+      "filename": "createbacktanktrims-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yxqh0Zmh/versions/nMOCJpau/createbacktanktrims-1.2.0.jar",
+      "sha1": "b0db5ce7695dc5296be2366a83f375fb4c9ae58b",
+      "sha512": "0ebd33f984c34879b505bc51e72c98ecf2b28b8da5bbc697fc557493a50c9e1be0aa12d891b6a294f9a0599cea305a94ff8a547b35c0a51360330d2f8d2db909",
+      "fileSize": 46147
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

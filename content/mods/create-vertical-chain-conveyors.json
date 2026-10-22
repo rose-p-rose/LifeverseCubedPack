@@ -1,0 +1,23 @@
+{
+  "name": "Create: Vertical Chain Conveyors",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "joibNLTJ",
+      "slug": "create-vertical-chain-conveyors",
+      "versionId": "gHYRNYEg",
+      "versionNumber": "1.3.0",
+      "filename": "verticalchainconveyors-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/joibNLTJ/versions/gHYRNYEg/verticalchainconveyors-1.21.1-1.3.0.jar",
+      "sha1": "88548ce40733166ba96b369945be1b28edafe992",
+      "sha512": "0526801b0824f9f49db8f1d5d00d5af5a5268518332eb3207ec30ab5f285703d3f89b5e6429c032a6e9bd93a0453940ebd30992c5b7e4bbd714996876f44388a",
+      "fileSize": 164926
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

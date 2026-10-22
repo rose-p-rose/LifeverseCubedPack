@@ -1,0 +1,23 @@
+{
+  "name": "Create: Retrimmed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Z6unmvLc",
+      "slug": "create-retrimmed",
+      "versionId": "57roOR8s",
+      "versionNumber": "V2",
+      "filename": "Create-Retrimmed-1.21.1-v2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Z6unmvLc/versions/57roOR8s/Create-Retrimmed-1.21.1-v2.jar",
+      "sha1": "bf2a8370135c465ee770c568ff7d45b3640452dd",
+      "sha512": "e69e4e8389cf04fb56f840afb9a89384ced3ed148eff9ec26d23de057ee14abd1acd0d152d014fc9e52263097b66de4adba29ab4370167583dd331c7cc3184bc",
+      "fileSize": 326813
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

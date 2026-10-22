@@ -1,0 +1,23 @@
+{
+  "name": "Death Keeper - Grave Stones",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6pKePRpb",
+      "slug": "death-keeper",
+      "versionId": "fwQHyyJk",
+      "versionNumber": "1.21.1-1.0b",
+      "filename": "death_keeper-1.0b.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6pKePRpb/versions/fwQHyyJk/death_keeper-1.0b.jar",
+      "sha1": "e923deaef77c84fe184eb18fef27dd953e4de031",
+      "sha512": "9d2df394ee90675e4a71f1f77df6c21095cab1790984d78b8b448bada0979416c2199e11ebf621c17a5a9fadbe862d5e2b8c1f7161b383b895d820d6c6be3069",
+      "fileSize": 44125
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

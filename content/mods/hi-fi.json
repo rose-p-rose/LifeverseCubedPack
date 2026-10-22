@@ -1,0 +1,23 @@
+{
+  "name": "Hi-Fi",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "skbyK9mL",
+      "slug": "hi-fi",
+      "versionId": "MPz6NadR",
+      "versionNumber": "0.1.1",
+      "filename": "hifi-0.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/skbyK9mL/versions/MPz6NadR/hifi-0.1.1.jar",
+      "sha1": "0a41b4ea6ae4f1c4c3562c7fdb6273921460aceb",
+      "sha512": "62fe8e3813b7d421114336eda2345d084857610688a0ac5e6a3c58c3e893d92731b49de928a5a3c27399b062a768bb402bcd125226665da202ea27ddb6df2b37",
+      "fileSize": 3656755
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8vfIIrYM",
+      "slug": "unofficial-mandalas-gui-dark-mode-mod-compatibility",
+      "versionId": "eRWE69oA",
+      "versionNumber": "0.3",
+      "filename": "Mandala's GUI - Dark Mode Compat 0.3.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/8vfIIrYM/versions/eRWE69oA/Mandala%27s%20GUI%20-%20Dark%20Mode%20Compat%200.3.zip",
+      "sha1": "d75dd037b42761e003f8075c73eb15c71f99e2fb",
+      "sha512": "ba9a13fa2c92284897ad4b9b3e96700099937c9282b46102f0fde5d35d49b6a8548f90db7d07583812dad61d1a101146a5d3cb7ef10caba6acb67a7ae7be8662",
+      "fileSize": 545914
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

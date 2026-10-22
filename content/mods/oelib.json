@@ -1,0 +1,23 @@
+{
+  "name": "One Enough Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7ODqOXka",
+      "slug": "oelib",
+      "versionId": "GLkyyaFG",
+      "versionNumber": "0.2.3",
+      "filename": "OELib-neoforge-1.21.1-0.2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7ODqOXka/versions/GLkyyaFG/OELib-neoforge-1.21.1-0.2.3.jar",
+      "sha1": "8457b2423f62c896ef8c290ab511a0a71b442750",
+      "sha512": "bf5ffa8abad4b972a2b49ac109c7f7a7fad1c9eb84f51851185c1c3717941c7d3a0229c284e9ddfafcaf2bde8bd17df9e13ce5e991d567ede505346c42a60b1b",
+      "fileSize": 840689
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

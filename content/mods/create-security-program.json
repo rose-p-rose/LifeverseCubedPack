@@ -1,0 +1,23 @@
+{
+  "name": "Create: Security Program",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "q4goJtip",
+      "slug": "create-security-program",
+      "versionId": "wJ86cc5f",
+      "versionNumber": "1.21.1-2.01-release",
+      "filename": "create_security-1.21.1-2.01-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/q4goJtip/versions/wJ86cc5f/create_security-1.21.1-2.01-release.jar",
+      "sha1": "c23e67576e9719c40ba9188bc78780345bedb6df",
+      "sha512": "6594722326e2060cd71decbee8b86e9090eb995e43e14fceecc55b28e9327230e28ccd213f18d5792270d9765afb05f16b23ed0bfd2562d40f2eedcea65c881d",
+      "fileSize": 244845
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

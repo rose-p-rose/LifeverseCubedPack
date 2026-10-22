@@ -1,0 +1,23 @@
+{
+  "name": "Create Utilities (Unofficial Port)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8gamiD8q",
+      "slug": "create-utilities-unofficial-port",
+      "versionId": "RFKEUHLr",
+      "versionNumber": "0.3.7",
+      "filename": "createutilities-0.3.7+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8gamiD8q/versions/RFKEUHLr/createutilities-0.3.7%2Bmc1.21.1.jar",
+      "sha1": "ac28e0b6357aa568235774efa4cb7a20a67d9487",
+      "sha512": "a67d58842776da358f0db31f851ccf31b2043c78599b9fb6e4ccd3c7b491eb4e8577a76616834d789e476873554dd5bbab8e0174ee834c5c01e3dd5cd7b7db5e",
+      "fileSize": 373030
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

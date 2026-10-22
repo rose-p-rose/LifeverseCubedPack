@@ -1,0 +1,23 @@
+{
+  "name": "Flat Man's Pebbles",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "VwG8Fr3B",
+      "slug": "flat-mans-pebbles",
+      "versionId": "8udEPX4F",
+      "versionNumber": "0.0.1",
+      "filename": "Flat+Man's+Pebbles+1.21.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/VwG8Fr3B/versions/8udEPX4F/Flat%2BMan%27s%2BPebbles%2B1.21.1.zip",
+      "sha1": "dddc1e102a3d1c657645e7dafce62878265f60c5",
+      "sha512": "c50777cb64cdce03245ff731bcb551bc15492624f34742409ae2b5857972c536ae8813fd4bfab46080a857c3b3b7f8c6e0f3bd5126e92bbf5937bd1c9637dc5d",
+      "fileSize": 43684
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

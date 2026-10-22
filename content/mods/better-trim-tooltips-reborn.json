@@ -1,0 +1,23 @@
+{
+  "name": "Better Trim Tooltips Reborn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ohBoYgLA",
+      "slug": "better-trim-tooltips-reborn",
+      "versionId": "T16Bir7Y",
+      "versionNumber": "1.1.0+neoforge",
+      "filename": "better-trim-tooltips-reborn-1.1.0+mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ohBoYgLA/versions/T16Bir7Y/better-trim-tooltips-reborn-1.1.0%2Bmc1.21.1-neoforge.jar",
+      "sha1": "e136db2ff761fa3a7259be9df761f2c6f29ca5b3",
+      "sha512": "3e19d8a83f9cbd467e395245dfa14a0879b9b68be80560ddaa5f349c7e7ad2fddff67936d77d2552aa416f8626cfa7b94bb2729685962ea82af176b32ab10505",
+      "fileSize": 6618
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

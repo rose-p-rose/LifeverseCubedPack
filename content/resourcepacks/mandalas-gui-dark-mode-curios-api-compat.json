@@ -1,0 +1,23 @@
+{
+  "name": "Mandala's GUI - Dark mode Curios API Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EKtoUY41",
+      "slug": "mandalas-gui-dark-mode-curios-api-compat",
+      "versionId": "ZHyf99VX",
+      "versionNumber": "1.1.0",
+      "filename": "Mandala's GUI - Dark mode Curios API Compat 1.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/EKtoUY41/versions/ZHyf99VX/Mandala%27s%20GUI%20-%20Dark%20mode%20Curios%20API%20Compat%201.1.zip",
+      "sha1": "d6796ad1df7c6c99be574e550d020a2f94a674d5",
+      "sha512": "4c2ac208d4384e34d20db0a9f6636c31f9de05d239ecaaa0c4362ee93b92f0a4c40657e0a7bd370f6ac77bcfb3001e225fe8b2829c14d0ab1074c86d355cd235",
+      "fileSize": 21336
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

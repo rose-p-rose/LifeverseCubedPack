@@ -1,0 +1,23 @@
+{
+  "name": "Backpacked: World of Color",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "A7BK3BVe",
+      "slug": "backpacked-world-of-color",
+      "versionId": "GRuoSNmc",
+      "versionNumber": "3.0.3",
+      "filename": "backpacked-world-of-color-3.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/A7BK3BVe/versions/GRuoSNmc/backpacked-world-of-color-3.0.3.jar",
+      "sha1": "4c96e24c452b28eb9f4cbe9e45f27b588d48cc08",
+      "sha512": "d910bafa8017e63c29eba3f298df9050be7f309ebf3d9a4114e458933d63d13a43ec42a52cbca356d8a0e570947fefa2245b7eabfcfaf7b50bb5adee26bd6437",
+      "fileSize": 59054
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

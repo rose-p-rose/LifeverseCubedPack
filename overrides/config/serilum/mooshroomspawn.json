@@ -1,0 +1,11 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Mooshroom Spawn -> Config",
+	"Enable Mooshroom Spawn": {
+		"//": "Whether Mooshroom Spawn is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"chanceCowIsMooshroom": {
+		"//": "The chance a cow that has spawned is of the mooshroom variant. min: 0, max: 1",
+		"value": 0.05
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LightSpeedRe",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "niZHUKxZ",
+      "slug": "lightspeedre",
+      "versionId": "3lDR3Cp2",
+      "versionNumber": "2.0.5+hotfix.neoforge.1.21.1",
+      "filename": "lightspeed-1.21.1-2.0.5+hotfix.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/niZHUKxZ/versions/3lDR3Cp2/lightspeed-1.21.1-2.0.5%2Bhotfix.jar",
+      "sha1": "b3c0db5c6c01a443166d9c69004f650005606c43",
+      "sha512": "c14ca738d77f0199a3c0e5da65591f748881a8b664e694fe49fb7ab5d797e2c48daaf440025b3ea27dad359003296bdfb79d0ed9496eb98d712f8915beaf84a3",
+      "fileSize": 654826
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

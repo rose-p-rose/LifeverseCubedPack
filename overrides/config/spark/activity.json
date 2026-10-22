@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "RoseProse",
+      "uniqueId": "8a75e112-9903-4f71-89e9-ca02aed18763"
+    },
+    "time": 1792611650598,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/txKz5aYkRB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RoseProse",
+      "uniqueId": "8a75e112-9903-4f71-89e9-ca02aed18763"
+    },
+    "time": 1792373010756,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/tBf0rueHOj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "RoseProse",
+      "uniqueId": "8a75e112-9903-4f71-89e9-ca02aed18763"
+    },
+    "time": 1792310200574,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4FhJShUw06"
+    }
+  }
+]

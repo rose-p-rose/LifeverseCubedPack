@@ -1,0 +1,31 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Cave Spider Spawn -> Config",
+	"Enable Cave Spider Spawn": {
+		"//": "Whether Cave Spider Spawn is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"chanceSpiderIsCaveSpider": {
+		"//": "The chance a spider that has spawned is a cave spider. min: 0, max: 1",
+		"value": 0.15
+	},
+	"onlySpawnCaveSpidersBelowSurface": {
+		"//": "When enabled, cave spiders will only spawn below the surface.",
+		"value": true
+	},
+	"onlySpawnCaveSpidersBelowSpecificY": {
+		"//": "When enabled, cave spiders will only spawn below the specific y value set in 'belowSpecificY'.",
+		"value": false
+	},
+	"belowSpecificY": {
+		"//": "The specific y value used in 'onlySpawnCaveSpidersBelowSpecificY'. min: -1,000, max: 1,000",
+		"value": 0
+	},
+	"dimensionsToSpawnIn": {
+		"//": "Dimensions in which spiders can turn into cave spiders, separated by a comma. Leave empty for every dimension. For example: 'minecraft:overworld,minecraft:the_nether'.",
+		"value": ""
+	},
+	"biomesToSpawnIn": {
+		"//": "Biomes in which spiders can turn into cave spiders, separated by a comma. Biome tags work too, starting with a '#'. Leave empty for every biome. For example: 'minecraft:dripstone_caves,minecraft:lush_caves'.",
+		"value": ""
+	}
+}

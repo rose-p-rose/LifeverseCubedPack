@@ -1,0 +1,23 @@
+{
+  "name": "Artemis' Laboratory Blocks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "C6R8uCNQ",
+      "slug": "artemis-laboratory-blocks",
+      "versionId": "aUb1vaDS",
+      "versionNumber": "1.21.1-0.8.4r",
+      "filename": "laboratoryblocks-1.21.1-0.8.4r.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C6R8uCNQ/versions/aUb1vaDS/laboratoryblocks-1.21.1-0.8.4r.jar",
+      "sha1": "68a376af433fe83f15e3a2c64379b1929b0bbc1d",
+      "sha512": "f027e00beae2e76624db0968f48b4134468915e13d487117963fe3567d8c5a1753b7145169a066c40f40da710f55e8299fc9073219f0cd38efa96afbff3712c6",
+      "fileSize": 962362
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

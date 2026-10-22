@@ -1,0 +1,25 @@
+{
+  "name": "MezzConfig",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7tEfOcA7",
+      "slug": "mezzconfig",
+      "versionId": "idpM3DKC",
+      "versionNumber": "0.6.8",
+      "filename": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7tEfOcA7/versions/idpM3DKC/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "sha1": "d99ed592d8ab7105c00444047be7d8346d694ba3",
+      "sha512": "ed5ff5acf441ae2a9d2ba7ccc59e9394f4cf1e0f14802dd2ea01e9cd60c3cd412039d12f68297b3726eef63a8a85e6f4340bd969dbd1ab7e1ddc7aef88992e6b",
+      "fileSize": 327173
+    }
+  },
+  "dependents": [
+    "u6dRKJwZ"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

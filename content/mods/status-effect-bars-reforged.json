@@ -1,0 +1,23 @@
+{
+  "name": "Status Effect Bars Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TxIuhIFo",
+      "slug": "status-effect-bars-reforged",
+      "versionId": "PPVE16f7",
+      "versionNumber": "1.0.2",
+      "filename": "statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TxIuhIFo/versions/PPVE16f7/statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
+      "sha1": "bc2d624a831126bb00032d53ca0211d026e95682",
+      "sha512": "7d81eeb0e60fb304f0a26d696911b4aa0771553975275214750ae99511da17850ad196fb5268cb4362959c10221beb5c92e43ed1d965493c8a76354e76555540",
+      "fileSize": 25114
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

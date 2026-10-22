@@ -1,0 +1,23 @@
+{
+  "name": "Steve's Realistic Sleep",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZPywkPEo",
+      "slug": "stevesrealisticsleep",
+      "versionId": "yyV1Sr0e",
+      "versionNumber": "1.12.1",
+      "filename": "stevesrealisticsleep-1.12.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZPywkPEo/versions/yyV1Sr0e/stevesrealisticsleep-1.12.1-neoforge-1.21.1.jar",
+      "sha1": "49ff30e0bb8d8de5107ae40e819bf5e241c96350",
+      "sha512": "eb24d71a8303810b9d4e03b15ab419c5885efddc4369da6419cd9f549b5469beb3181b1af62a4fc5b6ee8d5179884b28cb67e484ebce0854d4977f41220f03e0",
+      "fileSize": 367527
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

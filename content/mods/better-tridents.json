@@ -1,0 +1,23 @@
+{
+  "name": "Better Tridents",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KNUSlHiU",
+      "slug": "better-tridents",
+      "versionId": "UVSMPjiS",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "filename": "BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KNUSlHiU/versions/UVSMPjiS/BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "0f0903bf03f2dda02bf4c12f96c2bd52acb492c7",
+      "sha512": "2be3dbdadb6d2e71a4be9a4b96864af72fb9f358e9f6770e9a00565284d8aaa966f9d7a14917241234c340e7eadfb45603732d10c284b01325c749dd9d9fd629",
+      "fileSize": 71235
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "One Enough Item",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7pCNymxz",
+      "slug": "one-enough-item",
+      "versionId": "1gXNmHrU",
+      "versionNumber": "1.0.8",
+      "filename": "oneenoughitem-neoforge-1.21.1-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7pCNymxz/versions/1gXNmHrU/oneenoughitem-neoforge-1.21.1-1.0.8.jar",
+      "sha1": "c1acb64060602f5a9c7397224832d1ef75f9146b",
+      "sha512": "cfb459b24ad65646b2c1abfd3ed23d92e14c69bc1b973cd164d31ccbc2861611220b323be4dfafd14308e448eed7dc25a0703e0a6793a03325032ee802f52a80",
+      "fileSize": 260782
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

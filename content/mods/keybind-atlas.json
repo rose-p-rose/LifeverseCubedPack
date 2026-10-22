@@ -1,0 +1,23 @@
+{
+  "name": "Keybind Atlas",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fokFjwwh",
+      "slug": "keybind-atlas",
+      "versionId": "zT1hSwL5",
+      "versionNumber": "2.0.0",
+      "filename": "KeybindAtlas-v2.0.0-mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fokFjwwh/versions/zT1hSwL5/KeybindAtlas-v2.0.0-mc1.21.1-neoforge.jar",
+      "sha1": "c3478caa1058655e81099436f9e52d4d9aa5fd47",
+      "sha512": "8fd5133a820202fc73ec02a49fcfa1981c0cb21b871b278c25a75c9da5b203d34d16912f8ed3475fb515470c54a0218114bf77c4311e13bcc63d2349376988f9",
+      "fileSize": 544349
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

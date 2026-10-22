@@ -1,0 +1,23 @@
+{
+  "name": "Post It!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "W45bEW8v",
+      "slug": "post-it",
+      "versionId": "XGPYBJwN",
+      "versionNumber": "1.1.0",
+      "filename": "postit-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W45bEW8v/versions/XGPYBJwN/postit-1.1.0.jar",
+      "sha1": "b9123c07b8c2f70c751a5768a691b09a22f4c2b7",
+      "sha512": "fba2d5653bb26ea2d0f05240def9819b847b149dd668dd6d521671841e9247e78fd6c20d478eefb02dfbf940f1dd8a406449af8d7123e447be9fc4a6b41ec2aa",
+      "fileSize": 105800
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

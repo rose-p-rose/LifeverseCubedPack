@@ -1,0 +1,23 @@
+{
+  "name": "Mandala's GUI Vanilla Crosshair",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4zlIFp4J",
+      "slug": "mandalas-gui-vanilla-crosshair",
+      "versionId": "gEJ9lmGO",
+      "versionNumber": "1.0",
+      "filename": "Mandela's GUI Vanilla Crosshair 1.21.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/4zlIFp4J/versions/gEJ9lmGO/Mandela%27s%20GUI%20Vanilla%20Crosshair%201.21.zip",
+      "sha1": "fd9604eac132e13c7a1a9a2fd152c49ad3601bf6",
+      "sha512": "93b992203d644759aaf8f58bccb7350b1c01054743c013e3b101b010fd02ac2a73a60c3f00d080b571b1ac3a0ae49c867c6733490eeed40d863430f9702b3814",
+      "fileSize": 8876
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

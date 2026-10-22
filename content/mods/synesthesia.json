@@ -1,0 +1,23 @@
+{
+  "name": "Synesthesia: Sound Visualizer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RgspBTE9",
+      "slug": "synesthesia",
+      "versionId": "ViRpaCdV",
+      "versionNumber": "1.0.0",
+      "filename": "synesthesia-1.21.1-NeoForge-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RgspBTE9/versions/ViRpaCdV/synesthesia-1.21.1-NeoForge-1.0.0.jar",
+      "sha1": "888c6e426165c09b3b10979106e8fd72605051f6",
+      "sha512": "bb3094e012ad895fbe5209fccc9f095481abf1f81a0e1b06963af764e1679164d089219ebf3622215f4132cd6ee91256f989d6e520271c464f6a1693f5b0b15c",
+      "fileSize": 24287
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

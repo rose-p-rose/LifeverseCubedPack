@@ -1,0 +1,28 @@
+{
+  "name": "Every Compat (Gems Realm)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "v259p1An",
+      "slug": "gems-realm",
+      "versionId": "iMuPtOS2",
+      "versionNumber": "1.21",
+      "filename": "gemsrealm-1.21-2.11.5-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/v259p1An/versions/iMuPtOS2/gemsrealm-1.21-2.11.5-neoforge.jar",
+      "sha1": "f4c350854942fcaf5d6ff784800c7d63bd6dc373",
+      "sha512": "44f14bdea5d8bd576508acf02b5da325e1ea678d54ba2f4b389e9f5aadb209ab98001e1f9c24f1ba3f556522381aa6d557f1b406961d6b4c5efcf4be024036b8",
+      "fileSize": 892077
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "eiktJyw1",
+    "uYwn8IP5",
+    "v259p1An"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

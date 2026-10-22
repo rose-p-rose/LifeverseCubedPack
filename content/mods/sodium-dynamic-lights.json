@@ -1,0 +1,23 @@
+{
+  "name": "Sodium Dynamic Lights",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PxQSWIcD",
+      "slug": "sodium-dynamic-lights",
+      "versionId": "XI0WLXdn",
+      "versionNumber": "neoforge-1.21.1-1.0.10",
+      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+      "sha512": "ec19a81cf2dfde255990a457d8f6d7375df53cb94190dce71c4bfe5d5263f4862027ce4aa0af20cb11d56c7c031d5e149b3bdf95bec6343e5bd4552450b14c0a",
+      "fileSize": 299353
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

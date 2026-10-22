@@ -1,0 +1,23 @@
+{
+  "name": "Create: Some Assembly Required",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jZi8ogTA",
+      "slug": "some-assembly-required",
+      "versionId": "G8Lz8Txm",
+      "versionNumber": "5.2.8",
+      "filename": "someassemblyrequired-5.2.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jZi8ogTA/versions/G8Lz8Txm/someassemblyrequired-5.2.8.jar",
+      "sha1": "5e7fc02b85c7c6f128bdebd65b6133734fce7088",
+      "sha512": "de9c76595188852b187718aaf6287a6057e4135b5f45dfe9201b302ccdd0a5cf967314e1025c305b4fdcbcc94d1dcab8a379e8488f6adedbf3e9eb2f959ff9cc",
+      "fileSize": 451898
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

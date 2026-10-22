@@ -1,0 +1,23 @@
+{
+  "name": "Hallmark",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xGi3oB4R",
+      "slug": "hallmark",
+      "versionId": "xXVTMkTV",
+      "versionNumber": "1.0.1",
+      "filename": "hallmark-1.21.1-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xGi3oB4R/versions/xXVTMkTV/hallmark-1.21.1-1.0.1.jar",
+      "sha1": "3e0e0ea28843af82f5c422fa30e618ebc0c5bf0c",
+      "sha512": "6a1ceee7b3bbaffb67913e4acc9afafe1dabd0d185c41958ac13c9882fd076cdb011246edde51318fe3401db75a30df6028ce4f396a470a717f2fb1a2554b407",
+      "fileSize": 93317
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

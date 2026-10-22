@@ -1,0 +1,26 @@
+{
+  "name": "Reconnectible Chains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5pzBXDS3",
+      "slug": "reconnectible-chains",
+      "versionId": "e4yVoAvP",
+      "versionNumber": "2.4.4+1.21.1-neoforge",
+      "filename": "connectiblechains-2.4.4+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/e4yVoAvP/connectiblechains-2.4.4%2B1.21.1-neoforge.jar",
+      "sha1": "1a47d26e63bceb28b488058a7d80738212d83d8c",
+      "sha512": "c09a3a354a26ce0dc511c2364332975222fae8515101f524de5e724f3a191eb75ffb4f381b8c78907f885d7a7e86f1ce7b883d56921fb5f31709466446efe00a",
+      "fileSize": 293575
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "C1MoWQlb"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

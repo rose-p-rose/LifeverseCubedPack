@@ -1,0 +1,23 @@
+{
+  "name": "Wandering Trader May Leave",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kj7dPTJo",
+      "slug": "wandering-trader-may-leave",
+      "versionId": "hTL8B8e4",
+      "versionNumber": "1.21.1-2.0-fabric+forge+neo",
+      "filename": "wanderingtradermayleave-1.21.1-2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kj7dPTJo/versions/hTL8B8e4/wanderingtradermayleave-1.21.1-2.0.jar",
+      "sha1": "b2fbab0abcb627d9ff4fd1e31ae7f3dc725c9d47",
+      "sha512": "8556bfc56117935e088b5e889e149b9bacc5c66cd1897b62b2ac67baec5d65b7f19cf67fb2d8fb7f53708bbd347f4664a47648268f06b2fd573791e54bc3f8e0",
+      "fileSize": 88911
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

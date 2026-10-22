@@ -1,0 +1,23 @@
+{
+  "name": "Mini Music Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eiONV3dI",
+      "slug": "mini-music-tweaks",
+      "versionId": "vUk3iT2o",
+      "versionNumber": "1.8.0-1.21.1-neoforge",
+      "filename": "music_tweaks-neoforge-1.21.1-1.8.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eiONV3dI/versions/vUk3iT2o/music_tweaks-neoforge-1.21.1-1.8.0.jar",
+      "sha1": "34f04528d750033bac62e65ae7ba193315c07871",
+      "sha512": "bd1c95a49f1c62a43ac51930ae246ac8de17aea36436207a191d148fe4bf912e8cb20dc1f7b4384423221b8656a933974fee1327e95a1f0974daaa46cc52fc53",
+      "fileSize": 92266
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mandala's GUI - opaque buttons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "75h8TJRB",
+      "slug": "mandalas-gui-opaque-buttons",
+      "versionId": "5tO8OdB0",
+      "versionNumber": "1",
+      "filename": "§3Madala's GUI - Opaque Buttons.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/75h8TJRB/versions/5tO8OdB0/%C2%A73Madala%27s%20GUI%20-%20Opaque%20Buttons.zip",
+      "sha1": "fdcc64fe2db58f0e475f813ebcbabe1c9ec24512",
+      "sha512": "7bfa7cb71c21a4de46405840b95b55734d4e82ed4616ee97ca19721cf4ee60e3de5227eafed75f00ef99a706b0192e0bdf70067f1ce629ce7ec3105bac1b2378",
+      "fileSize": 18843
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

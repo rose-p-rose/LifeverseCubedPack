@@ -1,0 +1,23 @@
+{
+  "name": "Etch and Copy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "T6hgVQLF",
+      "slug": "etch-and-copy",
+      "versionId": "E7VGQ9ot",
+      "versionNumber": "1.0",
+      "filename": "etch_and_copy-1.21.1-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/T6hgVQLF/versions/E7VGQ9ot/etch_and_copy-1.21.1-1.0.jar",
+      "sha1": "a01adcb3fdf61d149064835998816c52dc65fd5e",
+      "sha512": "89593ccae8ad9691b024606153ef04247a1f903b77ae9482b8b01963d58e808f693455e552a85104f5a914fb9138bef22813d3696aa6e10429164a2d4a45cb14",
+      "fileSize": 76109
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

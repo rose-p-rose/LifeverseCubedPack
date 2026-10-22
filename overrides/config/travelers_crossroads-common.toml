@@ -1,0 +1,24 @@
+#How many chunks away from world center a path must be to spawn
+# Default: 7
+# Range: > 0
+distanceFromWorldCenter = 7
+#Maximum vertical checks while finding valid path surface Y before giving up
+# Default: 96
+# Range: > 1
+maxFindYSteps = 96
+#Maximum number of path sections placed per build tick
+# Default: 2
+# Range: > 1
+maxSectionsPerTick = 2
+#Maximum retries for placing the same path section before aborting that path
+# Default: 12
+# Range: > 1
+maxSectionPlaceRetries = 12
+#How many chunks away from a crossroad a structure can be and still get a path
+# Default: 20
+# Range: 1 ~ 256
+maxStructureDistance = 20
+#How far to search for structures, in structure grid cells (about 32-40 chunks each for vanilla structures). High values can freeze the server when nothing is nearby
+# Default: 3
+# Range: 1 ~ 15
+structureSearchRadius = 3

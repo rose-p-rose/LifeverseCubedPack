@@ -1,0 +1,23 @@
+{
+  "name": "Figurity",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "n91WzTdO",
+      "slug": "figurity",
+      "versionId": "YUspQzr1",
+      "versionNumber": "2.0.1+1.21.1",
+      "filename": "figurity-2.0.1-1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n91WzTdO/versions/YUspQzr1/figurity-2.0.1-1.21.1-neoforge.jar",
+      "sha1": "80b0dec02f4feeaf422f424bb3057a07954e7284",
+      "sha512": "6a20a291f5e0694097715004872a278099db36a63c289b16ae1e05c55f23b31965d1f0b462d736d0ea7aad97afec3e6cb7cfd9db5221fe2efd95b55da154b20d",
+      "fileSize": 708705
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

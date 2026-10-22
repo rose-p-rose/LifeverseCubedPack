@@ -1,0 +1,6 @@
+#Nature Workshop
+[general]
+	#Limit the Trait Editor to players in creative mode and operators.
+	#
+	#Off (the default), anyone can restyle a mob's variant, colour and size.
+	traitEditorCreativeOnly = true

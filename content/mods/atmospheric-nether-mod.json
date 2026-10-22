@@ -1,0 +1,23 @@
+{
+  "name": "Atmospheric Nether",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KD9xXJbY",
+      "slug": "atmospheric-nether-mod",
+      "versionId": "wBWne3VJ",
+      "versionNumber": "2.0.0",
+      "filename": "atmospheric_nether_neoforge-2.0.0-1.21.0-1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KD9xXJbY/versions/wBWne3VJ/atmospheric_nether_neoforge-2.0.0-1.21.0-1.jar",
+      "sha1": "9b38a46a239c813c2c99bc649d6db6e24d743bd5",
+      "sha512": "07325a46fe82033ec66914f0c8bb9f91ee25932bf32faf9b34f3bb547af59434913feec8a2b3d4e41b87b3561e3f160b5e7a0f976758575520cf024201b1726f",
+      "fileSize": 504831
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

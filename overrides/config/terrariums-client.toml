@@ -1,0 +1,19 @@
+#Terrariums & Aquariums - display
+[display]
+	#How far away, in blocks, a tank's interior is still drawn. Past it a
+	#tank shows only its frame and glass.
+	#
+	#Further costs frame rate in a room full of tanks, and past 64 the
+	#server keeps sending a tank's creatures out to this distance too.
+	# Default: 40
+	# Range: 8 ~ 128
+	tankInteriorDistance = 40
+	#How far away, in blocks, the ground, plants and blocks inside a tank are
+	#still drawn. Past it a tank shows only its water and creatures, out to
+	#tankInteriorDistance. Further costs frame rate in a room full of tanks.
+	# Default: 18
+	# Range: 8 ~ 128
+	tankTerrainDistance = 18
+	#Leave out the black outline round the block you look at when it is glass: the
+	#glass panels and arches, and any glass block or pane (the game's or a mod's).
+	hideGlassOutline = true

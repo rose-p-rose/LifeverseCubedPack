@@ -1,0 +1,23 @@
+{
+  "name": "No Precision Mechanism Junk",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kYbBZRDK",
+      "slug": "no-precision-mechanism-junk",
+      "versionId": "o4ncSb6Z",
+      "versionNumber": "1.1.0-neo+mod",
+      "filename": "no-precision-mechanism-junk-1.1.0-neo.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kYbBZRDK/versions/o4ncSb6Z/no-precision-mechanism-junk-1.1.0-neo.jar",
+      "sha1": "c768cb969f66370836101836b373c944917663da",
+      "sha512": "935febecf309ccbe83d9ff8449f9c36637444a78a1f61f460185716d8944a35a8d63d9c19a91f17e184112fd3ef0a01fd90aff93c52cf1bd8c706a98cb25f670",
+      "fileSize": 25904
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

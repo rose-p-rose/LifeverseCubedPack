@@ -1,0 +1,23 @@
+{
+  "name": "Structure Generation Improver (SGI: Foundations!)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8NXpf3Um",
+      "slug": "structure-generation-improver-sgi-foundations",
+      "versionId": "QFntKDEr",
+      "versionNumber": "2.0.1",
+      "filename": "structure_generation_improver-2.0.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8NXpf3Um/versions/QFntKDEr/structure_generation_improver-2.0.1-neoforge-1.21.1.jar",
+      "sha1": "29cf2a6dc18c9698f9d86ccc4d95b88e4bbc306f",
+      "sha512": "5f04beb3f02e865ffa581c5aae870351b296839666d6c5666c633a9a33104e234d8bb1e9c60c5f2513274f454670656db26cd754f975481d5d72d9ae519592db",
+      "fileSize": 46926
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

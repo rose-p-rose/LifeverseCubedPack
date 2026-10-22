@@ -1,0 +1,23 @@
+{
+  "name": "Fontolith",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ds9wk2Q3",
+      "slug": "fontolith",
+      "versionId": "mlZLMB3H",
+      "versionNumber": "1.1.2",
+      "filename": "[Fontolith] v1.1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/ds9wk2Q3/versions/mlZLMB3H/%5BFontolith%5D%20v1.1.2.zip",
+      "sha1": "4630fad738e465af8c3e09edb7e578cf14f618cd",
+      "sha512": "01bffc510bc94b18921e8b3def0394408f4af88b704513ffa349084ed9d20c23e2d07228a51a0b26c97379ca6ce1e0b62210ef1131d71c04ecbb64c7847f8b22",
+      "fileSize": 59968
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,17 @@
+#Which modules should be enabled by default for new worlds.
+#Note this can still be overridden per-world and will not affect existing worlds.
+#This config is mainly intended for modpack developers. If you are an end user, prefer adjusting
+#modules per-world using the vanilla datapack menu.
+[moduleDefaults]
+	#Remove mending & alter unbreaking
+	durabilityRework = true
+	#Larger bookshelf radius & allow chiseled bookshelves
+	bookshelfPlacement = true
+	#Enchanting via chiseled bookshelves & remove table RNG
+	tableRework = true
+	#Prevent applying enchanted books to equipment in anvil
+	noAnvilBooks = true
+	#Reorganize where enchantments are unlocked & found
+	lootRework = true
+	#Mobs always drop enchanted equipment
+	guaranteedDrops = true

@@ -1,0 +1,62 @@
+#Terrariums & Aquariums
+[general]
+	#Turn the tank customization screen off completely.
+	#
+	#Right-clicking a tank with an empty hand takes you inside it instead of
+	#opening the manager, and the server refuses every action the manager
+	#offers - biome, weather, size, scale, presets, textures and pick-up.
+	#
+	#Critter nets, spawn eggs, mob buckets and the axe lid toggle keep working,
+	#and so does stepping into a tank and building in it.
+	disableManagerScreen = false
+	#How many tanks may merge into one assembly.
+	#
+	#Every tank in an assembly holds a 16x16x16 slice of the habitat
+	#dimension loaded, so a large one is a real cost in memory and chunk
+	#tickets: the default of 64 already keeps up to 64 slices open. Raise
+	#it only if you know your server can carry it.
+	#
+	#The 15-block span limit is NOT configurable and still applies:
+	#habitats sit 256 blocks apart in their own dimension and a 15-block
+	#assembly already spans 240, so a wider one would run into its
+	#neighbour's space.
+	# Default: 64
+	# Range: 1 ~ 3375
+	maxTankMembers = 64
+	#Disable Generate Terrain and loading saved terrain presets.
+	#
+	#Set this on the server to prevent players from repeatedly creating
+	#terrain blocks for free resources. Preset loading is also blocked
+	#because it copies saved blocks and would bypass this restriction.
+	#
+	#The manager, biome/weather selection, manual building and existing
+	#terrain keep working. Presets can still be saved, listed and deleted.
+	#This does not remove existing blocks or change their drops, and does
+	#not restrict water controls, mob tools or other resource mechanics.
+	#Restart the server after changing this option; a generation request
+	#already accepted before a live config reload can still finish.
+	disableTerrainGeneration = true
+	#Stop players leaving a habitat by holding sneak.
+	#
+	#Intended for map-style packs, where walking out of a tank at will would
+	#let a player escape whatever the tank was built to put them in.
+	#
+	#WARNING: with this on, nothing inside a habitat lets an ordinary player
+	#out on their own. Give them a way back - a command block running
+	#'/terrariums leave @p' is the simplest. The command needs permission
+	#level 2, so command blocks and operators can run it and players cannot,
+	#which is what keeps the restriction meaningful.
+	disableSneakToLeave = false
+	#Silence every message the mod shows a player - the action bar lines and
+	#chat notices for entering and leaving, catching and homing creatures,
+	#picking a tank up, sweeping items and so on.
+	#
+	#For map packs that narrate everything themselves and do not want a mod
+	#talking over them.
+	#
+	#Two things are deliberately not silenced. Terrain generation feedback
+	#only appears from the manager's Generate Terrain button, which a pack
+	#silencing messages has almost certainly switched off already. And the
+	#'/terrariums debug' read-out stays, because it is a developer tool behind
+	#permission level 2 that would look broken if it printed nothing.
+	disableMessages = false

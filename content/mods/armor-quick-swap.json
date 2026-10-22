@@ -1,0 +1,23 @@
+{
+  "name": "Armor Quick Swap",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YxCEfYbF",
+      "slug": "armor-quick-swap",
+      "versionId": "DZi1Jm4Y",
+      "versionNumber": "v21.1.2-1.21.1-NeoForge",
+      "filename": "ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YxCEfYbF/versions/DZi1Jm4Y/ArmorQuickSwap-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "aab5fa5e9450bcf46624491ca876186cea15b46c",
+      "sha512": "b2930e7d0b9e3927df4f8c93420d87149d067e195204f47452167bcf54b3fe89ef6696e6bd473150473ef5a6b50a0ef0da58c52495ac38e1ca60044657629cf7",
+      "fileSize": 52580
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

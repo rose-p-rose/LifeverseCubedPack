@@ -1,0 +1,23 @@
+{
+  "name": "Refurbished More Apps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "I0dRMlEj",
+      "slug": "refurbished-more-apps",
+      "versionId": "o3yR6hbz",
+      "versionNumber": "1.0.1",
+      "filename": "glaidens_games-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/I0dRMlEj/versions/o3yR6hbz/glaidens_games-1.0.1.jar",
+      "sha1": "b35ddfb8943fe400c5922083c9467d7041faa429",
+      "sha512": "f32ba772ad2acc1c085e1add7c4cba5c3610d9694c9f7319f4cfa2f7093349eed639cbf8163cc6f8cf8da05795ad2253db2223ab32cccfc8cfd88a7f187a5003",
+      "fileSize": 273229
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

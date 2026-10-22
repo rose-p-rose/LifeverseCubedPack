@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Paintings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6txNkua3",
+      "slug": "immersive-paintings",
+      "versionId": "ItQ1UJGH",
+      "versionNumber": "0.7.9+1.21.1",
+      "filename": "immersive_paintings-neoforge-1.21.1-0.7.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6txNkua3/versions/ItQ1UJGH/immersive_paintings-neoforge-1.21.1-0.7.9.jar",
+      "sha1": "0386ff2db20edfcafc890760adb96073cd38c1a2",
+      "sha512": "de3e06f3c9f8ce6f041daff5c2b835ec0f386ccdab7ea7fe2cfec57f808ed25675fe056ff062d5f435f5248aa7f0eb3816ae7d4748da8e53beae2419008cb031",
+      "fileSize": 5506376
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

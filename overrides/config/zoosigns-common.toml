@@ -1,0 +1,2 @@
+#Stop the sign and camera's action-bar messages ("The camera needs paper to print on" and the like).
+disableMessages = false

@@ -1,0 +1,23 @@
+{
+  "name": "ChatHeads Figura Support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "swJ4MHGv",
+      "slug": "chatheads-figura-support",
+      "versionId": "58ifU1sH",
+      "versionNumber": "1.0.3+1.21.1-NeoForge",
+      "filename": "chat_heads_figura_support+mc1.21.1-neoforge-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/swJ4MHGv/versions/58ifU1sH/chat_heads_figura_support%2Bmc1.21.1-neoforge-1.0.3.jar",
+      "sha1": "76c8373415b22d67788a678389b85dd9f4fdfe44",
+      "sha512": "b6e6d2375fd8f03ab84c88d3ce188a405a3a88642fd874f8c139c3f12327be0b3ebe396319c8cdb24f863939cde731938ac64baaf331fd6962af98bb373c1355",
+      "fileSize": 7080
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "No Man's Land",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kjZCvAn6",
+      "slug": "no-mans-land",
+      "versionId": "yDQCtLNp",
+      "versionNumber": "1.6.2",
+      "filename": "nomansland-1.6.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kjZCvAn6/versions/yDQCtLNp/nomansland-1.6.2.jar",
+      "sha1": "0cb994acb13df1abec5d93a484a87b0acbc91d88",
+      "sha512": "c7da5e70bcf09933b6cacc8d383e840be78079a41a646cbc121863360c224ec3ffc9139568cfd3d0f350513208cd6b4dbdd3fc742d4495610e204f3339ffe00e",
+      "fileSize": 31730425
+    }
+  },
+  "dependents": [
+    "8ffHF0Dn",
+    "VwG8Fr3B"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

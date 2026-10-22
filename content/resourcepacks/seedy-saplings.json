@@ -1,0 +1,23 @@
+{
+  "name": "Seedy Saplings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "P6GgGa44",
+      "slug": "seedy-saplings",
+      "versionId": "D6SXlfmd",
+      "versionNumber": "2.0",
+      "filename": "Seedy Saplings.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/P6GgGa44/versions/D6SXlfmd/Seedy%20Saplings.zip",
+      "sha1": "9f94e50057d59089a0793fcb3397e6fc1cdd9b4c",
+      "sha512": "8f3cef567037ce5173606977e827ce925058d47293a720e71b1b222a7d5e0336ea17604b40315c0537bf3e5eb2554d21816b1764adba41635b3a4e9074c2fbfb",
+      "fileSize": 23116
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

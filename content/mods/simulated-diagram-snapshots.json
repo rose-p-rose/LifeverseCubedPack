@@ -1,0 +1,23 @@
+{
+  "name": "Simulated Diagram Snapshots",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mPy278OC",
+      "slug": "simulated-diagram-snapshots",
+      "versionId": "SQrm17E2",
+      "versionNumber": "1.0.3",
+      "filename": "simulated_diagram_snapshots-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mPy278OC/versions/SQrm17E2/simulated_diagram_snapshots-1.0.3.jar",
+      "sha1": "0f38d03dcaedb06fc178b64f8318cb5bb7c6b84c",
+      "sha512": "4ccf4dc8e899772f05ced88435f4fce9ab55e1b1670138a8d55e6d164169758b84b71e9b16005f911a6d5b0613cd2b74e4e2cbc1eff793f08630285596973d19",
+      "fileSize": 165761
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Living Wind",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1743716",
+      "slug": "",
+      "versionId": "9254887"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

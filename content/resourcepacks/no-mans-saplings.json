@@ -1,0 +1,23 @@
+{
+  "name": "No Man's Saplings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Wvh69uCe",
+      "slug": "no-mans-saplings",
+      "versionId": "4RZnEYiA",
+      "versionNumber": "1.0",
+      "filename": "Seedy_Saplings_NML.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wvh69uCe/versions/4RZnEYiA/Seedy_Saplings_NML.zip",
+      "sha1": "b95cb99e5c5a875f12176540e16f48ae7a5c7cab",
+      "sha512": "083636fa804d199a616d59f07c019566125666c55b90153bb34c06ee865fd2ca8a586f28bbfb3bd9867c04f2e99db07f61a43d1edcca63f3948fd3a484a4cb3b",
+      "fileSize": 29896
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

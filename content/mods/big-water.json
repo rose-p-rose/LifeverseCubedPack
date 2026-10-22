@@ -1,0 +1,23 @@
+{
+  "name": "Big Water",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8DnPmuty",
+      "slug": "big-water",
+      "versionId": "pjxmFC9D",
+      "versionNumber": "1.2.0-neoforge+mc1.21.1",
+      "filename": "bigwater-1.2.0-neoforge+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8DnPmuty/versions/pjxmFC9D/bigwater-1.2.0-neoforge%2Bmc1.21.1.jar",
+      "sha1": "5d1cf6603c8518faadd19230b700c7bdee9a6a4a",
+      "sha512": "6881ff5566b7c1906f88c19b2a496467d90784cedea59e28650e9ba4216251646a00bb41979b90cc07ca40e51bc998c525abaf40e074e8c3655a293cde99bd2e",
+      "fileSize": 24780765
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

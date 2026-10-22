@@ -1,0 +1,23 @@
+{
+  "name": "Brick & Mortar",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ntRJD9NS",
+      "slug": "brick-and-mortar",
+      "versionId": "8wAguQz5",
+      "versionNumber": "1.3.1-1.21.1-neoforge",
+      "filename": "brick_and_mortar-neoforge-1.21.1-1.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ntRJD9NS/versions/8wAguQz5/brick_and_mortar-neoforge-1.21.1-1.3.1.jar",
+      "sha1": "397209ade65abf67c27356e55646d8f7de32cc84",
+      "sha512": "e688821f5b306b0792270cd2e8c6cf1657ae5b054f2d0e2e42d2dcae63d18c7b0976c0cdf7edf80f649dd57e3c0944190d9528f5159c6aaa0f16f390bd2b4f81",
+      "fileSize": 2056387
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

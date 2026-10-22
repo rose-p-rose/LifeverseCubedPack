@@ -1,0 +1,5 @@
+[server]
+	# Default: 1
+	# Range: 1 ~ 10
+	maxRidersPerPlunger = 1
+	snapOnOverload = true

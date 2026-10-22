@@ -1,0 +1,23 @@
+{
+  "name": "Wet Backapacks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lgqEhwGc",
+      "slug": "wet-backapacks",
+      "versionId": "BKMRfQ4P",
+      "versionNumber": "1.0.3",
+      "filename": "wetbackpacks.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lgqEhwGc/versions/BKMRfQ4P/wetbackpacks.jar",
+      "sha1": "25fca11b890174d3fcaebe0b3a1cb84a2e1d76f4",
+      "sha512": "01be404175a49984fe44cf61714725328641369d2eaea3c708da917a4fff097a63a1ab7423dcac18692c3d001a6a380e27d401d819b4e1f548fbfbd233afcee8",
+      "fileSize": 53418
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

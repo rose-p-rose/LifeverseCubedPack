@@ -1,0 +1,23 @@
+{
+  "name": "Ancient Remnants: Monoliths",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qYtXvlBc",
+      "slug": "ancient-remnants",
+      "versionId": "R7lHZHzN",
+      "versionNumber": "1.5.2",
+      "filename": "ancient_remnants-1.5.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qYtXvlBc/versions/R7lHZHzN/ancient_remnants-1.5.2%2B1.21.1-neoforge.jar",
+      "sha1": "febbd4abcd8dc099f105802f6edb5bbaef0e79d6",
+      "sha512": "1ae2aca9e499883cc23e6c9c274fe76cbb436ae00607166413cefb7f475ab0173c842f6c08aa51af9a78ca275d1a977fe8d8510557837a7c2c6264135277d6d6",
+      "fileSize": 9637271
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

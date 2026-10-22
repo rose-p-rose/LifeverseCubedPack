@@ -1,0 +1,23 @@
+{
+  "name": "Nightosphere",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tdv7lfX5",
+      "slug": "nightosphere",
+      "versionId": "WaSVhi4e",
+      "versionNumber": "3.2+mod",
+      "filename": "nightosphere-3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tdv7lfX5/versions/WaSVhi4e/nightosphere-3.2.jar",
+      "sha1": "954b20d27e54bd439fd33bf7b857b8952cbe5ea2",
+      "sha512": "2b29b0f29806d0c48c35c2910777eb4341783dbda31edbe6371fd57620f7b7e6d8807a067c22334861c0433eb6652c160b515be2c18e634d1571e3e57ac6b128",
+      "fileSize": 293157
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

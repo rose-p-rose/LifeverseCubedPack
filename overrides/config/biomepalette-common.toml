@@ -1,0 +1,25 @@
+[painting]
+	#Maximum bucket radius: blocks use a sphere; water extends through connected vertical columns.
+	# Default: 8
+	# Range: 2 ~ 8
+	maxPaintRadius = 8
+
+#Biome Palette configuration
+[general]
+	#Automatically allow any block that actually has biome-dependent colouring.
+	#Colour handlers only exist on the client, so clients report their detected set
+	#to the server on join. Turn this off to restrict tinting to the
+	##biomepalette:tintable block tag only.
+	autoDetectTintedBlocks = true
+	#Block IDs that can never be tinted. Accepts exact IDs, e.g. "minecraft:water".
+	blacklist = []
+	#Allow tinting blocks that have a block entity.
+	allowBlockEntities = true
+
+#Tinted water
+[water]
+	#Carry a water tint downstream as the water flows.
+	#Only water that actually spreads from a tinted block inherits the colour, so
+	#water that was already there is never recoloured. Turn this off to colour
+	#nothing but the exact blocks you place.
+	tintFlowingWater = true

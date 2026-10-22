@@ -1,0 +1,26 @@
+{
+  "name": "RPG Dialogue",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "whSxUl8e",
+      "slug": "rpg-dialogue",
+      "versionId": "9eeHFvAJ",
+      "versionNumber": "1.0.14",
+      "filename": "rpg_dialogue-neoforge-1.21.1-1.0.14.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/whSxUl8e/versions/9eeHFvAJ/rpg_dialogue-neoforge-1.21.1-1.0.14.jar",
+      "sha1": "92bbb6df999aa978bc29cfbbad60b7c274ded797",
+      "sha512": "f7d4ac0e966da204fa9fd0eca2ea847e4d150c2e1bd84cc9d0192f62aab47413d1a29190f39799c3c98164d1c160bd6dc2ed4bbfec3f29d75b14e6e088f64279",
+      "fileSize": 358853
+    }
+  },
+  "dependents": [
+    "1636324",
+    "dyCvpPHH"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

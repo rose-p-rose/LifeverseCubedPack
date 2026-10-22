@@ -1,0 +1,23 @@
+{
+  "name": "Monsters in the Closet",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GMA8jFBD",
+      "slug": "monsters-in-the-closet",
+      "versionId": "8nOX0cUH",
+      "versionNumber": "1.0.3+1.21-neo",
+      "filename": "monsters_in_the_closet-1.0.3+1.21-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GMA8jFBD/versions/8nOX0cUH/monsters_in_the_closet-1.0.3%2B1.21-forge.jar",
+      "sha1": "1baf3e2a2e45023e1db66e839e0c85e3daad5784",
+      "sha512": "8c699eb05e5d53dcfea03cd3eb16fda574a13a99d045715f842fec31af051bd6fa81adf2a81d107883265c61bd540fb61f48ebf4b63917c2d1e8edff982fec8d",
+      "fileSize": 10441
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

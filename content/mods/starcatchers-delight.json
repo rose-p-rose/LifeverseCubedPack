@@ -1,0 +1,23 @@
+{
+  "name": "Starcatcher's Delight - Let's Do: Kaleidoscope edition",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NCXwQVxD",
+      "slug": "starcatchers-delight",
+      "versionId": "xPr0G0XR",
+      "versionNumber": "3.2-NEOFORGE-1.21.1",
+      "filename": "starcatcher_delight-3.2-NEOFORGE-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NCXwQVxD/versions/xPr0G0XR/starcatcher_delight-3.2-NEOFORGE-1.21.1.jar",
+      "sha1": "6e7fe7101f1012bf3e0b769d2f910627b14d3c86",
+      "sha512": "96321d31a5e507e07f48c2384bbb214e45b71eb7584a659d2b8ef96669daf9d6cc1c6a6df91b743c71b8b9cc233274cf9811ce67e9ae7ee8429a20d39243c39d",
+      "fileSize": 936624
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

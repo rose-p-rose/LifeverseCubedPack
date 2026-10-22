@@ -1,0 +1,23 @@
+{
+  "name": "Create: Hostile Skies",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "78hqRjWm",
+      "slug": "create-hostile-skies",
+      "versionId": "HaZ4GxKd",
+      "versionNumber": "0.2.6",
+      "filename": "hostile_skies-0.2.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/78hqRjWm/versions/HaZ4GxKd/hostile_skies-0.2.6.jar",
+      "sha1": "25eadcdcf4db40b5e5e33f3aa7080f71fe4033ee",
+      "sha512": "aacb60d2392aa2cf36417d60f95afd4ee334e5c4e3d0a426dfd3db1c5ff09ee012cc942995bd9f89c67b08ed19cf946c467431386e97dc893199804a817d9343",
+      "fileSize": 9708039
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
