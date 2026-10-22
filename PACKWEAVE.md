@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 218 mods (6 dependencies), 18 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 218 mods (6 dependencies), 18 resource packs
 
 ## Contents
 
