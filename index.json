@@ -710,7 +710,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "39922dcb55643bf7a56184863f01a308360a74fe"
+      "sha1": "4685c7d99dc216569c8e3808402989e451e4fcb3"
     },
     {
       "path": "content/mods/simulated-diagram-snapshots.json",
@@ -1570,7 +1570,7 @@
     },
     {
       "path": "overrides/config/figura.json",
-      "sha1": "b135eb61e49c854204ede6d50c47adf5c51f72f2"
+      "sha1": "99aee2af0354ccf48aa4352e01609a8862baf448"
     },
     {
       "path": "overrides/config/flappy_wings-server.toml",
@@ -2110,7 +2110,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "fa5bc701256a943ce71489c65a18c52b723be185"
+      "sha1": "99717753749d3e6f4408f7eab80a8b0f2a45b2d6"
     },
     {
       "path": "overrides/config/reliable_remover/packed_packs.folderpack.json",
@@ -2486,7 +2486,7 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "afaec264c65f918cfa925a1078aee2ee1722fdcf"
+      "sha1": "ae324aca318c109870c4d638d8c8514814feabdc"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",

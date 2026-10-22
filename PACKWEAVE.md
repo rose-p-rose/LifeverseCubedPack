@@ -196,7 +196,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Shadow Drop](https://modrinth.com/project/shadow-drop) `3.0.4+1.21.1-neoforge`
 - [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`
 - [Simple Datapacks](https://modrinth.com/project/simple-datapacks) `2.9.1-neoforge+1.21`
-- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.24`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.25`
 - [Simulated Diagram Snapshots](https://modrinth.com/project/simulated-diagram-snapshots) `1.0.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
