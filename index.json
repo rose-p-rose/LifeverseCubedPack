@@ -329,10 +329,6 @@
       "sha1": "2e9ae48273c4a24b10373a5296a0b21f2c74a9d0"
     },
     {
-      "path": "content/mods/fabric-api.json",
-      "sha1": "bf881b0a3d19dbf0d40099c4f715ce0c72373a01"
-    },
-    {
       "path": "content/mods/farmers-delight.json",
       "sha1": "58dafde3ad0c32f42ba6b0dab798f71f7e563e13"
     },
@@ -619,10 +615,6 @@
     {
       "path": "content/mods/reconnectible-chains.json",
       "sha1": "f518f774ba1f0926d44f52527e0872c2c177ffff"
-    },
-    {
-      "path": "content/mods/reeses-sodium-options.json",
-      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
     },
     {
       "path": "content/mods/refurbished-furniture.json",
