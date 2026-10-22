@@ -130,7 +130,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "2770724335d768031f37059838f4df7148dafb74"
+      "sha1": "27c7845e195fb94d19a7f3b0add8a059316b259c"
     },
     {
       "path": "content/mods/configured.json",
@@ -414,7 +414,7 @@
     },
     {
       "path": "content/mods/irons-artifice.json",
-      "sha1": "57879c17970d093d680c31dedf0365e1e8511fe9"
+      "sha1": "eb6877f505539a1bf5d7d11ed2a658af5c273e81"
     },
     {
       "path": "content/mods/irons-lib.json",

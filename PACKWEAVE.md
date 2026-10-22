@@ -39,7 +39,7 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.62-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.64-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
@@ -113,7 +113,7 @@
 - [Hi-Fi](https://modrinth.com/project/hi-fi) `0.1.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [Immersive Paintings](https://modrinth.com/project/immersive-paintings) `0.7.9+1.21.1`
-- [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.1.0`
+- [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.2.0`
 - [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
 - [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.1-19.64`
