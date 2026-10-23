@@ -1,0 +1,23 @@
+{
+  "name": "Amended SVC Icons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Csa57Pcd",
+      "slug": "amendedicons",
+      "versionId": "J86OOzbI",
+      "versionNumber": "v2.0",
+      "filename": "Amended Icons v2.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Csa57Pcd/versions/J86OOzbI/Amended%20Icons%20v2.0.zip",
+      "sha1": "658a8125fbe5fb17db5abe2dac1e9f19bf05231f",
+      "sha512": "9f4387af18b43da8c5b44e0db922ce7e9381e88d814f175d7d9af3365023f5f4fc44b8712631fa16d22b695baa4dff8571c6e31ef8653eb8b27f2a0025f46d76",
+      "fileSize": 36535
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

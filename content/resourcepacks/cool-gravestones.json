@@ -1,0 +1,23 @@
+{
+  "name": "Cool Gravestones",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Knb7x4Fm",
+      "slug": "cool-gravestones",
+      "versionId": "FNNThGX8",
+      "versionNumber": "1.0",
+      "filename": "Cool Gravestones.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/Knb7x4Fm/versions/FNNThGX8/Cool%20Gravestones.zip",
+      "sha1": "b6606b8526d32f0df82b0f58c7bbe7852398c857",
+      "sha512": "ac6a42dac0d624510996a53fdbf155587707ccdf06e996b3b0b5988199db7572a3d47f9c1dff4a07c6908a855ac3145c90635d24941e276c646302953fc72d74",
+      "fileSize": 49316
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

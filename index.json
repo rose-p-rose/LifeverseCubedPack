@@ -130,7 +130,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "27c7845e195fb94d19a7f3b0add8a059316b259c"
+      "sha1": "bda224b697c1bb17cbcd12a61da96c92c13c21a5"
     },
     {
       "path": "content/mods/configured.json",
@@ -263,10 +263,6 @@
     {
       "path": "content/mods/data-anchor.json",
       "sha1": "eb4c62a1dc0d9919d43ab7690089f05356a8adfd"
-    },
-    {
-      "path": "content/mods/death-keeper.json",
-      "sha1": "810400c9ac5a3b6234bd28c1567267166f9a7647"
     },
     {
       "path": "content/mods/durability-tooltip.json",
@@ -897,6 +893,14 @@
       "sha1": "1f76591884cc9dcf4cf71eed4d8f4e244e5caa96"
     },
     {
+      "path": "content/resourcepacks/amendedicons.json",
+      "sha1": "6acf6ec15cda948f82588cabf67e2438124c931f"
+    },
+    {
+      "path": "content/resourcepacks/cool-gravestones.json",
+      "sha1": "1dc9fe7363cd2365eb1896a22d517ee932c2b662"
+    },
+    {
       "path": "content/resourcepacks/fancy-crops.json",
       "sha1": "06501c004ca05c486ed2f25dcd4f598726bb8a7d"
     },
@@ -1054,7 +1058,7 @@
     },
     {
       "path": "overrides/config/EasyMSC/spawn_rates.json",
-      "sha1": "d101fe7c2beae5904a5d0f383cdf67b30cab62a3"
+      "sha1": "d8b1abe7eeb85b25e0326e8c19484b1e0785bbdb"
     },
     {
       "path": "overrides/config/EasyMSC/spawn_rule_assignments.json",
@@ -2122,7 +2126,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "99717753749d3e6f4408f7eab80a8b0f2a45b2d6"
+      "sha1": "5ab3508025bb2b8f2f931499b6dd93193be7f8a7"
     },
     {
       "path": "overrides/config/reliable_remover/packed_packs.folderpack.json",
@@ -2542,7 +2546,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "651e6f68c7b855528b1e7a96b65f1d387f365082"
+      "sha1": "efaa1859cf4e91aa7683428a1f933316a97197ee"
     },
     {
       "path": "overrides/packweaver.jar",

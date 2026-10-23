@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 220 mods (6 dependencies), 19 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 220 mods (6 dependencies), 21 resource packs
 
 ## Contents
 
@@ -11,6 +11,7 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
+- [Amended SVC Icons](https://modrinth.com/project/amendedicons) `v2.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.0`
 - [Ancient Remnants: Monoliths](https://modrinth.com/project/ancient-remnants) `1.5.2`
 - Animal  Weights `animalweights-1.21.1-NeoForge-1.2.1.jar` (curseforge)
@@ -39,9 +40,10 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.64-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.65-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
+- [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [Crafting Mats](https://modrinth.com/project/crafting-mats) `1.1.0+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`

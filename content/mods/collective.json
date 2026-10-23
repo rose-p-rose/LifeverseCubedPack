@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "e0M1UDsY",
       "slug": "collective",
-      "versionId": "NGnQjMXE",
-      "versionNumber": "1.21.1-8.64-fabric+forge+neo",
-      "filename": "collective-1.21.1-8.64.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/NGnQjMXE/collective-1.21.1-8.64.jar",
-      "sha1": "9fcad03d937d42bd99558b11ee1e9a6da75944ad",
-      "sha512": "d2d67ac7bbea028b12609cd0f9660e39efce51960089e4cbf3bd0bfe5e1a86046c894b6382eee064e7ac8c277ec5a945b69d67608fa0aeacd671de2a43b28d01",
-      "fileSize": 1309815
+      "versionId": "d78uVgbq",
+      "versionNumber": "1.21.1-8.65-fabric+forge+neo",
+      "filename": "collective-1.21.1-8.65.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/d78uVgbq/collective-1.21.1-8.65.jar",
+      "sha1": "1dae6347808f50485e281624260dbd9c8ee146eb",
+      "sha512": "30308b0db57475caaa5d60ac2d5e7b4438238a334e5ced81385587080e9626fb5d7b080f4c7fc9f40de9b5069a60ceed078c6289664ce09903123fe523ea6397",
+      "fileSize": 1309960
     }
   },
   "dependents": [
