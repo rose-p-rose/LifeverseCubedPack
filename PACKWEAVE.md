@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 226 mods (8 dependencies), 21 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 225 mods (8 dependencies), 20 resource packs
 
 ## Contents
 
@@ -96,7 +96,6 @@
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
-- ferrets_figura_functions-1.0.0 (url)
 - [Field Guide](https://modrinth.com/project/field-guide) `1.22.2+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Figurity](https://modrinth.com/project/figurity) `2.0.1+1.21.1`
@@ -131,7 +130,6 @@
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.0.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
-- LifeVerse Cubed (url)
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - Living Wind (curseforge)

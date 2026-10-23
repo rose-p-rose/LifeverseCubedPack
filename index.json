@@ -341,10 +341,6 @@
       "sha1": "58dafde3ad0c32f42ba6b0dab798f71f7e563e13"
     },
     {
-      "path": "content/mods/ferrets_figura_functions-1-0-0.json",
-      "sha1": "41a3dc15dbc2d98117b7ee091c9c8a13b4a1cffc"
-    },
-    {
       "path": "content/mods/field-guide.json",
       "sha1": "b2f90e710b5f12779d6fcfa296ed57fbde28a71f"
     },
@@ -957,10 +953,6 @@
       "sha1": "123c0b547486df7d2e09b8d6b864dfe29d7af1bf"
     },
     {
-      "path": "content/resourcepacks/lifeverse-cubed.json",
-      "sha1": "e4df20d907f7da4eee14f4cfa5863647ed62172a"
-    },
-    {
       "path": "content/resourcepacks/mandalas-gui-compats-fixes.json",
       "sha1": "7b1548b7eaa53d7a225a5de27ae0cca0260809e2"
     },
@@ -1445,6 +1437,14 @@
       "sha1": "4d14a8ea8f8038b86ff3b1c7f432aabb4e7b5fa2"
     },
     {
+      "path": "overrides/config/createrailgrinding-client.toml",
+      "sha1": "3e7537c8e1fd5e2163196c07eba8e6f15aeecf45"
+    },
+    {
+      "path": "overrides/config/createrailgrinding-server.toml",
+      "sha1": "4ae5d905a3cf2ed6520236cba546768b50cbe559"
+    },
+    {
       "path": "overrides/config/creaturefeature-client.toml",
       "sha1": "90e29eef2b2f394ae10f3d30e40cb29737bb4412"
     },
@@ -1673,12 +1673,24 @@
       "sha1": "51433ff8034b3025f0f2548ee8a799b8418c7db2"
     },
     {
+      "path": "overrides/config/gravestone-client.toml",
+      "sha1": "1d3c0d74b57581d77bbca64f7821b1a3f2b784f1"
+    },
+    {
+      "path": "overrides/config/gravestonecurioscompat-common.toml",
+      "sha1": "5c671cff8da76486efc6021cb326c83783bd3434"
+    },
+    {
       "path": "overrides/config/guideme.toml",
       "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
     },
     {
       "path": "overrides/config/hauntedharvest-common.toml",
       "sha1": "764432c84addf8e29c0c4530c26b07ba7ff69596"
+    },
+    {
+      "path": "overrides/config/hedges_bestiary.toml",
+      "sha1": "de141c76ff61268bbf42b3cf611944e839a151bd"
     },
     {
       "path": "overrides/config/hexalia-common.toml",
@@ -1819,6 +1831,10 @@
     {
       "path": "overrides/config/jeioptimizer-client.toml",
       "sha1": "a14f6ec5392ed72cffa33ffb560d19c2c872a438"
+    },
+    {
+      "path": "overrides/config/keep_equipment/server.json5",
+      "sha1": "4f760292ed17cd233ada35f215b838c280078932"
     },
     {
       "path": "overrides/config/keybindatlas-client.toml",
@@ -2545,6 +2561,22 @@
       "sha1": "7e8a43daffd1f715a07681d165ba6df8c875e9cc"
     },
     {
+      "path": "overrides/config/watut-client.toml",
+      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
+    },
+    {
+      "path": "overrides/config/watut-common.toml",
+      "sha1": "55781f5d0dc1d7975db99c09c5353ae1959594cb"
+    },
+    {
+      "path": "overrides/config/watut-item-arm-adjustments.json",
+      "sha1": "f998d4ccaf263904f7f8dbe35b0364f59722e7ac"
+    },
+    {
+      "path": "overrides/config/watut-server.toml",
+      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
+    },
+    {
       "path": "overrides/config/woodworks-common.toml",
       "sha1": "1ea808ffafd4be42f5c04ce3bc654ad7cb49c3ba"
     },
@@ -2569,6 +2601,10 @@
       "sha1": "cc527518b2d0031382c1a21201a63e8ee1f34a41"
     },
     {
+      "path": "overrides/icon.png",
+      "sha1": "7ed606e74617d83ee0085b02457628d130705c5d"
+    },
+    {
       "path": "overrides/mods/Gourdite Vanity Tradeable.jar",
       "sha1": "85b64abca64c3a24d4042e020aa2551a64cb2d09"
     },
@@ -2577,12 +2613,20 @@
       "sha1": "d6c4cd81584537c754541b027bb20025f4cac934"
     },
     {
+      "path": "overrides/mods/ferrets_figura_functions-1.0.0.jar",
+      "sha1": "32eb90003eada2533e3dd554dad1a7335ce9c726"
+    },
+    {
       "path": "overrides/options.txt",
       "sha1": "efaa1859cf4e91aa7683428a1f933316a97197ee"
     },
     {
       "path": "overrides/packweaver.jar",
       "sha1": "2bcc5a3596a57d4ae2752a0b61645f36e048a5a4"
+    },
+    {
+      "path": "overrides/resourcepacks/LifeVerse%20Cubed.zip",
+      "sha1": "094cd4a995c6702e4c383d58cb9a192e78fecdb8"
     },
     {
       "path": "overrides/servers.dat",
