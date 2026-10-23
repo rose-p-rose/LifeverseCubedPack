@@ -1,0 +1,23 @@
+{
+  "name": "Keep Equipment",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uJWvH5Im",
+      "slug": "keep-equipment-anticode",
+      "versionId": "dorRiOri",
+      "versionNumber": "1.1.1",
+      "filename": "keep_equipment-neoforge-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uJWvH5Im/versions/dorRiOri/keep_equipment-neoforge-1.21.1-1.1.1.jar",
+      "sha1": "d9713f62e1691efba6133b520869b4dfc364bbf2",
+      "sha512": "9330fe41ff09d9ca1c5afc2326e8b8bee6b0fb10db15b7b58dd8dc10e7bb3b8ce7d8f1e0254509fff70cf7d033e545bb1d799af2e8ab14259ae06a38e396e996",
+      "fileSize": 16355
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

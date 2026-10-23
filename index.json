@@ -57,6 +57,10 @@
       "sha1": "a50074128926c8843f57f672da1fd6754c246988"
     },
     {
+      "path": "content/mods/baguettelib.json",
+      "sha1": "86a6453d90c72abead37b6e4142ff2a5df7701f0"
+    },
+    {
       "path": "content/mods/better-third-person.json",
       "sha1": "87c9253a608952392a72128319b2d264d01081c1"
     },
@@ -147,6 +151,10 @@
     {
       "path": "content/mods/cool-rain-reforged.json",
       "sha1": "54894aebc0f205a883917efd108ee9f504bade46"
+    },
+    {
+      "path": "content/mods/coroutil.json",
+      "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
     },
     {
       "path": "content/mods/crafting-mats.json",
@@ -333,6 +341,10 @@
       "sha1": "58dafde3ad0c32f42ba6b0dab798f71f7e563e13"
     },
     {
+      "path": "content/mods/ferrets_figura_functions-1-0-0.json",
+      "sha1": "41a3dc15dbc2d98117b7ee091c9c8a13b4a1cffc"
+    },
+    {
       "path": "content/mods/field-guide.json",
       "sha1": "b2f90e710b5f12779d6fcfa296ed57fbde28a71f"
     },
@@ -383,6 +395,18 @@
     {
       "path": "content/mods/glows.json",
       "sha1": "189a6186a56047a379cca17bfd1312faf3a8823b"
+    },
+    {
+      "path": "content/mods/gravestone-and-sable-compatibility-patch.json",
+      "sha1": "acf664547dba7d70d735b40d0d475a8a219a22db"
+    },
+    {
+      "path": "content/mods/gravestone-mod.json",
+      "sha1": "ae501060c8b07be3c553fa56d10de468ebeab572"
+    },
+    {
+      "path": "content/mods/gravestone-x-curios-api-compat.json",
+      "sha1": "d5f4b96db15b66149d065eca556f41af7306b997"
     },
     {
       "path": "content/mods/hallmark.json",
@@ -439,6 +463,10 @@
     {
       "path": "content/mods/just-enough-effect-descriptions-jeed.json",
       "sha1": "c9b2ce3ff2142663d4b4741514c2477ef4e2571d"
+    },
+    {
+      "path": "content/mods/keep-equipment-anticode.json",
+      "sha1": "49d504ae82bb8cdc3d50d1d329d63f4b9d9d5ab7"
     },
     {
       "path": "content/mods/keybind-atlas.json",
@@ -879,6 +907,10 @@
     {
       "path": "content/mods/wet-backapacks.json",
       "sha1": "ec06901f23bdcfcae96488130b8854d2ee3a9cee"
+    },
+    {
+      "path": "content/mods/what-are-they-up-to.json",
+      "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/woodworks.json",
@@ -2126,7 +2158,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "5ab3508025bb2b8f2f931499b6dd93193be7f8a7"
+      "sha1": "6de3e228a6a30f76add52748dc63d03f8224a2a3"
     },
     {
       "path": "overrides/config/reliable_remover/packed_packs.folderpack.json",

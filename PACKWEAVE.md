@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 220 mods (6 dependencies), 21 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 226 mods (8 dependencies), 21 resource packs
 
 ## Contents
 
@@ -96,6 +96,7 @@
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
+- ferrets_figura_functions-1.0.0 (url)
 - [Field Guide](https://modrinth.com/project/field-guide) `1.22.2+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Figurity](https://modrinth.com/project/figurity) `2.0.1+1.21.1`
@@ -111,6 +112,9 @@
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Glow](https://modrinth.com/project/glows) `1.3.2`
+- [Gravestone and Sable Compatibility Patch](https://modrinth.com/project/gravestone-and-sable-compatibility-patch) `1.0.0`
+- [GraveStone Mod](https://modrinth.com/project/gravestone-mod) `neoforge-1.21.1-1.0.40`
+- [Gravestone x Curios API Compat](https://modrinth.com/project/gravestone-x-curios-api-compat) `3.0.1`
 - [Hallmark](https://modrinth.com/project/hallmark) `1.0.1`
 - [Haunted Harvest](https://modrinth.com/project/haunted-harvest) `1.21-3.5.1`
 - [Hedge's Bestiary](https://modrinth.com/project/hedges-bestiary) `1.1.3`
@@ -123,6 +127,7 @@
 - [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.1-19.64`
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
+- [Keep Equipment](https://modrinth.com/project/keep-equipment-anticode) `1.1.1`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.0.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
@@ -243,6 +248,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.4.1`
 - [Wandering Trader May Leave](https://modrinth.com/project/wandering-trader-may-leave) `1.21.1-2.0-fabric+forge+neo`
 - [Wet Backapacks](https://modrinth.com/project/wet-backapacks) `1.0.3`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Woodworks](https://modrinth.com/project/woodworks) `4.0.2`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 - [Ziplines: Rezipped!](https://modrinth.com/project/ziplines-rezipped) `1.5.3+1.21.1-neoforge`
