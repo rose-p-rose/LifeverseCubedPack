@@ -2566,7 +2566,7 @@
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "6d0fbf1d159f66666a2314bd6e5aa7a49c40fcb1"
+      "sha1": "91c8b271e88fc6d46992f2386ddb7b68366dd122"
     },
     {
       "path": "overrides/config/watut-common.toml",
@@ -2578,7 +2578,7 @@
     },
     {
       "path": "overrides/config/watut-server.toml",
-      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
+      "sha1": "9427444e8c1864e8f941c403bb0225a827171b4b"
     },
     {
       "path": "overrides/config/woodworks-common.toml",
@@ -2622,7 +2622,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "efaa1859cf4e91aa7683428a1f933316a97197ee"
+      "sha1": "12b54d6d07c46772707d4566d50d2ed7b96405e1"
     },
     {
       "path": "overrides/packweaver.jar",
