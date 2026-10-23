@@ -494,7 +494,7 @@
     },
     {
       "path": "content/mods/living-wind.json",
-      "sha1": "9f1c58dd179c18cbdcf77d0bcce3995981253550"
+      "sha1": "89199dcda6bd87936c18970300dbdf885fd21db4"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -958,7 +958,7 @@
     },
     {
       "path": "content/resourcepacks/mandalas-gui-compats-fixes.json",
-      "sha1": "7b1548b7eaa53d7a225a5de27ae0cca0260809e2"
+      "sha1": "c32349b1267f07dd39563a894d24c88335d87fd1"
     },
     {
       "path": "content/resourcepacks/mandalas-gui-dark-mode-curios-api-compat.json",

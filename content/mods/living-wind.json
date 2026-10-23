@@ -7,8 +7,13 @@
   "sources": {
     "curseforge": {
       "id": "1743716",
-      "slug": "",
-      "versionId": "9254887"
+      "slug": "living-wind",
+      "versionId": "9245421",
+      "versionNumber": "v1.3.0 - [NeoForge 1.21.1]",
+      "filename": "LivingWind-NeoForge-1.21.1-v1.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9245/421/LivingWind-NeoForge-1.21.1-v1.3.0.jar",
+      "sha1": "751a76efa93565e79203efa4c0187a1b80bd63de",
+      "fileSize": 4054381
     }
   },
   "dependents": [],

@@ -132,10 +132,10 @@
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- Living Wind `v1.3.1 - [NeoForge 1.21.1]` (curseforge)
+- Living Wind `v1.3.0 - [NeoForge 1.21.1]` (curseforge)
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Loot Journal: Pickup Notifier](https://modrinth.com/project/loot-journal) `6.2.2`
-- [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.1`
+- [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.2`
 - [Mandala's GUI - Dark mode](https://modrinth.com/project/mandalas-gui-dark-mode) `2.1`
 - [Mandala's GUI - Dark mode Curios API Compat](https://modrinth.com/project/mandalas-gui-dark-mode-curios-api-compat) `1.1.0`
 - [Mandala's GUI - opaque buttons](https://modrinth.com/project/mandalas-gui-opaque-buttons) `1`
