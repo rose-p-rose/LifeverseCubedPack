@@ -342,7 +342,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "b2f90e710b5f12779d6fcfa296ed57fbde28a71f"
+      "sha1": "6c629a3bcf83e13e9d00fb7b592fcec16035e676"
     },
     {
       "path": "content/mods/figura.json",
@@ -581,6 +581,10 @@
       "sha1": "5ff5d547bb99dcc06ab3e86c9ff5dc9664dcb279"
     },
     {
+      "path": "content/mods/offgrid.json",
+      "sha1": "57fa9b75d23b68e461ab0500a34c71748caf2c1c"
+    },
+    {
       "path": "content/mods/one-click-join.json",
       "sha1": "bd572680c5a27ee26a69b9d337bf8151ca2cf7d8"
     },
@@ -622,7 +626,7 @@
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "6620c3128cc24d9c8c10d45ea20e970ac3acf95c"
+      "sha1": "2b3004f2d23efdf524af3613297f35e7abd7f223"
     },
     {
       "path": "content/mods/polymorph.json",
@@ -630,7 +634,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "69362a2f331b713080dfad2619f879cd09101008"
+      "sha1": "8614ad2348e53ff1e3e019fc15586bdd8301b3b3"
     },
     {
       "path": "content/mods/post-it.json",
@@ -658,7 +662,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
+      "sha1": "571680869d4e668da18a4c04c199d5deb0c35e09"
     },
     {
       "path": "content/mods/reliable-recipes.json",
@@ -850,7 +854,7 @@
     },
     {
       "path": "content/mods/vanillabackport.json",
-      "sha1": "8bc6002f5b769933c087b2bbfad3bace30276647"
+      "sha1": "ac6dba3be38c181680b7c2e131b9b95b4f10f7bb"
     },
     {
       "path": "content/mods/vanity-aesthetic-armory.json",
@@ -2562,7 +2566,7 @@
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
+      "sha1": "6d0fbf1d159f66666a2314bd6e5aa7a49c40fcb1"
     },
     {
       "path": "overrides/config/watut-common.toml",

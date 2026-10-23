@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "6xwxDTgf",
       "slug": "vanillabackport",
-      "versionId": "65ke2Krk",
-      "versionNumber": "1.2",
-      "filename": "VanillaBackport-neoforge-1.21.1-1.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/6xwxDTgf/versions/65ke2Krk/VanillaBackport-neoforge-1.21.1-1.2.jar",
-      "sha1": "214195d403f1720dc49040e4a990b37eaac529d6",
-      "sha512": "4a14a58f82409940b5975d99abad38de36ec4f7f46dc70c13e194b93275060afb617893885986af39418ea5838996caaa0704d577d13f965742c1b6e4aa0340a",
-      "fileSize": 63875692
+      "versionId": "PvX474Ov",
+      "versionNumber": "1.2.1",
+      "filename": "VanillaBackport-neoforge-1.21.1-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6xwxDTgf/versions/PvX474Ov/VanillaBackport-neoforge-1.21.1-1.2.1.jar",
+      "sha1": "2f49b0007991f0ac774eeb31fc3e81abcf728b3c",
+      "sha512": "4056b724cfb6fdb5da084ca5453e81c9b903e7dad172f4041bf76eb5bc21c2ca7d42ad89b0d00abb19e7bd33cd40a18f36f854ec30a94d9de327d01055f0a4c5",
+      "fileSize": 63872034
     }
   },
   "dependents": [
