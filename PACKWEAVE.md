@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 218 mods (6 dependencies), 18 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 220 mods (6 dependencies), 19 resource packs
 
 ## Contents
 
@@ -64,6 +64,7 @@
 - [Create: Security Program](https://modrinth.com/project/create-security-program) `1.21.1-2.01-release`
 - [Create: Some Assembly Required](https://modrinth.com/project/some-assembly-required) `5.2.8`
 - [Create: Train Perspective](https://modrinth.com/project/create-train-perspective) `1.1.1+neoforge-1.21.1`
+- [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
 - [Create: Vertical Chain Conveyors](https://modrinth.com/project/create-vertical-chain-conveyors) `1.3.0`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
@@ -110,6 +111,7 @@
 - [Glow](https://modrinth.com/project/glows) `1.3.2`
 - [Hallmark](https://modrinth.com/project/hallmark) `1.0.1`
 - [Haunted Harvest](https://modrinth.com/project/haunted-harvest) `1.21-3.5.1`
+- [Hedge's Bestiary](https://modrinth.com/project/hedges-bestiary) `1.1.3`
 - [Hi-Fi](https://modrinth.com/project/hi-fi) `0.1.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [Immersive Paintings](https://modrinth.com/project/immersive-paintings) `0.7.9+1.21.1`
@@ -122,6 +124,7 @@
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.0.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
+- LifeVerse Cubed (url)
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - Living Wind (curseforge)

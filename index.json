@@ -205,6 +205,10 @@
       "sha1": "4790f26574211f18fc7e7f353f7fbf6a54dd6cd3"
     },
     {
+      "path": "content/mods/create-rail-grinding.json",
+      "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
+    },
+    {
       "path": "content/mods/create-retrimmed.json",
       "sha1": "0df90127457eebf0ac7204328e953d0780dcad81"
     },
@@ -391,6 +395,10 @@
     {
       "path": "content/mods/haunted-harvest.json",
       "sha1": "47f3305b19767e8a1a5e3debae1b527240acea10"
+    },
+    {
+      "path": "content/mods/hedges-bestiary.json",
+      "sha1": "861ac23fde88695065f4e731b1a8b967a0fff8d9"
     },
     {
       "path": "content/mods/hi-fi.json",
@@ -911,6 +919,10 @@
     {
       "path": "content/resourcepacks/fontolith.json",
       "sha1": "123c0b547486df7d2e09b8d6b864dfe29d7af1bf"
+    },
+    {
+      "path": "content/resourcepacks/lifeverse-cubed.json",
+      "sha1": "e4df20d907f7da4eee14f4cfa5863647ed62172a"
     },
     {
       "path": "content/resourcepacks/mandalas-gui-compats-fixes.json",
@@ -2446,7 +2458,7 @@
     },
     {
       "path": "overrides/config/vanillabackport-common.toml",
-      "sha1": "046cb88b9e4706ef528319438d1a18d63256fee0"
+      "sha1": "e8fb1ae95dfc9fc54e3d00fb00b3c396e4487537"
     },
     {
       "path": "overrides/config/vanityslots-server.toml",
@@ -2530,7 +2542,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "d31a1a9f2ff548fa28f172589df1a8e3cfac10e0"
+      "sha1": "651e6f68c7b855528b1e7a96b65f1d387f365082"
     },
     {
       "path": "overrides/packweaver.jar",

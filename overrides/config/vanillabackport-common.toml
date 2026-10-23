@@ -82,7 +82,7 @@
 	#movement speed multiplier for ridden Happy Ghasts
 	happy_ghast_speed_modifier = 1.0
 	#allow Leashes to have the modern physics and interactions
-	modern_leashes = true
+	modern_leashes = false
 
 ["Hot as Lava"]
 	#allow Chicken jockeys to drop the Lava Chicken music disc
