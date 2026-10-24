@@ -129,7 +129,7 @@
 
 #Optional Sable / Create Aeronautics vehicle wind physics. Server-authoritative; has no effect without Sable installed.
 [aeronautics]
-	#Let wind push assembled Sable contraptions with Aeronautics balloon envelopes or Create sail blocks. Disabled automatically when Sable is absent or AeroWeather supplies physics.
+	#Let wind push assembled Sable contraptions with Aeronautics envelopes, Create sails, or tagged balloon blocks (including Coasters: Simulated). Disabled automatically when Sable is absent or AeroWeather supplies physics.
 	enabled = true
 	#Wind force multiplier on eligible airships/sail-bearing contraptions. 1.0x is the balanced, playtested baseline (formerly 0.30x); 0 disables the force.
 	# Default: 1.0
@@ -148,3 +148,8 @@
 	# Default: 40
 	# Range: 10 ~ 200
 	syncIntervalTicks = 40
+
+#Optional Small Ships 2.0 wind integration. The ships retain their sailing physics and use Living Wind's direction/strength instead of independently generated wind.
+[smallShips]
+	#Use Living Wind as Small Ships' wind source when Small Ships is installed. Disable to restore its independent wind simulation.
+	enabled = true

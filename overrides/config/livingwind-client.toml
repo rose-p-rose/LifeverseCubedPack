@@ -96,54 +96,121 @@
 	# Range: 0.0 ~ 3.0
 	windResponse = 1.0
 
-#Optional compatibility with other visual weather/effects mods.
+#Optional integrations with other mods.
 [compatibility]
-	#Make Pretty Rain's rain and desert dust use Living Wind's synchronized direction and strength.
-	#Rolling shrubs/tumbleweeds use Living Wind direction only and keep Pretty Rain's own speed.
-	#The compatibility code is inert when Pretty Rain is not installed.
-	prettyRainWind = true
-	#Horizontal Pretty Rain rain/dust velocity per unit of Living Wind strength.
-	#Higher values create a steeper wind-driven rain angle during strong wind.
-	#This multiplier does not change rolling shrub/tumbleweed speed.
-	# Default: 0.55
-	# Range: 0.0 ~ 2.0
-	prettyRainWindMultiplier = 0.55
-	#Use Living Wind's direction and strength in the official Particle Rain 4.x wind system.
-	#Controls rain, snow, dust and other weather particles; Particle Rain retains its own physics.
-	#Requires Particle Rain 4.x and has no effect when it is absent. Independent of Pretty Rain.
-	particleRainWind = true
-	#Replace only Advanced Chimneys' outdoor smoke wind with Living Wind direction and strength.
-	#Keeps the mod's original pipes, vents, pumps, chimney movement, collision and buoyancy.
-	#The compatibility code is inactive when Advanced Chimneys is not installed.
-	advancedChimneysOutdoorSmokeWind = true
-	#Strength of Living Wind sent into the official Particle Rain 4.x wind simulation.
-	#The default (0.55) is calibrated for Particle Rain's cumulative wind physics.
-	#Adjust the tilt and drift without changing Particle Rain's particle density or gravity.
-	# Default: 0.55
-	# Range: 0.0 ~ 2.0
-	particleRainWindMultiplier = 0.55
-	#Choose which mod generates falling tree-leaf particles when Particular is installed.
-	#LIVING_WIND (default): only Living Wind. PARTICULAR: only Particular. BOTH: both.
-	#Living Wind flowers, petals and grass remain enabled regardless of this choice.
-	#If Particular is absent, Living Wind leaves remain active as a fallback.
-	#Allowed Values: LIVING_WIND, PARTICULAR, BOTH
-	fallingLeavesSource = "LIVING_WIND"
-	#When Particular leaves are selected, scale their spawn density with Living Wind strength.
-	#Weak air sheds fewer leaves, while strong wind and gusts shed substantially more.
-	#This is inert when Particular is not installed.
-	particularFallingLeavesWind = true
-	#Particular falling-leaf spawn multiplier at near-calm wind.
-	# Default: 0.15
-	# Range: 0.0 ~ 4.0
-	particularLeavesMinDensity = 0.15
-	#Particular falling-leaf spawn multiplier once wind reaches the configured full-density strength.
-	# Default: 3.0
-	# Range: 0.0 ~ 8.0
-	particularLeavesMaxDensity = 3.0
-	#Altitude-adjusted wind strength at which Particular falling leaves reach maximum spawn density.
-	# Default: 1.2
-	# Range: 0.1 ~ 3.0
-	particularLeavesFullWindStrength = 1.2
+
+	#Pretty Rain integration.
+	[compatibility.prettyRain]
+		#Make Pretty Rain's rain and desert dust use Living Wind's synchronized direction and strength.
+		#Rolling shrubs/tumbleweeds use Living Wind direction only and keep Pretty Rain's own speed.
+		#The compatibility code is inert when Pretty Rain is not installed.
+		prettyRainWind = true
+		#Horizontal Pretty Rain rain/dust velocity per unit of Living Wind strength.
+		#Higher values create a steeper wind-driven rain angle during strong wind.
+		#This multiplier does not change rolling shrub/tumbleweed speed.
+		# Default: 0.55
+		# Range: 0.0 ~ 2.0
+		prettyRainWindMultiplier = 0.55
+
+	#Particle Rain integration.
+	[compatibility.particleRain]
+		#Use Living Wind's direction and strength in the official Particle Rain 4.x wind system.
+		#Controls rain, snow, dust and other weather particles; Particle Rain retains its own physics.
+		#Requires Particle Rain 4.x and has no effect when it is absent. Independent of Pretty Rain.
+		particleRainWind = true
+		#Strength of Living Wind sent into the official Particle Rain 4.x wind simulation.
+		#The default (0.55) is calibrated for Particle Rain's cumulative wind physics.
+		#Adjust the tilt and drift without changing Particle Rain's particle density or gravity.
+		# Default: 0.55
+		# Range: 0.0 ~ 2.0
+		particleRainWindMultiplier = 0.55
+
+	#Advanced Chimneys integration.
+	[compatibility.advancedChimneys]
+		#Replace only Advanced Chimneys' outdoor smoke wind with Living Wind direction and strength.
+		#Keeps the mod's original pipes, vents, pumps, chimney movement, collision and buoyancy.
+		#The compatibility code is inactive when Advanced Chimneys is not installed.
+		advancedChimneysOutdoorSmokeWind = true
+
+	#Particular integration.
+	[compatibility.particular]
+		#Choose which mod generates falling tree-leaf particles when Particular is installed.
+		#LIVING_WIND (default): only Living Wind. PARTICULAR: only Particular. BOTH: both.
+		#Living Wind flowers, petals and grass remain enabled regardless of this choice.
+		#If Particular is absent, Living Wind leaves remain active as a fallback.
+		#Allowed Values: LIVING_WIND, PARTICULAR, BOTH
+		fallingLeavesSource = "LIVING_WIND"
+		#When Particular leaves are selected, scale their spawn density with Living Wind strength.
+		#Weak air sheds fewer leaves, while strong wind and gusts shed substantially more.
+		#This is inert when Particular is not installed.
+		particularFallingLeavesWind = true
+		#Particular falling-leaf spawn multiplier at near-calm wind.
+		# Default: 0.15
+		# Range: 0.0 ~ 4.0
+		particularLeavesMinDensity = 0.15
+		#Particular falling-leaf spawn multiplier once wind reaches the configured full-density strength.
+		# Default: 3.0
+		# Range: 0.0 ~ 8.0
+		particularLeavesMaxDensity = 3.0
+		#Altitude-adjusted wind strength at which Particular falling leaves reach maximum spawn density.
+		# Default: 1.2
+		# Range: 0.1 ~ 3.0
+		particularLeavesFullWindStrength = 1.2
+
+	#Experimental Complementary Reimagined + Euphoria 1.10 shader bridge.
+	[compatibility.shaderBridge]
+		#Automatically patch existing compatible Euphoria shader ZIPs and folders at startup.
+		#Keeps original shader backups in config/livingwind/shader-backups.
+		#The original Complementary shader ZIP is never patched. Restart after changing this option.
+		autoPatchEuphoriaShaders = true
+		#Publish synchronized Living Wind strength, direction, gusts and animation time to Euphoria shaders.
+		#With compatible Euphoria shader packs, Living Wind patches the foliage code automatically.
+		enabled = true
+		#Amplitude multiplier for the optional Living Wind shader waving integration.
+		#Set to 0 to make the shader calm when Living Wind is connected.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.0
+		wavingMultiplier = 1.0
+
+	#Fancy World Animations wind-responsive chains, lanterns and bells.
+	[compatibility.fancyWorldAnimations]
+		#Link FWA swing animations to Living Wind strength, direction, gusts and shelter. Requires Fancy World Animations.
+		enabled = true
+		#Overall impact of Living Wind on Fancy World Animations swinging objects. 0 = original FWA motion; 6 = visibly stronger wind-driven swings. Individual chain, lantern and bell intensities are additional multipliers.
+		# Default: 6.0
+		# Range: 0.0 ~ 12.0
+		windImpact = 6.0
+		#Strength of wind-driven chain movement; zero keeps chains mostly still while Living Wind is active.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.0
+		chainIntensity = 1.0
+		#Strength of wind-driven lantern movement.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.0
+		lanternIntensity = 1.0
+		#Strength of wind-driven idle bell rocking (does not affect bell ringing).
+		# Default: 1.0
+		# Range: 0.0 ~ 3.0
+		bellIntensity = 1.0
+
+	#Swinging Lanterns 2.0.4 integration; its physics, collisions and Create motion remain native.
+	[compatibility.swingingLanterns]
+		#Use Living Wind direction and strength to drive Swinging Lanterns' existing wind input. Requires Swinging Lanterns; no extra forces are applied to its physics solver.
+		enabled = true
+		#Multiplier for Living Wind's sway and downwind lean of Swinging Lanterns. Light winds give gentle swings; stronger winds tilt lanterns downwind. Set to 0 for calm wind, or turn integration off for stock behavior.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.0
+		windMultiplier = 1.0
+
+	#Interactive Foliage 2.2.0 GPU grass-sway integration.
+	[compatibility.interactiveFoliage]
+		#Use Living Wind direction and strength for Interactive Foliage's grass waving. Enable Weather Wind in Interactive Foliage. Its entity interactions are unchanged.
+		enabled = true
+
+	#Supplementaries wind vane animation compatibility.
+	[compatibility.supplementaries]
+		#Steer Supplementaries wind vanes using Living Wind's synchronized wind direction and local shelter. The original Supplementaries redstone behavior is unchanged.
+		windVane = true
 
 #Client-side wind ambience. Uses the final altitude/shelter-adjusted wind strength.
 [windAudio]
@@ -183,61 +250,6 @@
 	#Reduce shelter block probes per tick; updates around particles may take a little longer.
 	shelterLowCost = false
 
-#Experimental optional Complementary Reimagined + Euphoria 1.10 shader bridge.
-[shaderBridge]
-	#Automatically patch existing compatible Euphoria shader ZIPs and folders at startup.
-	#Keeps original shader backups in config/livingwind/shader-backups.
-	#The original Complementary shader ZIP is never patched. Restart after changing this option.
-	autoPatchEuphoriaShaders = true
-	#Publish synchronized Living Wind strength, direction, gusts and animation time to Euphoria shaders.
-	#With compatible Euphoria shader packs, Living Wind patches the foliage code automatically.
-	enabled = true
-	#Amplitude multiplier for the optional Living Wind shader waving integration.
-	#Set to 0 to make the shader calm when Living Wind is connected.
-	# Default: 1.0
-	# Range: 0.0 ~ 3.0
-	wavingMultiplier = 1.0
-
-#Optional Fancy World Animations wind-responsive chains, lanterns and bells.
-[fancyWorldAnimations]
-	#Link FWA swing animations to Living Wind strength, direction, gusts and shelter. FWA is optional.
-	enabled = true
-	#Overall impact of Living Wind on Fancy World Animations swinging objects. 0 = original FWA motion; 6 = visibly stronger wind-driven swings. Individual chain, lantern and bell intensities are additional multipliers.
-	# Default: 6.0
-	# Range: 0.0 ~ 12.0
-	windImpact = 6.0
-	#Strength of wind-driven chain movement; zero keeps chains mostly still while Living Wind is active.
-	# Default: 1.0
-	# Range: 0.0 ~ 3.0
-	chainIntensity = 1.0
-	#Strength of wind-driven lantern movement.
-	# Default: 1.0
-	# Range: 0.0 ~ 3.0
-	lanternIntensity = 1.0
-	#Strength of wind-driven idle bell rocking (does not affect bell ringing).
-	# Default: 1.0
-	# Range: 0.0 ~ 3.0
-	bellIntensity = 1.0
-
-#Optional Swinging Lanterns 2.0.4 integration; its physics, collisions and Create motion remain native.
-[swingingLanterns]
-	#Use Living Wind direction and strength to drive Swinging Lanterns' existing wind input. Requires Swinging Lanterns; no extra forces are applied to its physics solver.
-	enabled = true
-	#Multiplier for Living Wind's sway and downwind lean of Swinging Lanterns. Light winds give gentle swings; stronger winds tilt lanterns downwind. Set to 0 for calm wind, or turn integration off for stock behavior.
-	# Default: 1.0
-	# Range: 0.0 ~ 3.0
-	windMultiplier = 1.0
-
-#Optional Interactive Foliage 2.2.0 GPU grass-sway integration.
-[interactiveFoliage]
-	#Use Living Wind direction and strength for Interactive Foliage's grass waving. Enable Weather Wind in Interactive Foliage. Its entity interactions are unchanged.
-	enabled = true
-
-#Optional Supplementaries wind vane animation compatibility.
-[supplementaries]
-	#Steer Supplementaries wind vanes using Living Wind's synchronized wind direction and local shelter. The original Supplementaries redstone behavior is unchanged.
-	windVane = true
-
 #Developer/testing readouts.
 [debug]
 	#Legacy debug HUD toggle for existing configuration files. Use hudMode instead.
@@ -245,3 +257,20 @@
 	#OFF: no overlay; SIMPLE: wind strength, direction and gust status; ALL: full diagnostic overlay.
 	#Allowed Values: OFF, SIMPLE, ALL
 	hudMode = "OFF"
+
+#Subtle Breath-of-the-Wild-inspired visual wind lines; fully client-side.
+[windStreaks]
+	#Draw soft, slightly curved wind streaks without any entities or trail particles.
+	enabled = true
+	#Wind streak spawn density. 0 disables spawns without disabling other wind effects.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	density = 1.0
+	#Minimum local wind strength before wind streaks start appearing.
+	# Default: 0.4
+	# Range: 0.0 ~ 2.5
+	minimumWindStrength = 0.4
+	#Hard limit on simultaneously active native wind streaks (8 vertices each).
+	# Default: 24
+	# Range: 0 ~ 80
+	maxActive = 24

@@ -1117,6 +1117,10 @@
       "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
     {
+      "path": "overrides/config/abundant_atmosphere-common.toml",
+      "sha1": "96489e3364237a887aabbada670810903326ed2e"
+    },
+    {
       "path": "overrides/config/accessories.json5",
       "sha1": "dd0b30eec8a3de68c1b9141ec062a6b1c4bc767c"
     },
@@ -1574,7 +1578,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "648cc4246c07e6dce9828dda1afe9aa022920461"
+      "sha1": "8d5d66c1baa3999aa568882a86702474d79f55a0"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -1599,6 +1603,10 @@
     {
       "path": "overrides/config/exposure-server.toml",
       "sha1": "caf8c717995367850ecee88d695a8807d71f0bad"
+    },
+    {
+      "path": "overrides/config/extremesoundmuffler-client.toml",
+      "sha1": "161e565e074512a00ef1b636988a4180cfd78285"
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
@@ -1882,11 +1890,11 @@
     },
     {
       "path": "overrides/config/livingwind-client.toml",
-      "sha1": "f5f43a4e73e53c134c9bbf8e3f49c1f64352b8a0"
+      "sha1": "ea0d3e1416252ceb174e02f5ac4ddf291467592f"
     },
     {
       "path": "overrides/config/livingwind-common.toml",
-      "sha1": "89e15a17e35e79c34abc5dec322f9024e51921b9"
+      "sha1": "aaa5b35127e59b8a7c773d9599dce14f5ec533a4"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
@@ -2055,6 +2063,10 @@
     {
       "path": "overrides/config/oelib/packed_packs.folderpack.json",
       "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
+    },
+    {
+      "path": "overrides/config/offgrid/common.toml",
+      "sha1": "ff06594f466f6f5e7316e08a8600a9040ba3070a"
     },
     {
       "path": "overrides/config/offroad-server.toml",

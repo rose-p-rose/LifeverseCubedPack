@@ -79,7 +79,7 @@
 			scorchia = true
 
 		[types.stone_type.nomansland]
-			silt = true
+			silt = false
 			siltstone = true
 
 		[types.stone_type.creaturefeature]
