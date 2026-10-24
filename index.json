@@ -1,6 +1,14 @@
 {
   "files": [
     {
+      "path": "content/mods/abundant-atmosphere.json",
+      "sha1": "88738d677058e5e5394636b3af437fed0a36befb"
+    },
+    {
+      "path": "content/mods/abundant-delight.json",
+      "sha1": "59ba08ef3200916a349a2d2b5bfd28cf48244f15"
+    },
+    {
       "path": "content/mods/aeronautics-propeller-blur.json",
       "sha1": "dece9202a373f249577b47e126a261a5074a806f"
     },
@@ -337,6 +345,10 @@
       "sha1": "2e9ae48273c4a24b10373a5296a0b21f2c74a9d0"
     },
     {
+      "path": "content/mods/extreme_sound_muffler.json",
+      "sha1": "c8a3a8966d58998c84ced6612e7f158fbef0bca2"
+    },
+    {
       "path": "content/mods/farmers-delight.json",
       "sha1": "58dafde3ad0c32f42ba6b0dab798f71f7e563e13"
     },
@@ -347,10 +359,6 @@
     {
       "path": "content/mods/figura.json",
       "sha1": "85b7d99b621dfe1cd47e8c75c9cc85708bd52e33"
-    },
-    {
-      "path": "content/mods/figurity.json",
-      "sha1": "5a87bb0a1effae99d8af2dc4bdc7adefc60fa665"
     },
     {
       "path": "content/mods/flappy-wings.json",
@@ -494,7 +502,7 @@
     },
     {
       "path": "content/mods/living-wind.json",
-      "sha1": "89199dcda6bd87936c18970300dbdf885fd21db4"
+      "sha1": "94f088758ba06bcbfad275d9930917325d1908d7"
     },
     {
       "path": "content/mods/lodestonelib.json",

@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 226 mods (8 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 229 mods (8 dependencies), 20 resource packs
 
 ## Contents
 
@@ -8,6 +8,8 @@
 - [(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility](https://modrinth.com/project/unofficial-mandalas-gui-dark-mode-mod-compatibility) `0.3`
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.6-neoforge-1.21`
+- [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
+- [Abundant Delight](https://modrinth.com/project/abundant-delight) `1.0.0`
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
@@ -92,6 +94,7 @@
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.2`
 - [Exposure: Detective](https://modrinth.com/project/exposure-detective) `1.0.1`
+- [Extreme sound muffler](https://modrinth.com/project/extreme_sound_muffler) `3.57-1.21.1`
 - [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
@@ -132,7 +135,7 @@
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- Living Wind `v1.3.0 - [NeoForge 1.21.1]` (curseforge)
+- Living Wind `v1.3.2 - [NeoForge 1.21.1]` (curseforge)
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Loot Journal: Pickup Notifier](https://modrinth.com/project/loot-journal) `6.2.2`
 - [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.2`

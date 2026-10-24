@@ -1,0 +1,23 @@
+{
+  "name": "Abundant Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Ey816bd",
+      "slug": "abundant-delight",
+      "versionId": "5m0DluJ1",
+      "versionNumber": "1.0.0",
+      "filename": "abundantdelight-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Ey816bd/versions/5m0DluJ1/abundantdelight-1.0.0.jar",
+      "sha1": "6b41a0771ced42ea9bf70c65c641d167c24481fd",
+      "sha512": "c82c10ec084a6c615f9d32664ca01080121fe657aa0ce27044f2a2baa21f7e219fb20b5d4d86f2bceef86bf4982d98aead70308dba53ae1a64418ae8ab9c7751",
+      "fileSize": 54823
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
