@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "72RRCWM6",
       "slug": "field-guide",
-      "versionId": "GCjHvMPM",
-      "versionNumber": "1.22.3+1.21.1-neoforge",
-      "filename": "fieldguide-1.22.3+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/72RRCWM6/versions/GCjHvMPM/fieldguide-1.22.3%2B1.21.1-neoforge.jar",
-      "sha1": "737c554839fb1724d4780dbd01f78cc195e63192",
-      "sha512": "a8e156356f659239fa9bb7ba17302815e5e022460fa50fb4de5284e870100e414bc1e1ee669ce246747628671380e78bcfcd873aecdfd5e997a96775d44f876f",
-      "fileSize": 1307262
+      "versionId": "ALACNhoR",
+      "versionNumber": "1.22.4+1.21.1-neoforge",
+      "filename": "fieldguide-1.22.4+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/72RRCWM6/versions/ALACNhoR/fieldguide-1.22.4%2B1.21.1-neoforge.jar",
+      "sha1": "c5b4bd4700823295c5ebad0d54bc9ea798792272",
+      "sha512": "5bb854764e4174d1c4de8614a4409604506e65625c233752aae02c60855c6b1777dcb950cf4af32606d1ddaef380c5632c48924ca787c71d9b9735b39151b43a",
+      "fileSize": 1308356
     }
   },
   "dependents": [],

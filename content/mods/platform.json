@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "i6fiqm5y",
       "slug": "platform",
-      "versionId": "QHFLNdoG",
-      "versionNumber": "1.4.1",
-      "filename": "Platform-neoforge-1.21.1-1.4.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/i6fiqm5y/versions/QHFLNdoG/Platform-neoforge-1.21.1-1.4.1.jar",
-      "sha1": "f183c417154f9a42d4c3387ab815ea1319db61bc",
-      "sha512": "a8de25431aa28cbbbef58b648d0275d880bbd326dfef9c9747e3a2a1fc277bedabfa858fa3640ac0f43d4870a2946bab20c1c3108a463ac953ad8becd36adfb9",
-      "fileSize": 560237
+      "versionId": "rh4p4ixM",
+      "versionNumber": "1.4.2",
+      "filename": "Platform-neoforge-1.21.1-1.4.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/i6fiqm5y/versions/rh4p4ixM/Platform-neoforge-1.21.1-1.4.2.jar",
+      "sha1": "38947983b65b08bffdcbbc347949a7bc5c6426e1",
+      "sha512": "24f9640cc830ffc9b921f89187aaa2ee41aeb9949b36a9ab11b94313c9f4eebb94e5aa7ee3089237f677d3c72aa860bb2bf332c900030c8f7dd5bbcc25ece73a",
+      "fileSize": 550771
     }
   },
   "dependents": [

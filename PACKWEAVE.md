@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 231 mods (8 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 232 mods (8 dependencies), 20 resource packs
 
 ## Contents
 
@@ -13,8 +13,9 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
+- [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
 - [Amended SVC Icons](https://modrinth.com/project/amendedicons) `v2.0`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.0`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.1`
 - [Ancient Remnants: Monoliths](https://modrinth.com/project/ancient-remnants) `1.5.2`
 - Animal  Weights `animalweights-1.21.1-NeoForge-1.2.1.jar` (curseforge)
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
@@ -54,7 +55,7 @@
 - [Create Aeronautics: burner fuel](https://modrinth.com/project/create-aeronautics-burner-fuel) `1.0.2`
 - [Create Aeronautics: Encased Fluid Pipes](https://modrinth.com/project/create-aeronautics-encased-fluid-pipes) `1.0.7`
 - [Create Aeronautics: Vapor Trails](https://modrinth.com/project/create-aeronautics-vapor-trails) `2.4.0`
-- [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.5.0+neoforge-1.21.1-153`
+- [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.5.1+neoforge-1.21.1-160`
 - [Create Utilities (Unofficial Port)](https://modrinth.com/project/create-utilities-unofficial-port) `0.3.7`
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Alerted](https://modrinth.com/project/create-alerted) `0.2.2`
@@ -99,7 +100,7 @@
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
 - [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
-- [Field Guide](https://modrinth.com/project/field-guide) `1.22.3+1.21.1-neoforge`
+- [Field Guide](https://modrinth.com/project/field-guide) `1.22.4+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Figurity](https://modrinth.com/project/figurity) `2.0.1+1.21.1`
 - [Flappy Wings](https://modrinth.com/project/flappy-wings) `1.0.1`
@@ -179,16 +180,16 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Patience](https://modrinth.com/project/patience) `2.2.3`
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Pillager Caravans](https://modrinth.com/project/pillager-caravans) `3.0.1`
-- [Platform](https://modrinth.com/project/platform) `1.4.1`
+- [Platform](https://modrinth.com/project/platform) `1.4.2`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.2.2`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.0`
 - [Post It!](https://modrinth.com/project/post-it) `1.1.0`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.65`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Refurbished More Apps](https://modrinth.com/project/refurbished-more-apps) `1.0.1`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.0-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.0+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.1+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.2+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
@@ -239,7 +240,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Tiny Flowers](https://modrinth.com/project/tiny-flowers) `v2.1.0+1.21.1-neoforge`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.3.0-1.21.1-neoforge`
 - [Unlocked Void Sea  - Aeronautics Addon](https://modrinth.com/project/unlocked-void-sea) `1.1.0`
-- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.1`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.2.2`
 - [Vanilla Backport Compat](https://modrinth.com/project/vb-compat) `2.3`
 - [Vanity: Aesthetic Armory](https://modrinth.com/project/vanity-aesthetic-armory) `1.1.1`
 - [Vanity: Ancient Tool Variants](https://modrinth.com/project/vanity-ancient-tool-variants) `3.0.0`

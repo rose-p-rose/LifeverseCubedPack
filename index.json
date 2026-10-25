@@ -21,8 +21,12 @@
       "sha1": "f03cc2426776565f1b42c3261790a4a18c88927b"
     },
     {
+      "path": "content/mods/alltuttasneeds.json",
+      "sha1": "93a5e4d4341ae122e1f5dfd823f6e78897d59a55"
+    },
+    {
       "path": "content/mods/amendments.json",
-      "sha1": "54fdc41d5f5c370bd274f80d642ed7d297121c2b"
+      "sha1": "95cc5c715095c02ae5510610d350fea244f4e6e2"
     },
     {
       "path": "content/mods/ancient-remnants.json",
@@ -206,7 +210,7 @@
     },
     {
       "path": "content/mods/create-cobblestone.json",
-      "sha1": "26989ff391b0689b7ff9256926a33d9a1887cf2a"
+      "sha1": "e099eb5b4b585b3f84405f59de06066f0d135508"
     },
     {
       "path": "content/mods/create-estrogen.json",
@@ -354,7 +358,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "6c629a3bcf83e13e9d00fb7b592fcec16035e676"
+      "sha1": "84da4c8042a8f674f374c8b7798a6ebf05a2e182"
     },
     {
       "path": "content/mods/figura.json",
@@ -638,7 +642,7 @@
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "2b3004f2d23efdf524af3613297f35e7abd7f223"
+      "sha1": "7e2096d5371caa03bdb4fc0b52ba010305f65d3f"
     },
     {
       "path": "content/mods/polymorph.json",
@@ -646,7 +650,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "6598d2c3b94f1627ce9c5bf12617d9e2b238601e"
+      "sha1": "8819eafb973dd87f3a74cce665b01b815faeae41"
     },
     {
       "path": "content/mods/post-it.json",
@@ -678,7 +682,7 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "ff11c410c0d6dba7feaf4670fab68719476602bd"
+      "sha1": "5bcf9876618423588c5fb597c0d27f4242b6413f"
     },
     {
       "path": "content/mods/reliable-remover.json",
@@ -841,10 +845,6 @@
       "sha1": "ca8c83ffb392d9ae7a319f409aeba0a22709bab6"
     },
     {
-      "path": "content/mods/svc-hud-hider.json",
-      "sha1": "0d1774c72d7633fc5c01680b3430fc443c152ca1"
-    },
-    {
       "path": "content/mods/sweety-archaeology.json",
       "sha1": "f89ac849568c83c8aaa9be0341c6e8e05bdb74a6"
     },
@@ -870,7 +870,7 @@
     },
     {
       "path": "content/mods/vanillabackport.json",
-      "sha1": "ac6dba3be38c181680b7c2e131b9b95b4f10f7bb"
+      "sha1": "b69e36f32dbfc545039b78fdcfbe94d9ad8cafbd"
     },
     {
       "path": "content/mods/vanity-aesthetic-armory.json",
@@ -1163,6 +1163,14 @@
     {
       "path": "overrides/config/aeroworks-common.toml",
       "sha1": "4c5cae33aa3dc393302de80bd3cd34af120fe57a"
+    },
+    {
+      "path": "overrides/config/alltuttasneeds-client.toml",
+      "sha1": "ce17b65d106ec726d542306d315e07b0ae13c077"
+    },
+    {
+      "path": "overrides/config/alltuttasneeds-common.toml",
+      "sha1": "82e26bc2d355c7d55877f012e8132ff8fc96d785"
     },
     {
       "path": "overrides/config/amendments-client.toml",
@@ -2135,6 +2143,10 @@
     {
       "path": "overrides/config/patchouli-client.toml",
       "sha1": "51e0df3a58ba3cba0a5403de4a3c4f1b00859ec1"
+    },
+    {
+      "path": "overrides/config/patience.json",
+      "sha1": "1fd1ed6a50ac6696142aca550027c90dc1837048"
     },
     {
       "path": "overrides/config/penchant-client.toml",
