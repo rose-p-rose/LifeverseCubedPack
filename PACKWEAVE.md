@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 229 mods (8 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 231 mods (8 dependencies), 20 resource packs
 
 ## Contents
 
@@ -122,7 +122,7 @@
 - [Hedge's Bestiary](https://modrinth.com/project/hedges-bestiary) `1.1.3`
 - [Hi-Fi](https://modrinth.com/project/hi-fi) `0.1.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
-- [Immersive Paintings](https://modrinth.com/project/immersive-paintings) `0.7.9+1.21.1`
+- [Immersive Paintings](https://modrinth.com/project/immersive-paintings) `0.8.0+1.21.1`
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.2.0`
 - [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
@@ -161,12 +161,12 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Man's Bushy Leaves](https://modrinth.com/project/no-mans-bushy-leaves) `1.1`
 - [No Man's Delight](https://modrinth.com/project/no-mans-delight) `2.2.0`
-- [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.2`
+- [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [No Man's Saplings](https://modrinth.com/project/no-mans-saplings) `1.0`
 - [No Precision Mechanism Junk](https://modrinth.com/project/no-precision-mechanism-junk) `1.1.0-neo+mod`
 - [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
 - [Obscure Tooltips](https://modrinth.com/project/obscure-tooltips) `4.2.5`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.0+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.1+1.21.1-neoforge`
 - [One Click Join](https://modrinth.com/project/one-click-join) `1.3.1`
 - [One Enough Item](https://modrinth.com/project/one-enough-item) `1.0.8`
 - [One Enough Lib](https://modrinth.com/project/oelib) `0.2.3`
@@ -176,19 +176,20 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Particle Core](https://modrinth.com/project/particle-core) `0.3.3+1.21+neoforge`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+1.21.1-neoforge`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
+- [Patience](https://modrinth.com/project/patience) `2.2.3`
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Pillager Caravans](https://modrinth.com/project/pillager-caravans) `3.0.1`
 - [Platform](https://modrinth.com/project/platform) `1.4.1`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.2.1`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.2.2`
 - [Post It!](https://modrinth.com/project/post-it) `1.1.0`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.65`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Refurbished More Apps](https://modrinth.com/project/refurbished-more-apps) `1.0.1`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.13-1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.7.1+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.1+1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.0-1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.0+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.2+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
@@ -232,6 +233,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Supplementaries Rope Tweaks](https://modrinth.com/project/supplementaries-ropes-re-done) `2.0`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
+- [SVC HUD Hider](https://modrinth.com/project/svc-hud-hider) `1.0`
 - [Sweety's Archaeology](https://modrinth.com/project/sweety-archaeology) `1.1.0`
 - [Synesthesia: Sound Visualizer](https://modrinth.com/project/synesthesia) `1.0.0`
 - [Tiny Flowers](https://modrinth.com/project/tiny-flowers) `v2.1.0+1.21.1-neoforge`

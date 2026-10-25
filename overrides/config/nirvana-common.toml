@@ -2,19 +2,19 @@
 		#number of uses after which smoking causes nausea
 		# Default: 3
 		# Range: -1 ~ 256
-		nauseaAfterHits = 3
+		nauseaAfterHits = 2
 		#number of uses after which smoking causes hunger
 		# Default: 5
 		# Range: -1 ~ 256
-		hungerAfterHits = 5
+		hungerAfterHits = 4
 		#number of uses after which smoking causes reefers to spawn
 		# Default: 3
 		# Range: -1 ~ 256
-		reeferAfterHits = 3
+		reeferAfterHits = 6
 		#chance of a reefer spawning
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		reeferSpawnChance = 0.5
+		reeferSpawnChance = 0.3
 		#whether fake players like dispensers or create's deployers are allowed to smoke joint & co.
 		allowFakePlayers = true
 
@@ -23,7 +23,7 @@
 			#radius around the user within entities will also get the peace effect
 			# Default: 15.0
 			# Range: 0.0 ~ 32.0
-			radius = 15.0
+			radius = 10.0
 			#number of seconds the peace effect from a joint lasts
 			# Default: 20
 			# Range: 1 ~ 3600
@@ -47,10 +47,10 @@
 		#how much longer herbal salve effects last in comparison to the suspicious soup equivalent (3 => 3x times)
 		# Default: 3
 		# Range: 1 ~ 10
-		factor = 3
+		factor = 5
 
 	[nirvana.suspicious_pipe]
 		#how much longer suspicious pipe effects last in comparison to the suspicious soup equivalent (4 => 4x times)
 		# Default: 4
 		# Range: 1 ~ 10
-		factor = 4
+		factor = 7

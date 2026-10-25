@@ -438,7 +438,7 @@
     },
     {
       "path": "content/mods/immersive-paintings.json",
-      "sha1": "aed66b4fb8eba687f65d0ba1d132bb69a839b44e"
+      "sha1": "f57e6d7638cef6d40dfa39aea56ab38a804dfc76"
     },
     {
       "path": "content/mods/irons-artifice.json",
@@ -570,7 +570,7 @@
     },
     {
       "path": "content/mods/no-mans-land.json",
-      "sha1": "90dd30531b8d6005aa9cac3353a667ee8c9b03dd"
+      "sha1": "15cf6e5bd4234a044189c84b3c109e0578444001"
     },
     {
       "path": "content/mods/no-precision-mechanism-junk.json",
@@ -590,7 +590,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "57fa9b75d23b68e461ab0500a34c71748caf2c1c"
+      "sha1": "213fb2bdad6e21727f81ea747abcbca26beb902b"
     },
     {
       "path": "content/mods/one-click-join.json",
@@ -625,6 +625,10 @@
       "sha1": "9dfe4ee525306389ba9bfcd36a3d87bece6a766d"
     },
     {
+      "path": "content/mods/patience.json",
+      "sha1": "bdbdc920fb3e2fe7808f4317460546fb63472132"
+    },
+    {
       "path": "content/mods/penchant.json",
       "sha1": "17b14081e4ff4d591911de0cf686a19e95aa7984"
     },
@@ -642,7 +646,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "8614ad2348e53ff1e3e019fc15586bdd8301b3b3"
+      "sha1": "6598d2c3b94f1627ce9c5bf12617d9e2b238601e"
     },
     {
       "path": "content/mods/post-it.json",
@@ -670,15 +674,15 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "571680869d4e668da18a4c04c199d5deb0c35e09"
+      "sha1": "1f41d43089651f7014f616e9ed1b28a696c1239e"
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "ffc0a249e50bc08081afe72dde9c8d415541928f"
+      "sha1": "ff11c410c0d6dba7feaf4670fab68719476602bd"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "576c756c1deb526068cca348cef31ab7510ed791"
+      "sha1": "0f69911e29e6703f1e2b9af841921047dd1ab7f8"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -835,6 +839,10 @@
     {
       "path": "content/mods/surveyor.json",
       "sha1": "ca8c83ffb392d9ae7a319f409aeba0a22709bab6"
+    },
+    {
+      "path": "content/mods/svc-hud-hider.json",
+      "sha1": "0d1774c72d7633fc5c01680b3430fc443c152ca1"
     },
     {
       "path": "content/mods/sweety-archaeology.json",
@@ -2010,7 +2018,7 @@
     },
     {
       "path": "overrides/config/nirvana-common.toml",
-      "sha1": "0520af200764459d880f670bb5c0a09a0dfaf017"
+      "sha1": "491829a6b27368b4dc816ee1f8d9c9e0281303af"
     },
     {
       "path": "overrides/config/nomansland-client.toml",
@@ -2550,7 +2558,7 @@
     },
     {
       "path": "overrides/config/via_romana.json",
-      "sha1": "56edc09f819869c57c0314a17c8d0eda25ba49d1"
+      "sha1": "7d4f047bd2f259b938de34262d084c1c2adab91c"
     },
     {
       "path": "overrides/config/voicechat/category-volumes.properties",

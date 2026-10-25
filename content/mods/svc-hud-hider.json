@@ -1,0 +1,23 @@
+{
+  "name": "SVC HUD Hider",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LTsVJPJF",
+      "slug": "svc-hud-hider",
+      "versionId": "2Vwjwwz8",
+      "versionNumber": "1.0",
+      "filename": "svc_hud_hider-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LTsVJPJF/versions/2Vwjwwz8/svc_hud_hider-1.0.jar",
+      "sha1": "a2776f5b6f044b6a029590aa622c05d29b8fda78",
+      "sha512": "e4c615b205b111332ad7f0dae44a29b60bde5b7a88abb8247e318ab8b2462ea57a765ef498006b1f228833388c19406d30ddedfe9598260f7ffdc1ee265baf9d",
+      "fileSize": 77268
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

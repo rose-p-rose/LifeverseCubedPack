@@ -10,3 +10,6 @@
 # !config/somemod.toml#client.debug
 servers.dat
 options.txt
+config/voicechat/
+config/sounds/
+config/extremesoundmuffler-client.toml

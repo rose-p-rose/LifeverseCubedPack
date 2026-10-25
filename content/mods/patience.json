@@ -1,0 +1,23 @@
+{
+  "name": "Patience",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7nBbkgpT",
+      "slug": "patience",
+      "versionId": "gElJq5cA",
+      "versionNumber": "2.2.3",
+      "filename": "patience-2.2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7nBbkgpT/versions/gElJq5cA/patience-2.2.3.jar",
+      "sha1": "a7fbf10b03877782d5a1db989e25a8e0d5e7d8a0",
+      "sha512": "1360648b651626586f556cd56ffc33fa4b0284278b6ae2fd60f1514638b4ddd18614785c095973fd823130fdcce248e114a055f148c835276cf8f100469d4e4d",
+      "fileSize": 118658
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
