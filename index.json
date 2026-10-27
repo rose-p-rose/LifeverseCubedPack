@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "95cc5c715095c02ae5510610d350fea244f4e6e2"
+      "sha1": "f5443bf862e2ef9cb8fb96b99d8ebb1e328c2337"
     },
     {
       "path": "content/mods/ancient-remnants.json",
@@ -146,7 +146,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "bda224b697c1bb17cbcd12a61da96c92c13c21a5"
+      "sha1": "0ab60f044e5d918032b723b65aa788b96bd330b5"
     },
     {
       "path": "content/mods/configured.json",
@@ -330,7 +330,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "bf9a65d68f1747430b0df1eec1b7a72a60e29876"
+      "sha1": "2671b205995c4c455b0328d0a0e2027942efdaa5"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -386,7 +386,7 @@
     },
     {
       "path": "content/mods/fzzy-config.json",
-      "sha1": "3c7d059cc9bbefedcd39ba0e96e77876703a7fa5"
+      "sha1": "79c13517009b971287642d971c6d93f62351055b"
     },
     {
       "path": "content/mods/gallery.json",
@@ -450,7 +450,7 @@
     },
     {
       "path": "content/mods/irons-lib.json",
-      "sha1": "db842ca0c4cf97bb28c920973d26c56a04d94667"
+      "sha1": "eeeabae8b008f70e7656336d1dae9867cb70f767"
     },
     {
       "path": "content/mods/item-descriptions.json",
@@ -506,7 +506,7 @@
     },
     {
       "path": "content/mods/living-wind.json",
-      "sha1": "94f088758ba06bcbfad275d9930917325d1908d7"
+      "sha1": "1a64d0bdde8cec0c1f6f7e393120cb8cf79c3fd6"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -534,7 +534,7 @@
     },
     {
       "path": "content/mods/mini-music-tweaks.json",
-      "sha1": "d1f53705d34fed39e345a2ec93a3bb1cab9c2c72"
+      "sha1": "1ae148148ca84555083c47f893cc38f28d5649cb"
     },
     {
       "path": "content/mods/minopp.json",
@@ -594,7 +594,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "213fb2bdad6e21727f81ea747abcbca26beb902b"
+      "sha1": "011d97ab3750bd7437b15bbe0567ca58931f2425"
     },
     {
       "path": "content/mods/one-click-join.json",
@@ -650,7 +650,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "8819eafb973dd87f3a74cce665b01b815faeae41"
+      "sha1": "71c7860d02dc667abc65776f265b735a8bfe7259"
     },
     {
       "path": "content/mods/post-it.json",
@@ -658,7 +658,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "434399afd862ebf882e77f68dd4a9c70cd772e70"
+      "sha1": "dd3b3e79f8343f970f3d8c9ccd05391e26a57a64"
     },
     {
       "path": "content/mods/reconnectible-chains.json",
@@ -682,11 +682,11 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "5bcf9876618423588c5fb597c0d27f4242b6413f"
+      "sha1": "7a53c91c6387e6d68b5d2f141c3cc180e1ad8f35"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "0f69911e29e6703f1e2b9af841921047dd1ab7f8"
+      "sha1": "eb2bf44dac8b106d9848444dbdb7d6a6c3957340"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -2554,7 +2554,7 @@
     },
     {
       "path": "overrides/config/vanillabackport-common.toml",
-      "sha1": "e8fb1ae95dfc9fc54e3d00fb00b3c396e4487537"
+      "sha1": "b2a6b1043abf514426fa966ec9fdf5cc9baace68"
     },
     {
       "path": "overrides/config/vanityslots-server.toml",

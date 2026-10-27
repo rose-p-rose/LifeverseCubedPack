@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pLxsKvNt",
       "slug": "reliable-remover",
-      "versionId": "iVeyLpwX",
-      "versionNumber": "3.8.2+1.21.1-neoforge",
-      "filename": "reliable_remover-3.8.2+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pLxsKvNt/versions/iVeyLpwX/reliable_remover-3.8.2%2B1.21.1-neoforge.jar",
-      "sha1": "8ef14182b4d001e0df27c5b8b3e6d32e61643c0d",
-      "sha512": "101f5765aff878131206f6a4478ceb85ba1c5c25d806ad85739ae46d9b8416e02d0a67f4d85e594cfdbc70877009e104045fe710a0f856039d5257a2f20c82c5",
-      "fileSize": 197258
+      "versionId": "zNTpRJOJ",
+      "versionNumber": "3.8.3+1.21.1-neoforge",
+      "filename": "reliable_remover-3.8.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pLxsKvNt/versions/zNTpRJOJ/reliable_remover-3.8.3%2B1.21.1-neoforge.jar",
+      "sha1": "eb44507bf2a5cdadc4dd48bb9b22a89393017246",
+      "sha512": "a0a887c56281b640cab63cd59ddf58d4a4ea571fe06ebd77b1056062946e1cd4a87790747becb8895d2d50a07d64468b53f4663a3a5f79133251aa22a70241b4",
+      "fileSize": 197421
     }
   },
   "dependents": [],

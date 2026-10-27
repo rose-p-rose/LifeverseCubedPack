@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1743716",
       "slug": "living-wind",
-      "versionId": "9303600",
-      "versionNumber": "v1.3.2 - [NeoForge 1.21.1]",
-      "filename": "LivingWind-NeoForge-1.21.1-v1.3.2.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9303/600/LivingWind-NeoForge-1.21.1-v1.3.2.jar",
-      "sha1": "880b774cdc345428526cabec85b66c56ade99e46",
-      "fileSize": 4085780
+      "versionId": "9347042",
+      "versionNumber": "v1.3.4 - [NeoForge 1.21.1]",
+      "filename": "LivingWind-NeoForge-1.21.1-v1.3.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9347/42/LivingWind-NeoForge-1.21.1-v1.3.4.jar",
+      "sha1": "80025a6702e396c19409b97d8d37e152b14f5074",
+      "fileSize": 4177205
     }
   },
   "dependents": [],

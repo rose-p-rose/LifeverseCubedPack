@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "6iTJugQR",
       "slug": "amendments",
-      "versionId": "PSUS3poS",
-      "versionNumber": "1.21-2.2.1",
-      "filename": "amendments-1.21-2.2.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/6iTJugQR/versions/PSUS3poS/amendments-1.21-2.2.1-neoforge.jar",
-      "sha1": "b546182ba1e7319132d3a96d8c4e31957a80ec3c",
-      "sha512": "909f4bdd3d608471d08da3f9c404dbc1e10e05bc18a6632bb9ae1df8dae009a615ebcbfaba7b2e60d7176db5f1728539b7d8aaa73488ec7ade70eaefa6f556bb",
-      "fileSize": 1186798
+      "versionId": "5GnkHTcf",
+      "versionNumber": "1.21-2.2.3",
+      "filename": "amendments-1.21-2.2.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6iTJugQR/versions/5GnkHTcf/amendments-1.21-2.2.3-neoforge.jar",
+      "sha1": "b66fc919bc906613600c458f740a87c3702175a5",
+      "sha512": "2501b8cfbfe19aedccfaf36663df2908b887dad2cb401bbf2b366d8ec04ecc42dbd689c69f02c8054566330906100c14bc312c5663b536ab9f632120ae67fd0d",
+      "fileSize": 1195278
     }
   },
   "dependents": [],

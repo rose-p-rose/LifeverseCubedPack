@@ -5,7 +5,7 @@
 	#allow bundles to be dyed
 	has_dyeable_bundle_recipe = false
 	#enable the modern bundle interface and controls
-	has_updated_bundles = true
+	has_updated_bundles = false
 	#allow Bundles to generate in Village loot chests
 	bundle_loot = true
 	#invert the bundle click controls
