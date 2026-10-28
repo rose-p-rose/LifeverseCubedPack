@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "TIovUvxP",
       "slug": "nature-workshop",
-      "versionId": "aHqhaYVr",
-      "versionNumber": "1.0.0",
-      "filename": "nature-workshop-1.0.0-1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/TIovUvxP/versions/aHqhaYVr/nature-workshop-1.0.0-1.21.1-neoforge.jar",
-      "sha1": "c61d6b31e9c33fe2569b6565a263230b08bdd85c",
-      "sha512": "729b068c55823c15984213885c2245bf2c3608b30667ffb3d2eb4c5dda686a865497eec205a030f5764fe44dad38c24a94abf17347e11127925148f5d885c5b7",
-      "fileSize": 3011619
+      "versionId": "T2s3Ahx6",
+      "versionNumber": "1.0.1",
+      "filename": "nature-workshop-1.0.1-1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TIovUvxP/versions/T2s3Ahx6/nature-workshop-1.0.1-1.21.1-neoforge.jar",
+      "sha1": "b016fec13604323ab8ab2ee7b4935d694dd3a768",
+      "sha512": "11b276b3d3da99f76c0881769ab9b45e44fc3117683fdc4febf03919bd0e15b71cbd93b1a48105890ad07c93738d76ddac3380b410d74deceb42cbf4fccbf700",
+      "fileSize": 3188508
     }
   },
   "dependents": [],

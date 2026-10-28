@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 232 mods (8 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 234 mods (8 dependencies), 20 resource packs
 
 ## Contents
 
@@ -42,7 +42,7 @@
 - [Cirrus](https://modrinth.com/project/cirrus) `1.4.1`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
-- [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.0+1.21.1-neoforge`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.67-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
@@ -95,6 +95,7 @@
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.2`
 - [Exposure: Detective](https://modrinth.com/project/exposure-detective) `1.0.1`
+- [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.6`
 - [Extreme sound muffler](https://modrinth.com/project/extreme_sound_muffler) `3.57-1.21.1`
 - [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
 - [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.04`
@@ -131,7 +132,7 @@
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Keep Equipment](https://modrinth.com/project/keep-equipment-anticode) `1.1.1`
-- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.0.0`
+- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.1.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
@@ -157,7 +158,7 @@
 - MrCrayfish's Furniture Mod: Refurbished `
 MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
-- [Nature Workshop!](https://modrinth.com/project/nature-workshop) `1.0.0`
+- [Nature Workshop!](https://modrinth.com/project/nature-workshop) `1.0.1`
 - [Nightosphere](https://modrinth.com/project/nightosphere) `3.2+mod`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Man's Bushy Leaves](https://modrinth.com/project/no-mans-bushy-leaves) `1.1`
@@ -213,6 +214,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.25`
 - [Simulated Diagram Snapshots](https://modrinth.com/project/simulated-diagram-snapshots) `1.0.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
+- [Sneaky Link](https://modrinth.com/project/sneaky-link) `3.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Dynamic Lights](https://modrinth.com/project/sodium-dynamic-lights) `neoforge-1.21.1-1.0.10`
 - [Sons of Sins](https://modrinth.com/project/sons-of-sins) `2.2.1.d`

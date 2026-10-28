@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/clutternomore.json",
-      "sha1": "25e5383a35b0a4e0c0d76e99a40d9dbd300badba"
+      "sha1": "cef0801563c0cc90d0fa5a09f2e2c7fd86e0c2e4"
     },
     {
       "path": "content/mods/collective.json",
@@ -345,6 +345,10 @@
       "sha1": "87a195f57155268460426cc4c5aa541fba7dc487"
     },
     {
+      "path": "content/mods/exposure-polaroid.json",
+      "sha1": "ee3c6592011a23ca34bf434c528e2da3333ac1e7"
+    },
+    {
       "path": "content/mods/exposure.json",
       "sha1": "2e9ae48273c4a24b10373a5296a0b21f2c74a9d0"
     },
@@ -478,7 +482,7 @@
     },
     {
       "path": "content/mods/keybind-atlas.json",
-      "sha1": "41a30495b8855996b653621a169cd3217cd9a843"
+      "sha1": "ce6c8784a38d5d62c6b4bacf8c407c4b6355af33"
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
@@ -558,7 +562,7 @@
     },
     {
       "path": "content/mods/nature-workshop.json",
-      "sha1": "0714675b71c48e3bfa5951332b43c889f4c3c3ba"
+      "sha1": "01496f9141d2e17876b5409266cd02d595f573de"
     },
     {
       "path": "content/mods/nightosphere.json",
@@ -763,6 +767,10 @@
     {
       "path": "content/mods/simulated-diagram-snapshots.json",
       "sha1": "8896ab83c7c9d8e4cadd799d64fcab3dde1c3510"
+    },
+    {
+      "path": "content/mods/sneaky-link.json",
+      "sha1": "8b60ac672d340f036741d6364159b65276ba7253"
     },
     {
       "path": "content/mods/sodium-dynamic-lights.json",
@@ -1305,12 +1313,8 @@
       "sha1": "58b29b464324f8e8f8d951062f984d29067de122"
     },
     {
-      "path": "overrides/config/clutternomore/packed_packs.folderpack.json",
-      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
-    },
-    {
       "path": "overrides/config/clutternomore/startup.toml",
-      "sha1": "f6a637eb0a4633f8bc4ffd6905af5ea60be5c59c"
+      "sha1": "e1baa614c9cb6ea482b3841d085cafe3f5d49151"
     },
     {
       "path": "overrides/config/configured-client.properties",
@@ -1449,10 +1453,6 @@
       "sha1": "2af4d2499632b2a1f3aa8269091e454ef440a84e"
     },
     {
-      "path": "overrides/config/createestrogen/packed_packs.folderpack.json",
-      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
-    },
-    {
       "path": "overrides/config/createestrogen/server.json5",
       "sha1": "2af4d2499632b2a1f3aa8269091e454ef440a84e"
     },
@@ -1563,10 +1563,6 @@
     {
       "path": "overrides/config/estrogen/common.json5",
       "sha1": "e726594cb16c8693e5b0434cfa6c284c0ec99f18"
-    },
-    {
-      "path": "overrides/config/estrogen/packed_packs.folderpack.json",
-      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
     },
     {
       "path": "overrides/config/estrogen/server.json5",
@@ -2155,10 +2151,6 @@
     {
       "path": "overrides/config/penchant/client.toml",
       "sha1": "13dc796fca5f8cc65cfc0d97f4157f9c01fb4e03"
-    },
-    {
-      "path": "overrides/config/penchant/packed_packs.folderpack.json",
-      "sha1": "d32ff902fb3e2c8c3b84b8d770cd59903de542a4"
     },
     {
       "path": "overrides/config/penchant/server.toml",
