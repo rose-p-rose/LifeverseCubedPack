@@ -1,0 +1,23 @@
+{
+  "name": "illusion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pr6OJTek",
+      "slug": "illusion",
+      "versionId": "X5k0irGb",
+      "versionNumber": "1.1.2+mc1.21.1",
+      "filename": "illusion-1.1.2+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pr6OJTek/versions/X5k0irGb/illusion-1.1.2%2Bmc1.21.1.jar",
+      "sha1": "ae0f51df402b5c6d7f09bb6baf5e6cabdf208164",
+      "sha512": "2ade7035b7c61f5bccba4f50fae793b7a2604f6a268b74fc34f3f753d792a94683162c4e3e04392b3454cf96be5609f85d442daf22cbb142f0a8aadfa63d11b9",
+      "fileSize": 719267
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

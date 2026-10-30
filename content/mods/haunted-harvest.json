@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "a378ICDH",
       "slug": "haunted-harvest",
-      "versionId": "ic7IRl2m",
-      "versionNumber": "1.21-3.5.1",
-      "filename": "hauntedharvest-1.21-3.5.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/a378ICDH/versions/ic7IRl2m/hauntedharvest-1.21-3.5.1-neoforge.jar",
-      "sha1": "0c849c4dc91570beb7769b5cb96c43c044ae2240",
-      "sha512": "144ca5acf8ad6a9ec359b18a11a1967b8b7680f6600084937176dd225b7c1bfde7d0b13a909c9bb065af36b3aef4544d3b3ce7087942d4abdc5f6ddcc2c7ba9d",
-      "fileSize": 540764
+      "versionId": "pE6k4oU8",
+      "versionNumber": "1.21-3.5.2",
+      "filename": "hauntedharvest-1.21-3.5.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/a378ICDH/versions/pE6k4oU8/hauntedharvest-1.21-3.5.2-neoforge.jar",
+      "sha1": "c4e5cca93dcfc448e36dad802a9dc1c71e2d9d54",
+      "sha512": "bc19cebea628264f8053704ad95cb351e7abbc05dd66da6b76d0a680867516f25649da276a1e8002aa38912e9c8c823d33712b5371fd72c74213c4a8d525837d",
+      "fileSize": 540738
     }
   },
   "dependents": [],

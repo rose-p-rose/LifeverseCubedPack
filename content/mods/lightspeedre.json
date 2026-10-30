@@ -2,7 +2,7 @@
   "name": "LightSpeedRe",
   "side": "auto",
   "explicit": true,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

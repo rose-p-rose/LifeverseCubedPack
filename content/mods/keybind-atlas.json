@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fokFjwwh",
       "slug": "keybind-atlas",
-      "versionId": "zZC4FCdx",
-      "versionNumber": "2.1.0",
-      "filename": "KeybindAtlas-v2.1.0-mc1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fokFjwwh/versions/zZC4FCdx/KeybindAtlas-v2.1.0-mc1.21.1-neoforge.jar",
-      "sha1": "a069f4a13d30e4937013bafdf5bc0ffecc74a64c",
-      "sha512": "1ef4ea2827cb2814c8cb63b96b8d316d67da93a6a61d884beadc3d9100431d1c457bdc5d0e403041f93d7d33251ff670dcf5d7d13ec2ede80ee47554b93cbba7",
-      "fileSize": 566377
+      "versionId": "EVcbkSpX",
+      "versionNumber": "2.1.1",
+      "filename": "KeybindAtlas-v2.1.1-mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fokFjwwh/versions/EVcbkSpX/KeybindAtlas-v2.1.1-mc1.21.1-neoforge.jar",
+      "sha1": "f596f12af69201d13f178b10e57635cdd4b43e29",
+      "sha512": "41aff64521288192af39fa08b8fa276f7fce0c78faa924dd0a9b130c5d0ce7c8be84c21639b8a57d1e5730a5e06322247c4bc5dc22b5ce0b7fc7e62ff856a764",
+      "fileSize": 566808
     }
   },
   "dependents": [],
