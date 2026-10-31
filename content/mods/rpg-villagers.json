@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1636324",
       "slug": "rpg-villagers",
-      "versionId": "9276122",
-      "versionNumber": "RPG Villagers 1.1.1 (NeoForge)",
-      "filename": "rpg_villagers-neoforge-1.21.1-1.1.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9276/122/rpg_villagers-neoforge-1.21.1-1.1.1.jar",
-      "sha1": "cc8bd776b28d9cd8420a95144a4a4af874c7ef5c",
-      "fileSize": 371592
+      "versionId": "9385214",
+      "versionNumber": "RPG Villagers 1.2.0 (NeoForge)",
+      "filename": "rpg_villagers-neoforge-1.21.1-1.2.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9385/214/rpg_villagers-neoforge-1.21.1-1.2.0.jar",
+      "sha1": "e2e99c5ac350394706d84b40b8e86edd801fc168",
+      "fileSize": 381407
     }
   },
   "dependents": [],

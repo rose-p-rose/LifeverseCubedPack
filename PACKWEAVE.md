@@ -44,7 +44,7 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.0+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.71-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.72-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
@@ -199,7 +199,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [RPG Dialogue](https://modrinth.com/project/rpg-dialogue) `1.0.14`
 - [RPG Errands](https://modrinth.com/project/rpg-errands) `1.0.1`
-- RPG Villagers `RPG Villagers 1.1.1 (NeoForge)` (curseforge)
+- RPG Villagers `RPG Villagers 1.2.0 (NeoForge)` (curseforge)
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.3.0`
 - [Sable Touys](https://modrinth.com/project/touys) `neoforge-1.1.0`

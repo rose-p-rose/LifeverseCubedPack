@@ -154,7 +154,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "376c23a887e2fc00cfde2f095740ab9c336ba28c"
+      "sha1": "1ea0f3b273c9f59ad99c75e87b27a639f4b06816"
     },
     {
       "path": "content/mods/configured.json",
@@ -718,7 +718,7 @@
     },
     {
       "path": "content/mods/rpg-villagers.json",
-      "sha1": "29d5d263989a8930ea2a4d114ebc4bc790030276"
+      "sha1": "a94a29fef89a9bc1f5bc1eac5fb2b7f066abf776"
     },
     {
       "path": "content/mods/sable-cleanup.json",
@@ -2666,7 +2666,7 @@
     },
     {
       "path": "overrides/resourcepacks/LifeVerse%20Cubed.zip",
-      "sha1": "094cd4a995c6702e4c383d58cb9a192e78fecdb8"
+      "sha1": "446762eb2b8fb8b3fc83942ae5365e99cc90e53c"
     },
     {
       "path": "overrides/servers.dat",
