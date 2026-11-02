@@ -16,7 +16,7 @@
 - [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
 - [All Tutta's Needs](https://modrinth.com/project/alltuttasneeds) `3.4.0`
 - [Amended SVC Icons](https://modrinth.com/project/amendedicons) `v2.0`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.5`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Ancient Remnants: Monoliths](https://modrinth.com/project/ancient-remnants) `1.5.2`
 - Animal  Weights `animalweights-1.21.1-NeoForge-1.2.1.jar` (curseforge)
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
@@ -40,11 +40,11 @@
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [ChatHeads Figura Support](https://modrinth.com/project/chatheads-figura-support) `1.0.3+1.21.1-NeoForge`
-- [Cirrus](https://modrinth.com/project/cirrus) `1.4.1`
+- [Cirrus](https://modrinth.com/project/cirrus) `1.4.2`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
-- [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.0+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.72-fabric+forge+neo`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.1+1.21.1-neoforge`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.73-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
@@ -71,7 +71,7 @@
 - [Create: Some Assembly Required](https://modrinth.com/project/some-assembly-required) `5.2.8`
 - [Create: Train Perspective](https://modrinth.com/project/create-train-perspective) `1.1.1+neoforge-1.21.1`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
-- [Create: Vertical Chain Conveyors](https://modrinth.com/project/create-vertical-chain-conveyors) `1.3.0`
+- [Create: Vertical Chain Conveyors](https://modrinth.com/project/create-vertical-chain-conveyors) `1.3.1`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
 - [Crunchy Crunchy Advancements](https://modrinth.com/project/crunchy-crunchy-advancements) `1.7.2+1.21`
@@ -134,12 +134,12 @@
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Keep Equipment](https://modrinth.com/project/keep-equipment-anticode) `1.1.1`
-- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.1.1`
+- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.3.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- Living Wind `v1.3.6 - [NeoForge 1.21.1]` (curseforge)
+- Living Wind `v1.3.7 - [NeoForge 1.21.1]` (curseforge)
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Loot Journal: Pickup Notifier](https://modrinth.com/project/loot-journal) `6.2.2`
 - [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.2`
