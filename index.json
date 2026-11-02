@@ -154,7 +154,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "1a19b543c95c2812d27834f48c3227d64640e3f4"
+      "sha1": "e2bee9306cf8068fb5919cdf9104c2951156a661"
     },
     {
       "path": "content/mods/configured.json",
@@ -302,7 +302,7 @@
     },
     {
       "path": "content/mods/easy-mob-spawn-control.json",
-      "sha1": "ea1547cbcbc044e914c9ca6e48747b24c9b6bb27"
+      "sha1": "a1b2e0617c1d29db43ffe95d5a4b3dfc8c686c6d"
     },
     {
       "path": "content/mods/easy-shulker-boxes.json",
@@ -629,10 +629,6 @@
       "sha1": "7e92a3a1009f3d619ab1fca1f5c87bdb24deaff3"
     },
     {
-      "path": "content/mods/particle-rain.json",
-      "sha1": "dd37639fa1267d04becc8543f916077a587f6bcb"
-    },
-    {
       "path": "content/mods/particular-reforged.json",
       "sha1": "9dfe4ee525306389ba9bfcd36a3d87bece6a766d"
     },
@@ -694,7 +690,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "eb2bf44dac8b106d9848444dbdb7d6a6c3957340"
+      "sha1": "b14136965954fa0a634bcb878b1790de521a930b"
     },
     {
       "path": "content/mods/resourceful-config.json",

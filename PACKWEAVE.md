@@ -44,7 +44,7 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.1+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.73-fabric+forge+neo`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.74-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
@@ -82,7 +82,7 @@
 - [Death Keeper - Grave Stones](https://modrinth.com/project/death-keeper) `1.21.1-1.0b`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
-- [Easy Mob Spawn Control](https://modrinth.com/project/easy-mob-spawn-control) `1.6.2`
+- [Easy Mob Spawn Control](https://modrinth.com/project/easy-mob-spawn-control) `1.6.3`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `v21.1.3-1.21.1-NeoForge`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
@@ -193,7 +193,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Refurbished More Apps](https://modrinth.com/project/refurbished-more-apps) `1.0.1`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.1-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.3+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.3+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
