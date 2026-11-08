@@ -9,14 +9,6 @@
       "sha1": "59ba08ef3200916a349a2d2b5bfd28cf48244f15"
     },
     {
-      "path": "content/mods/aero-player-tilt.json",
-      "sha1": "e13a2ffa5703ca4550cbc9405c4e8e33e9383add"
-    },
-    {
-      "path": "content/mods/aero_cam_sync.json",
-      "sha1": "b124b5119eaf9dbba85fff246fdc0eac8e3fd0c8"
-    },
-    {
       "path": "content/mods/aeronautics-propeller-blur.json",
       "sha1": "dece9202a373f249577b47e126a261a5074a806f"
     },
@@ -62,11 +54,7 @@
     },
     {
       "path": "content/mods/artemis-laboratory-blocks.json",
-      "sha1": "24739d2a5885110d82f2e755349eb99d9fe446dc"
-    },
-    {
-      "path": "content/mods/atmospheric-nether-mod.json",
-      "sha1": "390720282bca5de48272aa794f7ead4e4bdbc148"
+      "sha1": "900154c935a0c795d270daac78c3cc3b2e48647b"
     },
     {
       "path": "content/mods/backpacked-world-of-color.json",
@@ -150,11 +138,11 @@
     },
     {
       "path": "content/mods/clutternomore.json",
-      "sha1": "84706636574b238430dcde4873d17e9ef92fd685"
+      "sha1": "21dc0865b41cff3d5b49b4055aad8e91fd4b8c6e"
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "e2bee9306cf8068fb5919cdf9104c2951156a661"
+      "sha1": "54cb78d0e0f1e5f06b1eb233cdbc116563205b38"
     },
     {
       "path": "content/mods/configured.json",
@@ -302,7 +290,7 @@
     },
     {
       "path": "content/mods/easy-mob-spawn-control.json",
-      "sha1": "a1b2e0617c1d29db43ffe95d5a4b3dfc8c686c6d"
+      "sha1": "69fd6fdeba18c5b8df5d1f95efd8554c4f6a19af"
     },
     {
       "path": "content/mods/easy-shulker-boxes.json",
@@ -322,7 +310,7 @@
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "6955e2a6b9866b12dc3bec5693bf0d165f127999"
+      "sha1": "9284329655629dbea87b483501375efc50cdf865"
     },
     {
       "path": "content/mods/estrogen.json",
@@ -338,7 +326,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "2671b205995c4c455b0328d0a0e2027942efdaa5"
+      "sha1": "f85ba21e522d1c4ae79bc5205a1ebf491a6f189c"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -438,7 +426,7 @@
     },
     {
       "path": "content/mods/hedges-bestiary.json",
-      "sha1": "861ac23fde88695065f4e731b1a8b967a0fff8d9"
+      "sha1": "360acb4a4e6a0ea8479bba8d8df6770f5955605d"
     },
     {
       "path": "content/mods/hi-fi.json",
@@ -482,7 +470,7 @@
     },
     {
       "path": "content/mods/jeioptimizer.json",
-      "sha1": "e9b6823ae0b04c2932efd90b5e4fd58c74c61e8f"
+      "sha1": "ff269b42c267d5735e39c8f0d1ac74300829dfed"
     },
     {
       "path": "content/mods/just-enough-effect-descriptions-jeed.json",
@@ -518,7 +506,7 @@
     },
     {
       "path": "content/mods/living-wind.json",
-      "sha1": "a56a79922e520ac57334104f3e1464eef215059e"
+      "sha1": "56a21e41f65cfb9b3d00fff35e8d2bd90d843382"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -546,7 +534,7 @@
     },
     {
       "path": "content/mods/mini-music-tweaks.json",
-      "sha1": "1ae148148ca84555083c47f893cc38f28d5649cb"
+      "sha1": "61eb33fbe12fadfdc507d85d750475b0f2a1c2a7"
     },
     {
       "path": "content/mods/minopp.json",
@@ -562,7 +550,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "74b1c43c476a1cf0faf01d86f406c9fe24bc80db"
+      "sha1": "37933c14fa8b3e40fce91e344f6953e97ae482dc"
     },
     {
       "path": "content/mods/mru.json",
@@ -594,7 +582,7 @@
     },
     {
       "path": "content/mods/notenoughrecipebook.json",
-      "sha1": "b896b996d0fa394217dda1d36123749f906724fb"
+      "sha1": "0b73084211019eb39d352ea8c0d0cb409ca7dbee"
     },
     {
       "path": "content/mods/obscure-tooltips.json",
@@ -606,7 +594,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "891e50c451534b49846954f4e5ad32d642a1bc1c"
+      "sha1": "f62bdcb1749ff769f434635c6ab3f154f35bfbd6"
     },
     {
       "path": "content/mods/one-click-join.json",
@@ -633,10 +621,6 @@
       "sha1": "9dfe4ee525306389ba9bfcd36a3d87bece6a766d"
     },
     {
-      "path": "content/mods/patience.json",
-      "sha1": "bdbdc920fb3e2fe7808f4317460546fb63472132"
-    },
-    {
       "path": "content/mods/penchant.json",
       "sha1": "17b14081e4ff4d591911de0cf686a19e95aa7984"
     },
@@ -654,7 +638,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "9162bec6c5e08b2d97d7cfab9ee8936e7d2afa1d"
+      "sha1": "0a31396c68ef261541aecdd80da2ca2b61dc0eac"
     },
     {
       "path": "content/mods/post-it.json",
@@ -666,7 +650,7 @@
     },
     {
       "path": "content/mods/reconnectible-chains.json",
-      "sha1": "f518f774ba1f0926d44f52527e0872c2c177ffff"
+      "sha1": "f685e4c65ac6e77612595530cfd07ca9e042c6c0"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
@@ -754,7 +738,7 @@
     },
     {
       "path": "content/mods/shatterbyte-lib.json",
-      "sha1": "946c8711ab50aabf74ceffd1253ac9350f5f4dbc"
+      "sha1": "ae7bef4d173bad78339934aba0607b8272e011ff"
     },
     {
       "path": "content/mods/simple-datapacks.json",

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "C6R8uCNQ",
       "slug": "artemis-laboratory-blocks",
-      "versionId": "aUb1vaDS",
-      "versionNumber": "1.21.1-0.8.4r",
-      "filename": "laboratoryblocks-1.21.1-0.8.4r.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/C6R8uCNQ/versions/aUb1vaDS/laboratoryblocks-1.21.1-0.8.4r.jar",
-      "sha1": "68a376af433fe83f15e3a2c64379b1929b0bbc1d",
-      "sha512": "f027e00beae2e76624db0968f48b4134468915e13d487117963fe3567d8c5a1753b7145169a066c40f40da710f55e8299fc9073219f0cd38efa96afbff3712c6",
-      "fileSize": 962362
+      "versionId": "7jGc43GR",
+      "versionNumber": "1.0-neoforge-mc1.21.1",
+      "filename": "laboratoryblocks-1.0-neoforge-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C6R8uCNQ/versions/7jGc43GR/laboratoryblocks-1.0-neoforge-mc1.21.1.jar",
+      "sha1": "92c329f03244581455d79a75fbee01c65c72c845",
+      "sha512": "e68507d7ca16d421ea1a2047ddde6d2e023262f94eb1a32fdd48deed4d333df34b9e6bc08ab9b55996f4bf01b2fc09c9d633e41ce43944511133d3eb4755def9",
+      "fileSize": 4417191
     }
   },
   "dependents": [],

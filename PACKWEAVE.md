@@ -1,13 +1,13 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 236 mods (9 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 236 mods (10 dependencies), 20 resource packs
 
 ## Contents
 
 - [(Bee's) Fancy Crops](https://modrinth.com/project/fancy-crops) `1.3`
 - [(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility](https://modrinth.com/project/unofficial-mandalas-gui-dark-mode-mod-compatibility) `0.3`
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.12-neoforge-1.21`
-- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.6-neoforge-1.21`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-neoforge-1.21`
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Abundant Delight](https://modrinth.com/project/abundant-delight) `1.0.0`
 - [Aeronautics Player Tilt](https://modrinth.com/project/aero-player-tilt) `0.3.0`
@@ -23,7 +23,7 @@
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Armor Quick Swap](https://modrinth.com/project/armor-quick-swap) `v21.1.2-1.21.1-NeoForge`
-- [Artemis' Laboratory Blocks](https://modrinth.com/project/artemis-laboratory-blocks) `1.21.1-0.8.4r`
+- [Artemis' Laboratory Blocks](https://modrinth.com/project/artemis-laboratory-blocks) `1.0-neoforge-mc1.21.1`
 - [Atmospheric Nether](https://modrinth.com/project/atmospheric-nether-mod) `2.0.0`
 - Backpacked `Backpacked 3.0.5` (curseforge)
 - [Backpacked: World of Color](https://modrinth.com/project/backpacked-world-of-color) `3.0.3`
@@ -43,8 +43,8 @@
 - [Cirrus](https://modrinth.com/project/cirrus) `1.4.2`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
-- [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.1+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.74-fabric+forge+neo`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.3+1.21.1-neoforge`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.83-fabric+forge+neo`
 - Configured `Configured 2.6.3` (curseforge)
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
@@ -82,7 +82,7 @@
 - [Death Keeper - Grave Stones](https://modrinth.com/project/death-keeper) `1.21.1-1.0b`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
-- [Easy Mob Spawn Control](https://modrinth.com/project/easy-mob-spawn-control) `1.6.3`
+- [Easy Mob Spawn Control](https://modrinth.com/project/easy-mob-spawn-control) `1.6.4`
 - [Easy Shulker Boxes](https://modrinth.com/project/easy-shulker-boxes) `v21.1.3-1.21.1-NeoForge`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
@@ -91,7 +91,7 @@
 - [Etched](https://modrinth.com/project/etched) `5.1.0`
 - [Every Compat (Gems Realm)](https://modrinth.com/project/gems-realm) `1.21`
 - [Every Compat (Stone Zone)](https://modrinth.com/project/stone-zone) `1.21-2.11.21`
-- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.56`
+- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.57`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.2.0`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.2`
@@ -122,7 +122,7 @@
 - [Gravestone x Curios API Compat](https://modrinth.com/project/gravestone-x-curios-api-compat) `3.0.1`
 - [Hallmark](https://modrinth.com/project/hallmark) `1.0.1`
 - [Haunted Harvest](https://modrinth.com/project/haunted-harvest) `1.21-3.5.2`
-- [Hedge's Bestiary](https://modrinth.com/project/hedges-bestiary) `1.1.3`
+- [Hedge's Bestiary](https://modrinth.com/project/hedges-bestiary) `1.1.4`
 - [Hi-Fi](https://modrinth.com/project/hi-fi) `0.1.1`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.13`
 - [illusion](https://modrinth.com/project/illusion) `1.1.2+mc1.21.1`
@@ -130,7 +130,7 @@
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.3.0`
 - [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
-- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.1-19.64`
+- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.2-19.70`
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Keep Equipment](https://modrinth.com/project/keep-equipment-anticode) `1.1.1`
@@ -139,7 +139,7 @@
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- Living Wind `v1.3.7 - [NeoForge 1.21.1]` (curseforge)
+- Living Wind `v1.3.8 - [NeoForge 1.21.1]` (curseforge)
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Loot Journal: Pickup Notifier](https://modrinth.com/project/loot-journal) `6.2.2`
 - [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.2`
@@ -152,11 +152,11 @@
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.8`
 - [MidnightLib](https://modrinth.com/project/midnightlib) `1.10.0+1.21.1-neoforge`
-- [Mini Music Tweaks](https://modrinth.com/project/mini-music-tweaks) `2.0.0+1.21.1-neoforge`
+- [Mini Music Tweaks](https://modrinth.com/project/mini-music-tweaks) `2.1.1+1.21.1-neoforge`
 - [Mino++](https://modrinth.com/project/minopp) `1.4.0+1.21.1+neoforge`
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.2`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
 - MrCrayfish's Furniture Mod: Refurbished `
 MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
@@ -168,9 +168,9 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [No Man's Saplings](https://modrinth.com/project/no-mans-saplings) `1.0`
 - [No Precision Mechanism Junk](https://modrinth.com/project/no-precision-mechanism-junk) `1.1.0-neo+mod`
-- [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.4.3`
+- [Not Enough Recipe Book [NERB]](https://modrinth.com/project/notenoughrecipebook) `0.6+1.21.1`
 - [Obscure Tooltips](https://modrinth.com/project/obscure-tooltips) `4.2.5`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.4+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.5+1.21.1-neoforge`
 - [One Click Join](https://modrinth.com/project/one-click-join) `1.3.1`
 - [One Enough Item](https://modrinth.com/project/one-enough-item) `1.0.8`
 - [One Enough Lib](https://modrinth.com/project/oelib) `0.2.3`
@@ -185,10 +185,10 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Pillager Caravans](https://modrinth.com/project/pillager-caravans) `3.0.1`
 - [Platform](https://modrinth.com/project/platform) `1.4.2`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.6`
 - [Post It!](https://modrinth.com/project/post-it) `1.1.0`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.66`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.5.0+1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Refurbished More Apps](https://modrinth.com/project/refurbished-more-apps) `1.0.1`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.1-1.21.1-neoforge`
@@ -211,7 +211,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Seedy Saplings](https://modrinth.com/project/seedy-saplings) `2.0`
 - [Shadow Drop](https://modrinth.com/project/shadow-drop) `3.0.4+1.21.1-neoforge`
-- [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`
+- [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.3+1.21`
 - [Simple Datapacks](https://modrinth.com/project/simple-datapacks) `2.9.1-neoforge+1.21`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.25`
 - [Simulated Diagram Snapshots](https://modrinth.com/project/simulated-diagram-snapshots) `1.0.3`

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "eiONV3dI",
       "slug": "mini-music-tweaks",
-      "versionId": "qR5bIYKu",
-      "versionNumber": "2.0.0+1.21.1-neoforge",
-      "filename": "music_tweaks-2.0.0+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/eiONV3dI/versions/qR5bIYKu/music_tweaks-2.0.0%2B1.21.1-neoforge.jar",
-      "sha1": "b9e7ced0ef24b9573733d5e232f155abbb337631",
-      "sha512": "23e41ee2ff6f4e3f227fda744c0029299df78ca3412381c996318820e3ed9b03520f00926371c628f19c92e66e9fcb742e46204e7e10bcca30781cea0db32acc",
-      "fileSize": 92700
+      "versionId": "nkSMErSJ",
+      "versionNumber": "2.1.1+1.21.1-neoforge",
+      "filename": "music_tweaks-2.1.1+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eiONV3dI/versions/nkSMErSJ/music_tweaks-2.1.1%2B1.21.1-neoforge.jar",
+      "sha1": "de1bb926437b9bd615be063880c19987658c0550",
+      "sha512": "080d9d2557e3dfb84d4291897dfacb49db80a26b801735494c3a1e509d152262d8b8d29a822a0376acc87a084598058c5b4664a35b49eef96094f8e683f6078c",
+      "fileSize": 93731
     }
   },
   "dependents": [],

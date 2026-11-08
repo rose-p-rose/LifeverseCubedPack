@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pTXV6gwq",
       "slug": "easy-mob-spawn-control",
-      "versionId": "Ljr2mWIg",
-      "versionNumber": "1.6.3",
-      "filename": "easy_mob_spawn_control-1.6.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pTXV6gwq/versions/Ljr2mWIg/easy_mob_spawn_control-1.6.3.jar",
-      "sha1": "bea67c56b45047f7c5689623b89a4e3e513d24f6",
-      "sha512": "09b1633789fc489058ade8d86dda32cf90e69d12bf44246e52f86f7e4003db4345d80817e585602abf8bcad48722f3143bf0d68e4d6525f454523ef68ccacc47",
-      "fileSize": 521227
+      "versionId": "wpA3uDAd",
+      "versionNumber": "1.6.4",
+      "filename": "easy_mob_spawn_control-1.6.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pTXV6gwq/versions/wpA3uDAd/easy_mob_spawn_control-1.6.4.jar",
+      "sha1": "edc18727765b317a1a34607bcac12d0fbee6bc2b",
+      "sha512": "24256a125114b7a9404284c6adb5a606daa7df4013f3b462ff35342126dcd37465fd2ea7ffce8792d35ac4018836fb8e16ba95b3503d0fad9b1f5bbac51fe4c9",
+      "fileSize": 521255
     }
   },
   "dependents": [],

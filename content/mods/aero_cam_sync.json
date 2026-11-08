@@ -2,7 +2,7 @@
   "name": "Aeronautics Camera Sync",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
