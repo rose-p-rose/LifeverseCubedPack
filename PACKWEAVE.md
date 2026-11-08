@@ -88,7 +88,7 @@
 - [Etched](https://modrinth.com/project/etched) `5.1.0`
 - [Every Compat (Gems Realm)](https://modrinth.com/project/gems-realm) `1.21`
 - [Every Compat (Stone Zone)](https://modrinth.com/project/stone-zone) `1.21-2.11.21`
-- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.57`
+- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.56`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.2.0`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.2`
