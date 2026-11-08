@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 236 mods (11 dependencies), 20 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.263**, 227 mods (6 dependencies), 20 resource packs
 
 ## Contents
 
@@ -10,7 +10,6 @@
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.7-neoforge-1.21`
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Abundant Delight](https://modrinth.com/project/abundant-delight) `1.0.0`
-- [Aeronautics Player Tilt](https://modrinth.com/project/aero-player-tilt) `0.3.0`
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
@@ -18,14 +17,13 @@
 - [Amended SVC Icons](https://modrinth.com/project/amendedicons) `v2.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Ancient Remnants: Monoliths](https://modrinth.com/project/ancient-remnants) `1.5.2`
-- Animal  Weights `animalweights-1.21.1-NeoForge-1.2.1.jar` (curseforge)
+- [Animal  Weights](https://www.curseforge.com/projects/1544774) `animalweights-1.21.1-NeoForge-1.2.1.jar`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Armor Quick Swap](https://modrinth.com/project/armor-quick-swap) `v21.1.2-1.21.1-NeoForge`
 - [Artemis' Laboratory Blocks](https://modrinth.com/project/artemis-laboratory-blocks) `1.0-neoforge-mc1.21.1`
-- [Atmospheric Nether](https://modrinth.com/project/atmospheric-nether-mod) `2.0.0`
-- Backpacked `Backpacked 3.0.5` (curseforge)
+- [Backpacked](https://www.curseforge.com/projects/352835) `Backpacked 3.0.5`
 - [Backpacked: World of Color](https://modrinth.com/project/backpacked-world-of-color) `3.0.3`
 - [Better Third Person](https://modrinth.com/project/better-third-person) `1.9.0`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
@@ -36,7 +34,7 @@
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
-- Catalogue `Catalogue 1.11.2` (curseforge)
+- [Catalogue](https://www.curseforge.com/projects/459701) `Catalogue 1.11.2`
 - [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [ChatHeads Figura Support](https://modrinth.com/project/chatheads-figura-support) `1.0.3+1.21.1-NeoForge`
@@ -44,8 +42,8 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.1.3+1.21.1-neoforge`
-- [Collective](https://modrinth.com/project/collective) `1.21.1-8.83-fabric+forge+neo`
-- Configured `Configured 2.6.3` (curseforge)
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.84-fabric+forge+neo`
+- [Configured](https://www.curseforge.com/projects/457570) `Configured 2.6.3`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Gravestones](https://modrinth.com/project/cool-gravestones) `1.0`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
@@ -79,7 +77,6 @@
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Cynosure](https://modrinth.com/project/cynosure) `1.0.3-neoforge`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.18-neoforge`
-- [Death Keeper - Grave Stones](https://modrinth.com/project/death-keeper) `1.21.1-1.0b`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
 - [Easy Mob Spawn Control](https://modrinth.com/project/easy-mob-spawn-control) `1.6.4`
@@ -104,13 +101,12 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Field Guide](https://modrinth.com/project/field-guide) `1.23.0+1.21.1-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
-- [Figurity](https://modrinth.com/project/figurity) `2.0.1+1.21.1`
 - [Flappy Wings](https://modrinth.com/project/flappy-wings) `1.0.1`
 - [Flat Man's Pebbles](https://modrinth.com/project/flat-mans-pebbles) `0.0.1`
 - [Fontolith](https://modrinth.com/project/fontolith) `1.1.2`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
-- Framework `Framework 0.13.11` (curseforge)
+- [Framework](https://www.curseforge.com/projects/549225) `Framework 0.13.11`
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `5.0`
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
@@ -137,9 +133,8 @@
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.3.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
-- [LightSpeedRe](https://modrinth.com/project/lightspeedre) `2.0.5+hotfix.neoforge.1.21.1`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- Living Wind `v1.3.8 - [NeoForge 1.21.1]` (curseforge)
+- [Living Wind](https://www.curseforge.com/projects/1743716) `v1.4.0 - [NeoForge 1.21.1]`
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
 - [Loot Journal: Pickup Notifier](https://modrinth.com/project/loot-journal) `6.2.2`
 - [Mandala's GUI - Compats & Fixes](https://modrinth.com/project/mandalas-gui-compats-fixes) `1.2.2`
@@ -157,8 +152,8 @@
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
-- MrCrayfish's Furniture Mod: Refurbished `
-MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) `
+MrCrayfish's Furniture Mod: Refurbished 1.0.22`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Nature Workshop!](https://modrinth.com/project/nature-workshop) `1.0.1`
 - [Nightosphere](https://modrinth.com/project/nightosphere) `3.2+mod`
@@ -177,10 +172,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Packed Packs](https://modrinth.com/project/packed-packs) `2.3.1+1.21.1`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [PaintersInc](https://modrinth.com/project/paintersinc) `2.0.0`
-- [Particle Core](https://modrinth.com/project/particle-core) `0.3.3+1.21+neoforge`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.2+1.21.1-neoforge`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
-- [Patience](https://modrinth.com/project/patience) `2.2.3`
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Pillager Caravans](https://modrinth.com/project/pillager-caravans) `3.0.1`
 - [Platform](https://modrinth.com/project/platform) `1.4.2`
@@ -197,9 +189,9 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Resourceful Config](https://modrinth.com/project/resourceful-config) `3.0.11`
 - [Respawning Animals](https://modrinth.com/project/respawning-animals) `v21.1.2-1.21.1-NeoForge`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
-- [RPG Dialogue](https://modrinth.com/project/rpg-dialogue) `1.0.14`
+- [RPG Dialogue](https://modrinth.com/project/rpg-dialogue) `1.1.0`
 - [RPG Errands](https://modrinth.com/project/rpg-errands) `1.0.1`
-- RPG Villagers `RPG Villagers 1.2.0 (NeoForge)` (curseforge)
+- [RPG Villagers](https://www.curseforge.com/projects/1636324) `RPG Villagers 1.2.0 (NeoForge)`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.3.0`
 - [Sable Touys](https://modrinth.com/project/touys) `neoforge-1.1.0`
@@ -238,7 +230,6 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22` (curseforge)
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Supplementaries Rope Tweaks](https://modrinth.com/project/supplementaries-ropes-re-done) `2.0`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
-- [SVC HUD Hider](https://modrinth.com/project/svc-hud-hider) `1.0`
 - [Sweety's Archaeology](https://modrinth.com/project/sweety-archaeology) `1.1.0`
 - [Synesthesia: Sound Visualizer](https://modrinth.com/project/synesthesia) `1.0.0`
 - [Tiny Flowers](https://modrinth.com/project/tiny-flowers) `v2.1.0+1.21.1-neoforge`

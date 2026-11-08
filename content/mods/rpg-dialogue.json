@@ -8,17 +8,16 @@
     "modrinth": {
       "id": "whSxUl8e",
       "slug": "rpg-dialogue",
-      "versionId": "9eeHFvAJ",
-      "versionNumber": "1.0.14",
-      "filename": "rpg_dialogue-neoforge-1.21.1-1.0.14.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/whSxUl8e/versions/9eeHFvAJ/rpg_dialogue-neoforge-1.21.1-1.0.14.jar",
-      "sha1": "92bbb6df999aa978bc29cfbbad60b7c274ded797",
-      "sha512": "f7d4ac0e966da204fa9fd0eca2ea847e4d150c2e1bd84cc9d0192f62aab47413d1a29190f39799c3c98164d1c160bd6dc2ed4bbfec3f29d75b14e6e088f64279",
-      "fileSize": 358853
+      "versionId": "Iw3AnZWk",
+      "versionNumber": "1.1.0",
+      "filename": "rpg_dialogue-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/whSxUl8e/versions/Iw3AnZWk/rpg_dialogue-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "78bb638041422249886191acfd724112c6fc195f",
+      "sha512": "81560173d719007f5c9d25b04fbff1abcafd19e1bc19895f6f554e3287aea6b2a467c9c6336c7bfddcfba75c8d8c5e4aa2fa06fec7d1f8e2a8143e589b321f79",
+      "fileSize": 376958
     }
   },
   "dependents": [
-    "1636324",
     "dyCvpPHH"
   ],
   "clientSide": "required",
