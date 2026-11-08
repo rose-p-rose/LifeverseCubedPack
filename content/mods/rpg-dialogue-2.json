@@ -1,0 +1,24 @@
+{
+  "name": "RPG Dialogue",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1636309",
+      "slug": "rpg-dialogue",
+      "versionId": "9506989",
+      "versionNumber": "RPG Dialogue 1.1.0 (NeoForge)",
+      "filename": "rpg_dialogue-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9506/989/rpg_dialogue-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "78bb638041422249886191acfd724112c6fc195f",
+      "fileSize": 376958
+    }
+  },
+  "dependents": [
+    "1636324"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

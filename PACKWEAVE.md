@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · neoforge 21.1.263**, 236 mods (10 dependencies), 20 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.263**, 236 mods (11 dependencies), 20 resource packs
 
 ## Contents
 
@@ -130,7 +130,7 @@
 - [Iron's Arms 'n Artifice](https://modrinth.com/project/irons-artifice) `1.21.1-1.1.1`
 - [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.3.0`
 - [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
-- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.2-19.70`
+- [JEIOptimizer](https://modrinth.com/project/jeioptimizer) `1.2.1-19.64`
 - [Just Enough Effect Descriptions (JEED)](https://modrinth.com/project/just-enough-effect-descriptions-jeed) `1.21-2.3.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.64.0.455`
 - [Keep Equipment](https://modrinth.com/project/keep-equipment-anticode) `1.1.1`

@@ -470,7 +470,7 @@
     },
     {
       "path": "content/mods/jeioptimizer.json",
-      "sha1": "ff269b42c267d5735e39c8f0d1ac74300829dfed"
+      "sha1": "e9b6823ae0b04c2932efd90b5e4fd58c74c61e8f"
     },
     {
       "path": "content/mods/just-enough-effect-descriptions-jeed.json",
@@ -687,6 +687,10 @@
     {
       "path": "content/mods/rightclickharvest.json",
       "sha1": "067aaf7e99271281e6c8c952d268c332e88ab296"
+    },
+    {
+      "path": "content/mods/rpg-dialogue-2.json",
+      "sha1": "ccbfdc2e5ed32850adcd26adf6cfd8b34affeb76"
     },
     {
       "path": "content/mods/rpg-dialogue.json",
