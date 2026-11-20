@@ -75,7 +75,7 @@
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
 - [Crunchy Crunchy Advancements](https://modrinth.com/project/crunchy-crunchy-advancements) `1.7.2+1.21`
 - [Cuffed Ported](https://modrinth.com/project/cuffed-ported) `1.0.2`
-- [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
+- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Cynosure](https://modrinth.com/project/cynosure) `1.0.3-neoforge`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.18-neoforge`
