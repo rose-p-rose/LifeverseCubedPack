@@ -201,12 +201,12 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22`
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Screenshot Viewer](https://modrinth.com/project/screenshot-viewer) `1.21.1-neoforge-1`
-- [Seamless Ores](https://modrinth.com/project/seamless-ores) `6.1.0+neoforge`
+- [Seamless Ores](https://modrinth.com/project/seamless-ores) `5.1.0+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Seedy Saplings](https://modrinth.com/project/seedy-saplings) `2.0`
 - [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.3.2+1.21`
 - [Simple Datapacks](https://modrinth.com/project/simple-datapacks) `2.9.1-neoforge+1.21`
-- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.25`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
 - [Simulated Diagram Snapshots](https://modrinth.com/project/simulated-diagram-snapshots) `1.0.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sneaky Link](https://modrinth.com/project/sneaky-link) `3.0.0`
@@ -229,7 +229,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22`
 - [Structure Layout Optimizer](https://modrinth.com/project/structure-layout-optimizer) `1.0.13+1.21.1-neoforge`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.3`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.4`
 - [Supplementaries Rope Tweaks](https://modrinth.com/project/supplementaries-ropes-re-done) `2.0`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Sweety's Archaeology](https://modrinth.com/project/sweety-archaeology) `1.1.1`

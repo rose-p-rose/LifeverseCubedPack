@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "9eGKb6K1",
       "slug": "simple-voice-chat",
-      "versionId": "KDRDUnk4",
-      "versionNumber": "neoforge-1.21.1-2.6.25",
-      "filename": "voicechat-neoforge-1.21.1-2.6.25.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KDRDUnk4/voicechat-neoforge-1.21.1-2.6.25.jar",
-      "sha1": "8546b80b9bd2352334d4719953fde61b90c26f5f",
-      "sha512": "28c735ea34eacdbdd2d8de79ed784b8877b101801149ff47d03ee8e4b3cf70429c33edf6a35181e4ada596b521e0d0bd1b83f6dd281f5ca84dfcfa61cbbe967a",
-      "fileSize": 4935905
+      "versionId": "iR08ksVF",
+      "versionNumber": "neoforge-1.21.1-2.6.27",
+      "filename": "voicechat-neoforge-1.21.1-2.6.27.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iR08ksVF/voicechat-neoforge-1.21.1-2.6.27.jar",
+      "sha1": "8aded3a22614a8e1641973623e7817dccea513fa",
+      "sha512": "35a9411d71de86071501f6b42088585a1be6e90b03cafe75d89b53e913a5af9d5cdfa40a098d95908af63237577e58f6263ce4f676deec58aca2de0758eba9dd",
+      "fileSize": 4936802
     }
   },
   "dependents": [],

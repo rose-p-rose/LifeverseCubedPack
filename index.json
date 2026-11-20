@@ -734,7 +734,7 @@
     },
     {
       "path": "content/mods/seamless-ores.json",
-      "sha1": "271e93674071747cce3f20f20706f71dca0fa39b"
+      "sha1": "a55fc1a9388fc7f7fa78aaf3d602dce90469ca86"
     },
     {
       "path": "content/mods/searchables.json",
@@ -750,7 +750,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "4685c7d99dc216569c8e3808402989e451e4fcb3"
+      "sha1": "767a92bf8f2886a7e2d9f64e29999e7eeb887abe"
     },
     {
       "path": "content/mods/simulated-diagram-snapshots.json",
@@ -838,7 +838,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "ac74bad6db9d8da727f825b307307289a8b3ee4c"
+      "sha1": "f8da60ead947f9e330e8ed9ff32e121f6c7b7c42"
     },
     {
       "path": "content/mods/surveyor.json",
