@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "rZsQks7N",
       "slug": "exposure-detective",
-      "versionId": "DVKmsGWI",
-      "versionNumber": "1.0.1",
-      "filename": "ExposureDetective-1.21.1-1.0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/rZsQks7N/versions/DVKmsGWI/ExposureDetective-1.21.1-1.0.1.jar",
-      "sha1": "7e35a82a57902571e46aadc64440bfaffd56c435",
-      "sha512": "bda95bac71ff6fa41fa4c9b9f927a6d655e02535f06aae120b6b861fcbede8929ab2866678e6b39c50afb7438699253de5ae20cc0b6698e9bf226ad78b420438",
-      "fileSize": 166950
+      "versionId": "IholaVq6",
+      "versionNumber": "1.1.0",
+      "filename": "Exposure-Detective-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rZsQks7N/versions/IholaVq6/Exposure-Detective-1.1.0.jar",
+      "sha1": "41d3fdb5380aa75e61047c209bdce8136a170551",
+      "sha512": "6d7fb5942d7c077f77cf1db0c33ce75dc30687fde84adc9b89a0735e62374daafe3983a49aba299ff48a3e2c3d190f5caccc06a4a87ca9b3ed048888f1f3e62b",
+      "fileSize": 196638
     }
   },
   "dependents": [],

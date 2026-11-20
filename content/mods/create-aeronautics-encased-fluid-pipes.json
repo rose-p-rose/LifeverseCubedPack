@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "DdAlVT8M",
       "slug": "create-aeronautics-encased-fluid-pipes",
-      "versionId": "pKFEfjEB",
-      "versionNumber": "1.0.7",
-      "filename": "aeroencasedpipe-1.0.7.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/DdAlVT8M/versions/pKFEfjEB/aeroencasedpipe-1.0.7.jar",
-      "sha1": "94012ef7cb564267caa91e29a63d48c32be0b341",
-      "sha512": "d53004c07dc0778e369d8040f0dcba5ccb126f52caf9f0a2dfc4b555856085d44e7242307c4d0e6eda4cfc5bab03f2f17cf69b9781397f634986e7ef7a8bf090",
-      "fileSize": 56483
+      "versionId": "sTW1HNzB",
+      "versionNumber": "1.0.8",
+      "filename": "aeroencasedpipe-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DdAlVT8M/versions/sTW1HNzB/aeroencasedpipe-1.0.8.jar",
+      "sha1": "7a178204c29d79e26bfcf54070b243d6dfb9d54f",
+      "sha512": "e0bdb9468991d6fd6313892476faf39f86482ec3140c4c0e97b7f86a22e80c4bf5bd67d3add7e008a6c8758ca2c163894e4d58148de9f4709599f3050ca0a6ab",
+      "fileSize": 66334
     }
   },
   "dependents": [],

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "bQh7xzFq",
       "slug": "notenoughrecipebook",
-      "versionId": "VtYxePQ0",
-      "versionNumber": "0.6+1.21.1",
-      "filename": "nerb-neoforge-0.6+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/bQh7xzFq/versions/VtYxePQ0/nerb-neoforge-0.6%2B1.21.1.jar",
-      "sha1": "85aa00bbd6e13605d261c9919c710e4dfc597561",
-      "sha512": "11162726ba153c5ad4b92da1bd40caac576024c25ccb5b2ae6657b40f67d45cd9d7c864b77514d3fa03bc09b187b2aefc211584411cf56d1a462d8d8296c442e",
-      "fileSize": 35471
+      "versionId": "JxnUIrYz",
+      "versionNumber": "0.6.2+1.21.1",
+      "filename": "nerb-neoforge-0.6.2+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bQh7xzFq/versions/JxnUIrYz/nerb-neoforge-0.6.2%2B1.21.1.jar",
+      "sha1": "6996908a02219a3d189606eae369060f39d3deda",
+      "sha512": "5a743ecb42bce83e473f85b8765c832e79fb77999f167b651f649cdff8b7849c39647b95cdfcd829ac320c6cf41cfa6fcfc73bbf1a4818280c281b880f5a6f8c",
+      "fileSize": 49982
     }
   },
   "dependents": [],

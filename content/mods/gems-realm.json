@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "v259p1An",
       "slug": "gems-realm",
-      "versionId": "iMuPtOS2",
-      "versionNumber": "1.21",
-      "filename": "gemsrealm-1.21-2.11.5-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/v259p1An/versions/iMuPtOS2/gemsrealm-1.21-2.11.5-neoforge.jar",
-      "sha1": "f4c350854942fcaf5d6ff784800c7d63bd6dc373",
-      "sha512": "44f14bdea5d8bd576508acf02b5da325e1ea678d54ba2f4b389e9f5aadb209ab98001e1f9c24f1ba3f556522381aa6d557f1b406961d6b4c5efcf4be024036b8",
-      "fileSize": 892077
+      "versionId": "5Ky1e3Bh",
+      "versionNumber": "1.21-2.11.7",
+      "filename": "gemsrealm-1.21-2.11.7-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/v259p1An/versions/5Ky1e3Bh/gemsrealm-1.21-2.11.7-neoforge.jar",
+      "sha1": "c44cf70a9fb66bc415bf8f7c9ee644e5198df929",
+      "sha512": "ec99e066167138fe9b12414e0a943d22a1f7934074df7c466aa326b77c679f5595f2c70668cae2c1e700623640a2e76fec47d3008d5e86110686af5f74566a8e",
+      "fileSize": 899337
     }
   },
   "dependents": [],

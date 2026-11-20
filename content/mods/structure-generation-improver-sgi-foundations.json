@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8NXpf3Um",
       "slug": "structure-generation-improver-sgi-foundations",
-      "versionId": "QFntKDEr",
-      "versionNumber": "2.0.1",
-      "filename": "structure_generation_improver-2.0.1-neoforge-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8NXpf3Um/versions/QFntKDEr/structure_generation_improver-2.0.1-neoforge-1.21.1.jar",
-      "sha1": "29cf2a6dc18c9698f9d86ccc4d95b88e4bbc306f",
-      "sha512": "5f04beb3f02e865ffa581c5aae870351b296839666d6c5666c633a9a33104e234d8bb1e9c60c5f2513274f454670656db26cd754f975481d5d72d9ae519592db",
-      "fileSize": 46926
+      "versionId": "V2peAKW5",
+      "versionNumber": "2.1.0",
+      "filename": "structure_generation_improver-2.1.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8NXpf3Um/versions/V2peAKW5/structure_generation_improver-2.1.0-neoforge-1.21.1.jar",
+      "sha1": "d5ccb1054f9e7d4e5f9c680577cdf6cf1ac1e1e1",
+      "sha512": "3e7c452d22baa80b65db099ad53b762b3a3bd758587bbb9aab80984842100a2c0f8442adb357faf692b800cb862e0099aa47d02b477ddd73cdace5478d0c6f51",
+      "fileSize": 126526
     }
   },
   "dependents": [],

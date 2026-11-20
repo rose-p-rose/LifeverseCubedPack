@@ -1,0 +1,23 @@
+{
+  "name": "Cuffed Ported",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NQ1C5Ka9",
+      "slug": "cuffed-ported",
+      "versionId": "WRSqhFzp",
+      "versionNumber": "1.0.2",
+      "filename": "Cuffed-1.21.1-1.0.2-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NQ1C5Ka9/versions/WRSqhFzp/Cuffed-1.21.1-1.0.2-neoforge.jar",
+      "sha1": "3a3dba649be3e2ece4e9f1d870a4147a6670cce0",
+      "sha512": "24fb44ad85bde33e3b2abc1d7f8efd68a946d93a883e416a36d0b8b3ea0a04edcc86ede91e6326807870b3e9b7b443c154bc64b8711e326e4f68c4a57eecd534",
+      "fileSize": 1099729
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

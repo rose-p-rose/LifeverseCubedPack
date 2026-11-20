@@ -1,0 +1,23 @@
+{
+  "name": "Stickers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HodH2ApS",
+      "slug": "stickers",
+      "versionId": "zjPkk2nA",
+      "versionNumber": "2.1.0",
+      "filename": "stickers-2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HodH2ApS/versions/zjPkk2nA/stickers-2.1.0.jar",
+      "sha1": "0e64ff93cb9a16d0f302dffc7116073d012b8d96",
+      "sha512": "28ad10e7d3f782d69e9394a3744fa5a705ff3c64d7d7030e7133e820458c582e76662367b29068dea5181a36bc85263edbd8c5f9fb8ee0eae8c0942ef86b6818",
+      "fileSize": 116097
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

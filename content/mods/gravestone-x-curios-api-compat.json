@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NaiL8bPN",
       "slug": "gravestone-x-curios-api-compat",
-      "versionId": "HwlTVmVu",
-      "versionNumber": "3.0.1",
-      "filename": "gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NaiL8bPN/versions/HwlTVmVu/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar",
-      "sha1": "6af464b8bc270c8d21fca7022051d42b6f736484",
-      "sha512": "61e97e1af9b3439f66c8f79e68f9c8b0feec8ac6bf21f8f2e2d5c888534c4420b96e3067c7937accb42889e3146eadb90ee3a3daae3e89e41441849386805f4c",
-      "fileSize": 14841
+      "versionId": "Z1PzGMtX",
+      "versionNumber": "4.2.1",
+      "filename": "gravestonecurioscompat-1.21.1-NeoForge-4.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NaiL8bPN/versions/Z1PzGMtX/gravestonecurioscompat-1.21.1-NeoForge-4.2.1.jar",
+      "sha1": "51c52fa60bb9cdcd5af05a501d3edceec5168b0a",
+      "sha512": "f28aa5172be644f88c9a2c4ba741a533bced3ca88361c32fc512f4bfea1a545f587e32335f85148b0aa6f064aa830569e36c6cbaacc01a3368a94ba873677ecf",
+      "fileSize": 18644
     }
   },
   "dependents": [],

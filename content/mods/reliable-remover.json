@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "pLxsKvNt",
       "slug": "reliable-remover",
-      "versionId": "wgpBpDHA",
-      "versionNumber": "3.8.4+1.21.1-neoforge",
-      "filename": "reliable_remover-3.8.4+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/pLxsKvNt/versions/wgpBpDHA/reliable_remover-3.8.4%2B1.21.1-neoforge.jar",
-      "sha1": "4835cab04b2123fccd3f9ae357144327db5aabaf",
-      "sha512": "37bfb60917e8abed3cb44291b5e5f79ede99ea72e94d9c8ab55f1a87a0aa76f0415d7bc6880078415250fffd1554f758c9fc7effb8c49e28004a86035abf209a",
-      "fileSize": 197789
+      "versionId": "NbVK8qwA",
+      "versionNumber": "3.9.3+1.21.1-neoforge",
+      "filename": "reliable_remover-3.9.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pLxsKvNt/versions/NbVK8qwA/reliable_remover-3.9.3%2B1.21.1-neoforge.jar",
+      "sha1": "1252cea8f1e14602732264a7751781b8ad9ca5d2",
+      "sha512": "d0f5491e68af9fb523778f6eedb0c41ecc1ffbfc382a6e4330011c64c5fd3a4dff9e02a7e9f436ee04824ee7533af76c0840d3f60ba9cd39795411bdbc56353b",
+      "fileSize": 205412
     }
   },
   "dependents": [],

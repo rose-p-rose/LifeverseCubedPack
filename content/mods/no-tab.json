@@ -1,0 +1,23 @@
+{
+  "name": "No Tab",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4tqbetMf",
+      "slug": "no-tab",
+      "versionId": "SoXPH95e",
+      "versionNumber": "0.0.1",
+      "filename": "notab-0.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4tqbetMf/versions/SoXPH95e/notab-0.0.1.jar",
+      "sha1": "470520bcf38d97e69beb509e17b58d4eb7353baf",
+      "sha512": "6d3fc12f9c6519965dd92f4539a7a09fb3d57f13e1682e5aa17023ca616a7008d270a4fb4cac330c74f36b82c3a59db97884d7942815971e7977afc3f0ba92b1",
+      "fileSize": 4789
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

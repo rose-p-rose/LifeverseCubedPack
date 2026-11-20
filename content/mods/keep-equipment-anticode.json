@@ -1,5 +1,5 @@
 {
-  "name": "Keep Equipment",
+  "name": "anti's Keep Equipment",
   "side": "auto",
   "explicit": true,
   "disabled": false,
@@ -7,14 +7,14 @@
   "sources": {
     "modrinth": {
       "id": "uJWvH5Im",
-      "slug": "keep-equipment-anticode",
-      "versionId": "dorRiOri",
-      "versionNumber": "1.1.1",
-      "filename": "keep_equipment-neoforge-1.21.1-1.1.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/uJWvH5Im/versions/dorRiOri/keep_equipment-neoforge-1.21.1-1.1.1.jar",
-      "sha1": "d9713f62e1691efba6133b520869b4dfc364bbf2",
-      "sha512": "9330fe41ff09d9ca1c5afc2326e8b8bee6b0fb10db15b7b58dd8dc10e7bb3b8ce7d8f1e0254509fff70cf7d033e545bb1d799af2e8ab14259ae06a38e396e996",
-      "fileSize": 16355
+      "slug": "antis-keep-equipment",
+      "versionId": "kVWgx1vQ",
+      "versionNumber": "1.2",
+      "filename": "keep_equipment-neoforge-1.21.1-1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uJWvH5Im/versions/kVWgx1vQ/keep_equipment-neoforge-1.21.1-1.2.jar",
+      "sha1": "15c27d2939da115fc4d4dfd4606488dbdf7d9047",
+      "sha512": "a1da754909983235fb7e53d0a75529b093a710c0ac4939a133c83604cb0eae3d81af1fbf68f17d2f7a643dc4cc4e15d473cdec9f0bffb20af49d2d64dd0ff37b",
+      "fileSize": 16562
     }
   },
   "dependents": [],

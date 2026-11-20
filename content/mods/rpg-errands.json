@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "dyCvpPHH",
       "slug": "rpg-errands",
-      "versionId": "9bQF41lD",
-      "versionNumber": "1.0.1",
-      "filename": "rpg_errands-neoforge-1.21.1-1.0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/dyCvpPHH/versions/9bQF41lD/rpg_errands-neoforge-1.21.1-1.0.1.jar",
-      "sha1": "269e6f3b0dd61e9d51d39cbfc35e28d7d0665a3e",
-      "sha512": "4489d4f9af4ec3685e7bfd56e54e10ea910a6eba040f425da27c6356f9042d08b87ba215bd7d36e5f01e29570c3bae77ef1826fb0f1fce45fd07953ecae6b2b5",
-      "fileSize": 113447
+      "versionId": "bYTTYDDO",
+      "versionNumber": "1.0.2",
+      "filename": "rpg_errands-neoforge-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dyCvpPHH/versions/bYTTYDDO/rpg_errands-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "af5254da245f19fbe63e7ad3a648836825158f32",
+      "sha512": "0812d84a5238c3633e528b4400aa64956ddcd1d44f460aff2f82ad1e3fc1cd4a1155ebedad057361c934c08c1d3ca460586b2acfd3759ae74f2742847021978a",
+      "fileSize": 113377
     }
   },
   "dependents": [],
