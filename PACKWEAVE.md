@@ -1,6 +1,6 @@
 # LifeVerse Cubed
 
-**Minecraft 1.21.1 · NeoForge 21.1.263**, 229 mods (6 dependencies), 20 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 229 mods (6 dependencies), 20 resource packs
 
 ## Contents
 
@@ -182,7 +182,7 @@ MrCrayfish's Furniture Mod: Refurbished 1.0.22`
 - [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.8`
 - [Post It!](https://modrinth.com/project/post-it) `1.1.0`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.66`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.6.0+1.21.1-neoforge`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.5.2+1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Refurbished More Apps](https://modrinth.com/project/refurbished-more-apps) `1.0.1`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
