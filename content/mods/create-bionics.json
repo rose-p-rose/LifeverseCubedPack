@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "lCwu0vBo",
       "slug": "create-bionics",
-      "versionId": "ON4xQo2O",
-      "versionNumber": "2.5.2",
-      "filename": "createbionics-2.5.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/lCwu0vBo/versions/ON4xQo2O/createbionics-2.5.2.jar",
-      "sha1": "7ed1fe871c165ea7d9a08a29ffc8dfcca1c6a22a",
-      "sha512": "c2965d9a00a2384705b39d7507aee8917bccfcf20d25315a9ca6c3d8282c5101440ca76af9fd9a79a7e5c656cd665e29ce167d0b630aa2c89396231325d0c8b6",
-      "fileSize": 5133414
+      "versionId": "mOBzxRXc",
+      "versionNumber": "2.5.1",
+      "filename": "createbionics-2.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lCwu0vBo/versions/mOBzxRXc/createbionics-2.5.1.jar",
+      "sha1": "d9278b2ec0bcea7374331011f03641df51e1dca7",
+      "sha512": "102bb21180b49174c0037bf0f2d302e3b160b933d571cb7569b1a6aa713925aa3fc4b1c03069731230d46abdc36eaee9bbce828e0d3153693b593e623fc926a6",
+      "fileSize": 5889727
     }
   },
   "dependents": [],
