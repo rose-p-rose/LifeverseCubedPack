@@ -60,7 +60,7 @@
 - [Create: Aeroworks](https://modrinth.com/project/create-aeroworks) `1.5.0+mc1.21.1`
 - [Create: Alerted](https://modrinth.com/project/create-alerted) `0.2.2`
 - [Create: Backtank Trims & Dyes](https://modrinth.com/project/create-backtank-trims) `1.2.1`
-- [Create: Bionics](https://modrinth.com/project/create-bionics) `2.5.1`
+- [Create: Bionics](https://modrinth.com/project/create-bionics) `2.5.0`
 - [Create: Blocks & Bogies](https://modrinth.com/project/blocks-bogies) `1.0.8-1.21.1`
 - [Create: Estrogen](https://modrinth.com/project/create-estrogen) `2.0.0+1.21.1-neoforge`
 - [Create: Horse DECIMATION](https://modrinth.com/project/create-horse-decimation) `1.1.2`
