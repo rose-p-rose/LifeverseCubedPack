@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "uYwn8IP5",
       "slug": "stone-zone",
-      "versionId": "EEK4PRlc",
-      "versionNumber": "1.21-2.11.22",
-      "filename": "stonezone-1.21-2.11.22-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/uYwn8IP5/versions/EEK4PRlc/stonezone-1.21-2.11.22-neoforge.jar",
-      "sha1": "6ff7e07565f3253462393a29193e111da9e165d4",
-      "sha512": "2c887997fbc584eb1f031fb194d27e4769a310cae6ec9da0729bc6b6fb556083d9410e97ca3a6a48cc17bf5cbfcecce4d043506eb3d820ff400e7f4e6b257107",
-      "fileSize": 845008
+      "versionId": "Z78XWAnP",
+      "versionNumber": "1.21-2.11.23",
+      "filename": "stonezone-1.21-2.11.23-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uYwn8IP5/versions/Z78XWAnP/stonezone-1.21-2.11.23-neoforge.jar",
+      "sha1": "7367ee0bc2a77065610e7ce2a9aa21348e6b5d14",
+      "sha512": "6e28673e9251cc8c086ba88ccd3281d8aabf59ac7dd66871b09d9a46c51e05233ba377cf16efbdd5e05a48ed2e5e4c57bfc96926097c1dd04fc17ab0b523bdac",
+      "fileSize": 845506
     }
   },
   "dependents": [],

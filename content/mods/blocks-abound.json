@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "iIQCWW5p",
       "slug": "blocks-abound",
-      "versionId": "g6VGqj7y",
-      "versionNumber": "0.4.0",
-      "filename": "blocksabound-0.4.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/iIQCWW5p/versions/g6VGqj7y/blocksabound-0.4.0.jar",
-      "sha1": "146d526981664aced0ac4df2e7c2ce34d9e0c9bd",
-      "sha512": "eeac6d6f94e4c318d36ac4e4f5d7cf16bd4e1038b74bc8b99d50929e0105080da26f65c58019bf44ca1e23094418c5989ac7a963890fa79e71573e234565e5be",
-      "fileSize": 695257
+      "versionId": "7ZPMgcZD",
+      "versionNumber": "0.5.1",
+      "filename": "blocksabound-0.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iIQCWW5p/versions/7ZPMgcZD/blocksabound-0.5.1.jar",
+      "sha1": "83632c71429273c99cd1976363feb471c823b566",
+      "sha512": "3179c6b0ba48c9804994a59570064d6ab71f697203811bc66a0e5088341260dab1558ca61a1a93c47510dd5abfc2cb51fff8698a63753c5740bb576e4b12cd91",
+      "fileSize": 759308
     }
   },
   "dependents": [],

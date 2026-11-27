@@ -45,7 +45,7 @@
 	#String to use next to the typing player(s) name
 	screenTypingText = " is typing"
 	#Plays a sound when a player opens some Guis
-	playScreenOpenSounds = true
+	playScreenOpenSounds = false
 	#Plays a sutble sound when a player clicks their mouse in a Gui
 	playMouseClickSounds = true
 	#SETTING THESE CLIENT SIDE SETTINGS TO FALSE WILL OVERRIDE ANY OF THE SAME SERVER SETTINGS THAT ARE SET TO TRUE (for your client only).

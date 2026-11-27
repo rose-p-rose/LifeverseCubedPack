@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
+      "sha1": "c737b862357426c9e414c255b8bf3079acdfa384"
     },
     {
       "path": "content/mods/ancient-remnants.json",
@@ -90,7 +90,7 @@
     },
     {
       "path": "content/mods/blocks-abound.json",
-      "sha1": "a535b433ff4bee6a86620ec355681a89f39a5c83"
+      "sha1": "051aaeba0e64c6445426b2cf12f9c56a2fa89646"
     },
     {
       "path": "content/mods/blocks-bogies.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "aa080675e6dc17cf40e3e9a463ff1957218a5503"
+      "sha1": "70b53fdb4c84fadd8eca726852ec66a2951a0987"
     },
     {
       "path": "content/mods/configured.json",
@@ -182,11 +182,11 @@
     },
     {
       "path": "content/mods/create-aeronautics-x-curios-api-compat.json",
-      "sha1": "298628b2c6fd8be915e3459ed759ef95a660f893"
+      "sha1": "7bb9536a740b10da551565edae9e2ee8162cee50"
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "acdf6c23f3f3fe11bd4b5297fd6f03ce90ef1f0c"
+      "sha1": "ad50625b062826909c5015355d70cc167e4732c7"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -250,7 +250,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "81349361a98c44652eea73968b65a3776dab7780"
+      "sha1": "dc89f9db9ac49f59f4ac82b322568355da1534a6"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -270,7 +270,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "bda74b3fcbc5c9e2c7c4002998605c6e76f06c26"
+      "sha1": "d1a1c3417e66c259f5388b6cf66de63b9f0e7b13"
     },
     {
       "path": "content/mods/cut-through.json",
@@ -294,7 +294,7 @@
     },
     {
       "path": "content/mods/easy-mob-spawn-control.json",
-      "sha1": "dcf8071dbc8abee0b805698ce431fd628e80bed7"
+      "sha1": "c2f7a83842766d0a712aadfc0fdc0a4a30f9b1e3"
     },
     {
       "path": "content/mods/easy-shulker-boxes.json",
@@ -330,7 +330,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "73e490048e04033318e2af741f2a0b2a4e5f3588"
+      "sha1": "d1b001f784d92c4c20847cec4c8e578f78ebd6de"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -362,7 +362,7 @@
     },
     {
       "path": "content/mods/field-guide.json",
-      "sha1": "40f84a43adef470731440c62b1560830ca0dd07b"
+      "sha1": "63a3ec5d4b41217a5fb9e7b55c51021e23bd0949"
     },
     {
       "path": "content/mods/figura.json",
@@ -398,7 +398,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "b1bfacf71be273c183c551e20835f81de6bff6e7"
+      "sha1": "033fbc2f1fa52b5a8acd9aecc37647537aa54585"
     },
     {
       "path": "content/mods/gems-realm.json",
@@ -450,7 +450,7 @@
     },
     {
       "path": "content/mods/immersive-paintings.json",
-      "sha1": "f57e6d7638cef6d40dfa39aea56ab38a804dfc76"
+      "sha1": "7b083fdf4a521f84ac4b0cfcf1fd53edd604853e"
     },
     {
       "path": "content/mods/irons-artifice.json",
@@ -510,7 +510,7 @@
     },
     {
       "path": "content/mods/living-wind.json",
-      "sha1": "ccd01ee27b621e5cbe6814135d577610b25dec6d"
+      "sha1": "229bb296bc607e97a326c5e7b61663737620cfbe"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -554,7 +554,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "4970da0a67bb3f276c53a457a86f993a9a284c35"
+      "sha1": "d64af234d8f1ac1e658a55865c94d58faa71d946"
     },
     {
       "path": "content/mods/mru.json",
@@ -602,7 +602,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "c79e5aaac7a29b6635306f43bd3977b59364daeb"
+      "sha1": "d15c8144e43fa11e6bae20665dd9b809aa0f168b"
     },
     {
       "path": "content/mods/one-click-join.json",
@@ -646,7 +646,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "0eaefb04c68e5951bd4a57c6894665429f5dac5f"
+      "sha1": "78b9ead6b321bdc52fdf4b68a5c85eed39b4ef1c"
     },
     {
       "path": "content/mods/post-it.json",
@@ -658,11 +658,11 @@
     },
     {
       "path": "content/mods/reconnectible-chains.json",
-      "sha1": "43b6c3b27068e70da3169106f78c3c123c412a20"
+      "sha1": "88c80bd78625870b87433d8cb2a2dd369744e7df"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
-      "sha1": "8f05e305fc7272223d0f8c5cd955f4bc099bb215"
+      "sha1": "3c991c53ab7d0391e5c5faae2c59c4c6c23ef155"
     },
     {
       "path": "content/mods/refurbished-furniture.json",
@@ -682,7 +682,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "5940b7dde4f7d7a00458ac988d934ff4596d2cb3"
+      "sha1": "73b230de68e3ff47bb867b2130632a33ee3b2b70"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -694,7 +694,7 @@
     },
     {
       "path": "content/mods/rightclickharvest.json",
-      "sha1": "0660bc3aa8813dfc39b8b9bf9fac14d08b97d9c6"
+      "sha1": "01821bfff4fa8014b8fc1c994e80856adf60721f"
     },
     {
       "path": "content/mods/rpg-dialogue.json",
@@ -722,7 +722,7 @@
     },
     {
       "path": "content/mods/scholar.json",
-      "sha1": "b7362aed58022ab91f0e1a51ac0b1fc74096427f"
+      "sha1": "d2fa729c5fd38511eb4c0e95825141f581dab30a"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -734,7 +734,7 @@
     },
     {
       "path": "content/mods/seamless-ores.json",
-      "sha1": "a55fc1a9388fc7f7fa78aaf3d602dce90469ca86"
+      "sha1": "fedacf48a05e2d6521136eb889cf1b919d3e4543"
     },
     {
       "path": "content/mods/searchables.json",
@@ -742,7 +742,7 @@
     },
     {
       "path": "content/mods/shatterbyte-lib.json",
-      "sha1": "e5406fcdb9768b66187aeda2830c2a9e025bd6b9"
+      "sha1": "d4b7896aac6571dea43e3a69d08c1be876a57e6c"
     },
     {
       "path": "content/mods/simple-datapacks.json",
@@ -759,6 +759,10 @@
     {
       "path": "content/mods/sneaky-link.json",
       "sha1": "8b60ac672d340f036741d6364159b65276ba7253"
+    },
+    {
+      "path": "content/mods/snowy-spirit.json",
+      "sha1": "2e336230197f041f20846d3a964cb5c4b3876555"
     },
     {
       "path": "content/mods/sodium-dynamic-lights.json",
@@ -818,7 +822,7 @@
     },
     {
       "path": "content/mods/stone-zone.json",
-      "sha1": "6ce10fe2af542eeb6aa79ee990cf40c583d5035a"
+      "sha1": "1806446c94c217a0890d476473e27ed8093af5f5"
     },
     {
       "path": "content/mods/structure-generation-improver-sgi-foundations.json",
@@ -2590,7 +2594,7 @@
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "91c8b271e88fc6d46992f2386ddb7b68366dd122"
+      "sha1": "4b9bc9cb6194d6defc23822fa0d047ef3706c9c6"
     },
     {
       "path": "overrides/config/watut-common.toml",

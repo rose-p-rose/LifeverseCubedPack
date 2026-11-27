@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "eiktJyw1",
       "slug": "every-compat",
-      "versionId": "BCNgVdRE",
-      "versionNumber": "1.21-2.11.59",
-      "filename": "everycomp-1.21-2.11.59-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/eiktJyw1/versions/BCNgVdRE/everycomp-1.21-2.11.59-neoforge.jar",
-      "sha1": "44798e255827773703342b1ecaf13ae4c81e06b7",
-      "sha512": "afd2e58033398596e6f90fa570e9a17c59f8bb07fb037d1578056bf46b5d2b485700c734b93e1084adbf289871ea662942e62cf78552381d32a7f78f6a1d75a2",
-      "fileSize": 2635956
+      "versionId": "qDWWyDgb",
+      "versionNumber": "1.21-2.11.62",
+      "filename": "everycomp-1.21-2.11.62-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eiktJyw1/versions/qDWWyDgb/everycomp-1.21-2.11.62-neoforge.jar",
+      "sha1": "628ce9187990f9c51c9239c2816b272807b7ee34",
+      "sha512": "b7d41f7818d10a7e233a96ef5ef4e48a11becec649670d412cade15b6d7e89782136f84794de6fef03bcfa57b652da959e28ffce57d6358709bb6d4deaf04b45",
+      "fileSize": 2455951
     }
   },
   "dependents": [
